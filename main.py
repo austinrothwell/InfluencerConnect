@@ -51,7 +51,6 @@ for image in range(0, n_images):
         # Write image contents to user JSON file
         metadata[image]['image_contents'] = [s.split(' (')[0] for s in str(out)[2:-3].split('\\n')]
         metadata[image]['image_scores'] = [float(re.findall("\d+\.\d+", s)[0]) for s in str(out)[2:-3].split('\\n')]
-
         json.dump(metadata, open(images_directory + username + '.json', 'w'),
                   sort_keys=True, indent=4, separators=(',', ': '))
 
