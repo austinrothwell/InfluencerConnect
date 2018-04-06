@@ -1,0 +1,4195 @@
+[
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1119,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/86c144462057330b21deb4933498d9cc/5B61ED52/t51.2885-15/e35/29714854_430565060714918_5290458986280124416_n.jpg",
+        "edge_media_preview_like": {
+            "count": 4334
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "All packed up and ready to go - happy Friday! \ud83d\udcf8 @sashaswashut \n#dogsthathike #futuredogthathikes #puppydogeyes #labsofinsta #labstagram"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 61
+        },
+        "id": "1751576732132830004",
+        "image_contents": [
+            "Chesapeake Bay retriever",
+            "curly-coated retriever",
+            "Labrador retriever",
+            "German short-haired pointer",
+            "Irish water spaniel"
+        ],
+        "image_scores": [
+            0.3265,
+            0.205,
+            0.13487,
+            0.01294,
+            0.00923
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BhO2cHznes0",
+        "tags": [
+            "dogsthathike",
+            "labstagram",
+            "puppydogeyes",
+            "labsofinsta",
+            "futuredogthathikes"
+        ],
+        "taken_at_timestamp": 1523024239,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a863b24a35b55f2c6954524e1c212b77/5B5101F7/t51.2885-15/s150x150/e35/c0.19.1080.1080/29714854_430565060714918_5290458986280124416_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/47da04bec908a4d44efa4ca3c0eda13d/5B74B261/t51.2885-15/s240x240/e35/c0.19.1080.1080/29714854_430565060714918_5290458986280124416_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7dc926d1f1c7067a2dbf298e455941a1/5B746967/t51.2885-15/s320x320/e35/c0.19.1080.1080/29714854_430565060714918_5290458986280124416_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e19f873424076d1715ed9207a83ec90e/5B6420D4/t51.2885-15/s480x480/e35/c0.19.1080.1080/29714854_430565060714918_5290458986280124416_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4a12e5f4fd8ddc91b8f852601ac93c18/5B66CE63/t51.2885-15/s640x640/sh0.08/e35/c0.19.1080.1080/29714854_430565060714918_5290458986280124416_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/4a12e5f4fd8ddc91b8f852601ac93c18/5B66CE63/t51.2885-15/s640x640/sh0.08/e35/c0.19.1080.1080/29714854_430565060714918_5290458986280124416_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/86c144462057330b21deb4933498d9cc/5B61ED52/t51.2885-15/e35/29714854_430565060714918_5290458986280124416_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/0e7d3f909736c7b01aa2efebc274f03e/5B678CF1/t51.2885-15/e35/30086979_2126656527567006_6465508420094001152_n.jpg",
+        "edge_media_preview_like": {
+            "count": 9438
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Caption this \ud83d\uddef \ud83d\udcf8 @thecolliebrothers \n#dogsthathike #wetdog #wetdogwednesday #thoseeyestho"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 119
+        },
+        "id": "1750270468522073805",
+        "image_contents": [
+            "Border collie",
+            "collie",
+            "English springer, English springer spaniel",
+            "Appenzeller",
+            "kelpie"
+        ],
+        "image_scores": [
+            0.78188,
+            0.17463,
+            0.0029,
+            0.00177,
+            0.00104
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BhKNbfBHV7N",
+        "tags": [
+            "dogsthathike",
+            "thoseeyestho",
+            "wetdog",
+            "wetdogwednesday"
+        ],
+        "taken_at_timestamp": 1522868520,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e01a156ab372e9407ec15cb11667a471/5B649E56/t51.2885-15/s150x150/e35/c0.135.1080.1080/30086979_2126656527567006_6465508420094001152_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/14589b4d51108ca80bb59cb56bdcf00f/5B6885A6/t51.2885-15/s240x240/e35/c0.135.1080.1080/30086979_2126656527567006_6465508420094001152_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/56b14c5ca88208168137b9f547ca8339/5B5D66A7/t51.2885-15/s320x320/e35/c0.135.1080.1080/30086979_2126656527567006_6465508420094001152_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/1c45e29ece68d3b11dd422b2b323983b/5B4FA48A/t51.2885-15/s480x480/e35/c0.135.1080.1080/30086979_2126656527567006_6465508420094001152_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/880ee0cfa1f257dfcf4c392ff67879f4/5B5885F2/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/30086979_2126656527567006_6465508420094001152_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/880ee0cfa1f257dfcf4c392ff67879f4/5B5885F2/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/30086979_2126656527567006_6465508420094001152_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/0e7d3f909736c7b01aa2efebc274f03e/5B678CF1/t51.2885-15/e35/30086979_2126656527567006_6465508420094001152_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1349,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/4ada6863b9f53855f5dabd6378e86d1b/5B55E9F7/t51.2885-15/e35/29738919_2143156642582233_2621646250772004864_n.jpg",
+        "edge_media_preview_like": {
+            "count": 6872
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "How we feel about work after an extra long weekend \ud83d\ude29 \ud83d\udcf8 @marley.the.german.shepherd via @wilderdog \n#dogsthathike #mondayvibes #onatuesday #puppydogeyes #boop #snowdog"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 65
+        },
+        "id": "1749386442986940269",
+        "image_contents": [
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "malinois",
+            "Great Dane",
+            "groenendael",
+            "bulletproof vest"
+        ],
+        "image_scores": [
+            0.8393,
+            0.04157,
+            0.00265,
+            0.00149,
+            0.00147
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BhHEbOFHudt",
+        "tags": [
+            "snowdog",
+            "dogsthathike",
+            "puppydogeyes",
+            "onatuesday",
+            "boop",
+            "mondayvibes"
+        ],
+        "taken_at_timestamp": 1522763136,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3a43022653478ed06d4ed55eedb7b07e/5B542B8C/t51.2885-15/s150x150/e35/c0.134.1080.1080/29738919_2143156642582233_2621646250772004864_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/35a9b702d5264ae393de29c12fbd80d5/5B6BB97C/t51.2885-15/s240x240/e35/c0.134.1080.1080/29738919_2143156642582233_2621646250772004864_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8fa0a16ffcafa152c0a29c21af85fa7b/5B52117D/t51.2885-15/s320x320/e35/c0.134.1080.1080/29738919_2143156642582233_2621646250772004864_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/1d1f164e24450c19e3cbec8879afbda7/5B636A50/t51.2885-15/s480x480/e35/c0.134.1080.1080/29738919_2143156642582233_2621646250772004864_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ad19ac2b1a849230d5025b0ea9977362/5B65A328/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/29738919_2143156642582233_2621646250772004864_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/ad19ac2b1a849230d5025b0ea9977362/5B65A328/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/29738919_2143156642582233_2621646250772004864_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/4ada6863b9f53855f5dabd6378e86d1b/5B55E9F7/t51.2885-15/e35/29738919_2143156642582233_2621646250772004864_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1305,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/d48793de7a2fd8a0545573f89776c5e8/5B5291D3/t51.2885-15/e35/29416096_218578678697808_6994958238491869184_n.jpg",
+        "edge_media_preview_like": {
+            "count": 8403
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Ahh that new boot feeling \ud83d\ude01\ud83d\udc81\u200d\u2640\ufe0f \ud83d\udcf8 @caitie_and_bailey via @ultrapaws \nWe're testing boots this spring and need your help! Does your pup wear boots or have you been wanting to try some? Do they have big paws? You might be the right fit! If you're interested in testing boots for us leave a comment below with your pups paw width and your location.\n\nSearch closes Friday March 30th at 9:00pm PST. Chosen tester will be contacted after the search closes.\n\n#dogsthathike #dogboots #happydoggy #happydoghappylife"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 114
+        },
+        "id": "1745029596914182787",
+        "image_contents": [
+            "golden retriever",
+            "Labrador retriever",
+            "flat-coated retriever",
+            "Pembroke, Pembroke Welsh corgi",
+            "tennis ball"
+        ],
+        "image_scores": [
+            0.81707,
+            0.07935,
+            0.00358,
+            0.00331,
+            0.00223
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Bg3lyw-nOqD",
+        "tags": [
+            "dogsthathike",
+            "dogboots",
+            "happydoggy",
+            "happydoghappylife"
+        ],
+        "taken_at_timestamp": 1522243760,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/665f1c212e6c3c40e518bbe79e01ef22/5B637885/t51.2885-15/s150x150/e35/c0.112.1080.1080/29416096_218578678697808_6994958238491869184_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/950c1bb6af80fdb9a07b24809e07386b/5B698CEE/t51.2885-15/s240x240/e35/c0.112.1080.1080/29416096_218578678697808_6994958238491869184_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b69457a9fdb686ecf50a1e8f9b3b7b5b/5B5F1026/t51.2885-15/s320x320/e35/c0.112.1080.1080/29416096_218578678697808_6994958238491869184_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f46a3329dc2c46767df484a123d2e874/5B61E4CC/t51.2885-15/s480x480/e35/c0.112.1080.1080/29416096_218578678697808_6994958238491869184_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/971e2369610e8236280519fdd7d32fe5/5B55CF6B/t51.2885-15/s640x640/sh0.08/e35/c0.112.1080.1080/29416096_218578678697808_6994958238491869184_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/971e2369610e8236280519fdd7d32fe5/5B55CF6B/t51.2885-15/s640x640/sh0.08/e35/c0.112.1080.1080/29416096_218578678697808_6994958238491869184_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/d48793de7a2fd8a0545573f89776c5e8/5B5291D3/t51.2885-15/e35/29416096_218578678697808_6994958238491869184_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/a562fa9d68b9bac5732d7b0316004f7e/5B6214E9/t51.2885-15/e35/29403448_166368580842910_5355780044373360640_n.jpg",
+        "edge_media_preview_like": {
+            "count": 7945
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Go on, boop it - I dare ya \ud83d\ude2c \ud83d\udcf8 @lennywiththeshoe \n#dogsthathike #boop #thoseeyestho #snowdog"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 29
+        },
+        "id": "1744306755830961499",
+        "image_contents": [
+            "collie",
+            "groenendael",
+            "Border collie",
+            "kelpie",
+            "flat-coated retriever"
+        ],
+        "image_scores": [
+            0.28509,
+            0.08923,
+            0.05996,
+            0.03028,
+            0.02576
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Bg1BcCwnlVb",
+        "tags": [
+            "dogsthathike",
+            "boop",
+            "thoseeyestho",
+            "snowdog"
+        ],
+        "taken_at_timestamp": 1522157590,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/aeea6203ed3ee92a701fd64b9aa4c8cb/5B5485D5/t51.2885-15/s150x150/e35/c0.135.1080.1080/29403448_166368580842910_5355780044373360640_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/51920a90b3a6d7420a66a0d5c8180973/5B7151BE/t51.2885-15/s240x240/e35/c0.135.1080.1080/29403448_166368580842910_5355780044373360640_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/bbd3cd71221e778f7a5e7f84b72b0755/5B538E76/t51.2885-15/s320x320/e35/c0.135.1080.1080/29403448_166368580842910_5355780044373360640_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b7c0302b4abca95bcae48a4d504bd186/5B66079C/t51.2885-15/s480x480/e35/c0.135.1080.1080/29403448_166368580842910_5355780044373360640_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/99c1397b7326fe0ef4a9824734d96d69/5B5A0A3B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29403448_166368580842910_5355780044373360640_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/99c1397b7326fe0ef4a9824734d96d69/5B5A0A3B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29403448_166368580842910_5355780044373360640_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/a562fa9d68b9bac5732d7b0316004f7e/5B6214E9/t51.2885-15/e35/29403448_166368580842910_5355780044373360640_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/452e95af31300e61c725b83b41106219/5B5B5B92/t51.2885-15/e35/29089846_361515194349306_1710170859605327872_n.jpg",
+        "edge_media_preview_like": {
+            "count": 12319
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "A little dose of puppy to make your Monday better. \ud83d\udcf8 @im_gonna_be_frank \n#dogsthathike #puppydog #huskypup #thatfacetho"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 143
+        },
+        "id": "1743582107371746023",
+        "image_contents": [
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "Norwegian elkhound, elkhound",
+            "kelpie",
+            "malinois",
+            "dingo, warrigal, warragal, Canis dingo"
+        ],
+        "image_scores": [
+            0.23111,
+            0.11616,
+            0.10128,
+            0.09661,
+            0.06548
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BgycrBSnrLn",
+        "tags": [
+            "dogsthathike",
+            "puppydog",
+            "huskypup",
+            "thatfacetho"
+        ],
+        "taken_at_timestamp": 1522071206,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0c3dd9a664cefc926c87354524c4deb2/5B6917F7/t51.2885-15/s150x150/e35/29089846_361515194349306_1710170859605327872_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/951bc0e9f91b5702d50f01522c268dda/5B70ACC8/t51.2885-15/s240x240/e35/29089846_361515194349306_1710170859605327872_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e7a3b140d6d32039b79a53eece530005/5B56CEB0/t51.2885-15/s320x320/e35/29089846_361515194349306_1710170859605327872_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e3ffc3bde124e092345f79df7682a454/5B656836/t51.2885-15/s480x480/e35/29089846_361515194349306_1710170859605327872_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/da5794b8d396240338a2a23f2d3ed52d/5B694CF3/t51.2885-15/s640x640/sh0.08/e35/29089846_361515194349306_1710170859605327872_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/da5794b8d396240338a2a23f2d3ed52d/5B694CF3/t51.2885-15/s640x640/sh0.08/e35/29089846_361515194349306_1710170859605327872_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/452e95af31300e61c725b83b41106219/5B5B5B92/t51.2885-15/e35/29089846_361515194349306_1710170859605327872_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/472edf8125fd0ef34276516ea3386e59/5B507175/t51.2885-15/e35/28765804_805212623004476_1892474375731412992_n.jpg",
+        "edge_media_preview_like": {
+            "count": 6557
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Snowy face \ud83d\ude0d \ud83d\udcf8 and caption @anne.geier.fotografie \n#dogsthathike #snowdog #friyay #thoseeyestho"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 44
+        },
+        "id": "1741377263202307551",
+        "image_contents": [
+            "Border collie",
+            "kelpie",
+            "Chesapeake Bay retriever",
+            "flat-coated retriever",
+            "Labrador retriever"
+        ],
+        "image_scores": [
+            0.30479,
+            0.12891,
+            0.10975,
+            0.0883,
+            0.07121
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BgqnWUJHY3f",
+        "tags": [
+            "dogsthathike",
+            "snowdog",
+            "friyay",
+            "thoseeyestho"
+        ],
+        "taken_at_timestamp": 1521808368,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/32e3268ad80aeed9859706cce53a1f6f/5B579010/t51.2885-15/s150x150/e35/28765804_805212623004476_1892474375731412992_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b57885ce1ee762442bcc4ebeb438d780/5B6D7E2F/t51.2885-15/s240x240/e35/28765804_805212623004476_1892474375731412992_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6dd14a137b6049eada1fb4398ad5e23d/5B550257/t51.2885-15/s320x320/e35/28765804_805212623004476_1892474375731412992_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/180dfa867467931c5578f7a271625348/5B5B33D1/t51.2885-15/s480x480/e35/28765804_805212623004476_1892474375731412992_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c6b002e583724b8019f335f08d314d92/5B575B14/t51.2885-15/s640x640/sh0.08/e35/28765804_805212623004476_1892474375731412992_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/c6b002e583724b8019f335f08d314d92/5B575B14/t51.2885-15/s640x640/sh0.08/e35/28765804_805212623004476_1892474375731412992_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/472edf8125fd0ef34276516ea3386e59/5B507175/t51.2885-15/e35/28765804_805212623004476_1892474375731412992_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/ea242b18b5f18020feaf5b9153b24dd1/5B5D73C8/t51.2885-15/e35/29417338_1985347611781807_1094080422586875904_n.jpg",
+        "edge_media_preview_like": {
+            "count": 7932
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Happy tongue out Tuesday on the official first day of spring! \nDoes it look like spring for you or are you still very much in winter? \ud83d\udcf8 @kristynakvapilovaphotography \n#dogsthathike #tongueouttuesday #firstdayofspring"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 54
+        },
+        "id": "1739245857395221636",
+        "image_contents": [
+            "Bernese mountain dog",
+            "Appenzeller",
+            "EntleBucher",
+            "Border collie",
+            "Greater Swiss Mountain dog"
+        ],
+        "image_scores": [
+            0.77147,
+            0.09531,
+            0.02619,
+            0.02091,
+            0.00916
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BgjCuRzHKSE",
+        "tags": [
+            "dogsthathike",
+            "firstdayofspring",
+            "tongueouttuesday"
+        ],
+        "taken_at_timestamp": 1521554284,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0163344ab5fe685ed88ad727b9f58528/5B566723/t51.2885-15/s150x150/e35/c165.0.750.750/29417338_1985347611781807_1094080422586875904_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c8d991d43d332bff8ce198577195fea4/5B6253B5/t51.2885-15/s240x240/e35/c165.0.750.750/29417338_1985347611781807_1094080422586875904_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f6a6466c50e6a49b25e1a874ce6a9200/5B7512B3/t51.2885-15/s320x320/e35/c165.0.750.750/29417338_1985347611781807_1094080422586875904_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/adf2fdda34e964faedd79505e8fd0360/5B530F00/t51.2885-15/s480x480/e35/c165.0.750.750/29417338_1985347611781807_1094080422586875904_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7f31659b446ce1dda10454b74d925b5b/5B53FFB7/t51.2885-15/s640x640/sh0.08/e35/c165.0.750.750/29417338_1985347611781807_1094080422586875904_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/7f31659b446ce1dda10454b74d925b5b/5B53FFB7/t51.2885-15/s640x640/sh0.08/e35/c165.0.750.750/29417338_1985347611781807_1094080422586875904_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/ea242b18b5f18020feaf5b9153b24dd1/5B5D73C8/t51.2885-15/e35/29417338_1985347611781807_1094080422586875904_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/63a4b66093556d191c6a959a0a738110/5B719737/t51.2885-15/e35/28436329_1994547497450746_6713144719574040576_n.jpg",
+        "edge_media_preview_like": {
+            "count": 10820
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "To boop or not to boop - that is the question \ud83e\udd14 \ud83d\udcf8 @millie.the.aussie.pup \n#dogsthathike #boop #puppydogeyes  #aussiepuppy"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 114
+        },
+        "id": "1736396726213551439",
+        "image_contents": [
+            "Border collie",
+            "kelpie",
+            "collie",
+            "Australian terrier",
+            "Cardigan, Cardigan Welsh corgi"
+        ],
+        "image_scores": [
+            0.5416,
+            0.16821,
+            0.10224,
+            0.03075,
+            0.02286
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BgY659nHCVP",
+        "tags": [
+            "dogsthathike",
+            "boop",
+            "puppydogeyes",
+            "aussiepuppy"
+        ],
+        "taken_at_timestamp": 1521214641,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/139ce9ceaec18aafc2e30ecfd02f0ab9/5B6ADF60/t51.2885-15/s150x150/e35/28436329_1994547497450746_6713144719574040576_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4ca5e07ba2da2da2c7b4a7d652f2dc08/5B5FE6F4/t51.2885-15/s240x240/e35/28436329_1994547497450746_6713144719574040576_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/bc6bdda3d49fc82b80e88c2cb7ea5ee1/5B693550/t51.2885-15/s320x320/e35/28436329_1994547497450746_6713144719574040576_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4f7f5cf34fb811a41d16099e0ff70499/5B4E8808/t51.2885-15/s480x480/e35/28436329_1994547497450746_6713144719574040576_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/dd5342ec05146f5fcb587fcd6a1c3269/5B51001D/t51.2885-15/s640x640/sh0.08/e35/28436329_1994547497450746_6713144719574040576_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/dd5342ec05146f5fcb587fcd6a1c3269/5B51001D/t51.2885-15/s640x640/sh0.08/e35/28436329_1994547497450746_6713144719574040576_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/63a4b66093556d191c6a959a0a738110/5B719737/t51.2885-15/e35/28436329_1994547497450746_6713144719574040576_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/51221c5e54f3cd12eee87a8809ef07c9/5B6BF0F5/t51.2885-15/e35/28434484_1627360184015990_7192104465808228352_n.jpg",
+        "edge_media_preview_like": {
+            "count": 6561
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "When it's only Wednesday and you're feeling a little in over your head \ud83d\udcf8 @mr_treeing_walker \n#dogsthathike #winterwednesday #snowdog #snowdogs #inovermyhead"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 81
+        },
+        "id": "1734912644757089153",
+        "image_contents": [
+            "cocker spaniel, English cocker spaniel, cocker",
+            "Welsh springer spaniel",
+            "basset, basset hound",
+            "English setter",
+            "Irish setter, red setter"
+        ],
+        "image_scores": [
+            0.59048,
+            0.1557,
+            0.04916,
+            0.02624,
+            0.02203
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BgTpdvDFGuB",
+        "tags": [
+            "dogsthathike",
+            "winterwednesday",
+            "snowdog",
+            "inovermyhead",
+            "snowdogs"
+        ],
+        "taken_at_timestamp": 1521037725,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e3f7c1f38c3266ba2a3bbe420ee5ebd3/5B6CDF52/t51.2885-15/s150x150/e35/c0.135.1080.1080/28434484_1627360184015990_7192104465808228352_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4a4d723ce13723d6d5fca06427ea23c3/5B73C9A2/t51.2885-15/s240x240/e35/c0.135.1080.1080/28434484_1627360184015990_7192104465808228352_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2877b2ae58ce125427d4f976f1849215/5B5750A3/t51.2885-15/s320x320/e35/c0.135.1080.1080/28434484_1627360184015990_7192104465808228352_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/85dddaf55b150a695a29428b197a1be1/5B6E698E/t51.2885-15/s480x480/e35/c0.135.1080.1080/28434484_1627360184015990_7192104465808228352_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b6d21b5c0a1c01f44f0123bfd0579863/5B5127F6/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/28434484_1627360184015990_7192104465808228352_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/b6d21b5c0a1c01f44f0123bfd0579863/5B5127F6/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/28434484_1627360184015990_7192104465808228352_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/51221c5e54f3cd12eee87a8809ef07c9/5B6BF0F5/t51.2885-15/e35/28434484_1627360184015990_7192104465808228352_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 720,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/b282907a7edaf61ffcf462239f35dded/5B72161B/t51.2885-15/e35/29087850_1721068044602886_4482910477847887872_n.jpg",
+        "edge_media_preview_like": {
+            "count": 5181
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "We never had the pleasure of meeting Oliver in person but that didn't stop him (and his humans) from inspiring us. His sweet and resilient ways melted our hearts and made us smile. Your amazing humans have such big hearts and gave you the best life a dog could ask for. Rest in peace sweet Oliver, you will be missed \u2764\n\nFor those that knew him or were inspired by him please consider donating to @seattlehumane in his name (link in bio)\n\n@oliverthetripawd\n\n#dogsthathike"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 27
+        },
+        "id": "1733831797380110767",
+        "image_contents": [
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "malinois",
+            "dingo, warrigal, warragal, Canis dingo",
+            "Rhodesian ridgeback",
+            "kelpie"
+        ],
+        "image_scores": [
+            0.79234,
+            0.08961,
+            0.00382,
+            0.00237,
+            0.002
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BgPztVfHlmv",
+        "tags": [
+            "dogsthathike"
+        ],
+        "taken_at_timestamp": 1520908878,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/46b5b0c72171a3b51f336b16b822afa7/5B73B775/t51.2885-15/s150x150/e35/c180.0.720.720/29087850_1721068044602886_4482910477847887872_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7805e2928b20d2cfe3fe53686671023d/5B516AE3/t51.2885-15/s240x240/e35/c180.0.720.720/29087850_1721068044602886_4482910477847887872_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e7dbeee2330ea28f4a1c59087e3ca08e/5B52B9E5/t51.2885-15/s320x320/e35/c180.0.720.720/29087850_1721068044602886_4482910477847887872_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0c8fdb66ba278eb964e0c90b3ca73cd6/5B695456/t51.2885-15/s480x480/e35/c180.0.720.720/29087850_1721068044602886_4482910477847887872_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/457974dd449f07be48ffb17cbdf5700f/5B58C7E1/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/29087850_1721068044602886_4482910477847887872_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/457974dd449f07be48ffb17cbdf5700f/5B58C7E1/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/29087850_1721068044602886_4482910477847887872_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/b282907a7edaf61ffcf462239f35dded/5B72161B/t51.2885-15/e35/29087850_1721068044602886_4482910477847887872_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/c9ac53a7a1d1eaf456080186f04b07bf/5B57A0FF/t51.2885-15/e35/28436224_159601324747186_4268791995771650048_n.jpg",
+        "edge_media_preview_like": {
+            "count": 10625
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Awoo - time for adventure! \ud83d\udc3a \ud83d\udcf8 @codathewoof / @dllln \n#dogsthathike #awoo #sundayfunday  #huskylife #huskylovers #pnwlife"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 60
+        },
+        "id": "1732745362451296260",
+        "image_contents": [
+            "Eskimo dog, husky",
+            "Saint Bernard, St Bernard",
+            "Siberian husky",
+            "Norwegian elkhound, elkhound",
+            "malamute, malemute, Alaskan malamute"
+        ],
+        "image_scores": [
+            0.17145,
+            0.138,
+            0.12144,
+            0.10823,
+            0.05201
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BgL8roHHXAE",
+        "tags": [
+            "huskylovers",
+            "pnwlife",
+            "dogsthathike",
+            "sundayfunday",
+            "huskylife",
+            "awoo"
+        ],
+        "taken_at_timestamp": 1520779365,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fff60fc8059653a4e8375874a723773e/5B63AAC3/t51.2885-15/s150x150/e35/c0.135.1080.1080/28436224_159601324747186_4268791995771650048_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/9df8f4a930799913dedfca739edb114d/5B6825A8/t51.2885-15/s240x240/e35/c0.135.1080.1080/28436224_159601324747186_4268791995771650048_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f202f3c27339c892109c939799a4458b/5B5B6B60/t51.2885-15/s320x320/e35/c0.135.1080.1080/28436224_159601324747186_4268791995771650048_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b36e01649ff05fc2faaec11058c5975f/5B5DD68A/t51.2885-15/s480x480/e35/c0.135.1080.1080/28436224_159601324747186_4268791995771650048_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5dfbdb1bb1ea80003dedb9e302a33624/5B632E2D/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/28436224_159601324747186_4268791995771650048_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/5dfbdb1bb1ea80003dedb9e302a33624/5B632E2D/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/28436224_159601324747186_4268791995771650048_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/c9ac53a7a1d1eaf456080186f04b07bf/5B57A0FF/t51.2885-15/e35/28436224_159601324747186_4268791995771650048_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 906,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/2aa7f5fd2a01a2e6fb95cfe5a8bf4bb5/5B5EFF7D/t51.2885-15/e35/28435003_180574646001203_4276623907290611712_n.jpg",
+        "edge_media_preview_like": {
+            "count": 5254
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Oh my dog is it really Friday?! \ud83d\udcf8 @myfurrymutts \n#dogsthathike #friyay #mydogismy #crazyeyes #happydoggy"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 33
+        },
+        "id": "1731594871440706612",
+        "image_contents": [
+            "Cardigan, Cardigan Welsh corgi",
+            "collie",
+            "kelpie",
+            "Border collie",
+            "dingo, warrigal, warragal, Canis dingo"
+        ],
+        "image_scores": [
+            0.15191,
+            0.11238,
+            0.0697,
+            0.06661,
+            0.0389
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BgH3Fx3HIw0",
+        "tags": [
+            "dogsthathike",
+            "mydogismy",
+            "friyay",
+            "happydoggy",
+            "crazyeyes"
+        ],
+        "taken_at_timestamp": 1520642216,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a74d0f214049b84dde4671b3638a1a7d/5B5FB2F1/t51.2885-15/s150x150/e35/c87.0.906.906/28435003_180574646001203_4276623907290611712_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8ca8d32340e09f31cf3ef3028875ba01/5B659C7A/t51.2885-15/s240x240/e35/c87.0.906.906/28435003_180574646001203_4276623907290611712_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/501ee2ccab3e51fd4b319ca93b098d06/5B5C99EE/t51.2885-15/s320x320/e35/c87.0.906.906/28435003_180574646001203_4276623907290611712_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/918fd42cb1f00918b774afff460bf896/5B526FBB/t51.2885-15/s480x480/e35/c87.0.906.906/28435003_180574646001203_4276623907290611712_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/afacf1d597a16f0289775a6344b373d4/5B694A8D/t51.2885-15/s640x640/sh0.08/e35/c87.0.906.906/28435003_180574646001203_4276623907290611712_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/afacf1d597a16f0289775a6344b373d4/5B694A8D/t51.2885-15/s640x640/sh0.08/e35/c87.0.906.906/28435003_180574646001203_4276623907290611712_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/2aa7f5fd2a01a2e6fb95cfe5a8bf4bb5/5B5EFF7D/t51.2885-15/e35/28435003_180574646001203_4276623907290611712_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 754,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/5c8d32d6d8396e4d24e8c32fe44d7561/5B637D12/t51.2885-15/e35/28765197_911189425706820_9219529759111774208_n.jpg",
+        "edge_media_preview_like": {
+            "count": 5639
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Happy #internationalwomensday to all you bad ass dog moms! Cheers to you for being rad and inspiring people to get out there and hike.\n\nWe want to see your favourite photos of you adventuring with your pup so tag us in your posts today and we'll be featuring as many as we can in our stories! \ud83d\udcf8 @domcarson \n#dogsthathike #dogmomlife #forceofnature"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 36
+        },
+        "id": "1730567216989914469",
+        "image_contents": [
+            "alp",
+            "bluetick",
+            "kelpie",
+            "Appenzeller",
+            "Border terrier"
+        ],
+        "image_scores": [
+            0.17692,
+            0.09262,
+            0.08057,
+            0.04135,
+            0.03187
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BgENbcEnsVl",
+        "tags": [
+            "dogsthathike",
+            "internationalwomensday",
+            "forceofnature",
+            "dogmomlife"
+        ],
+        "taken_at_timestamp": 1520519710,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a70b3c25701ce03f03c3168d12401e81/5B6F22B9/t51.2885-15/s150x150/e35/c163.0.754.754/28765197_911189425706820_9219529759111774208_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2975f006fbd6b2590c8c2c9fda694420/5B5D8E2F/t51.2885-15/s240x240/e35/c163.0.754.754/28765197_911189425706820_9219529759111774208_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/59f7e940256d7d3a09782f61a88046e4/5B5EA1C7/t51.2885-15/s320x320/e35/c163.0.754.754/28765197_911189425706820_9219529759111774208_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/649703a2ea2aec912da07745d50c374c/5B4F16EE/t51.2885-15/s480x480/e35/c163.0.754.754/28765197_911189425706820_9219529759111774208_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f5cffe4c8de583d3341022121e9ff1d4/5B5A91FA/t51.2885-15/s640x640/sh0.08/e35/c163.0.754.754/28765197_911189425706820_9219529759111774208_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/f5cffe4c8de583d3341022121e9ff1d4/5B5A91FA/t51.2885-15/s640x640/sh0.08/e35/c163.0.754.754/28765197_911189425706820_9219529759111774208_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/5c8d32d6d8396e4d24e8c32fe44d7561/5B637D12/t51.2885-15/e35/28765197_911189425706820_9219529759111774208_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 999,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/f0625992dfd91a514b0d721ad1060d66/5B5D05F2/t51.2885-15/e35/28436319_186509462114556_1962557757986963456_n.jpg",
+        "edge_media_preview_like": {
+            "count": 7997
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "We've all got that one friend... \u2764 \ud83d\udcf8 @eef2u \n#dogsthathike #bestfriendsforever #photobombed"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 228
+        },
+        "id": "1729107476304656080",
+        "image_contents": [
+            "Weimaraner",
+            "German short-haired pointer",
+            "vizsla, Hungarian pointer",
+            "bluetick",
+            "beagle"
+        ],
+        "image_scores": [
+            0.98029,
+            0.00236,
+            0.0011,
+            0.00045,
+            0.00035
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Bf_BhannHbQ",
+        "tags": [
+            "dogsthathike",
+            "bestfriendsforever",
+            "photobombed"
+        ],
+        "taken_at_timestamp": 1520345695,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5dbec4c3aafa515d4a690bde6ebba452/5B748A24/t51.2885-15/s150x150/e35/c40.0.999.999/28436319_186509462114556_1962557757986963456_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a9e4a2f091c4092fc9bd04a22eaf4aac/5B6532AF/t51.2885-15/s240x240/e35/c40.0.999.999/28436319_186509462114556_1962557757986963456_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7416b9dc9503e852dc35a717c5098fdb/5B708E3B/t51.2885-15/s320x320/e35/c40.0.999.999/28436319_186509462114556_1962557757986963456_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4b01313fac35665fa777a5a6fd0f2b18/5B656F6E/t51.2885-15/s480x480/e35/c40.0.999.999/28436319_186509462114556_1962557757986963456_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6e6667f343dba04bc2a46b92abd0d494/5B685258/t51.2885-15/s640x640/sh0.08/e35/c40.0.999.999/28436319_186509462114556_1962557757986963456_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/6e6667f343dba04bc2a46b92abd0d494/5B685258/t51.2885-15/s640x640/sh0.08/e35/c40.0.999.999/28436319_186509462114556_1962557757986963456_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/f0625992dfd91a514b0d721ad1060d66/5B5D05F2/t51.2885-15/e35/28436319_186509462114556_1962557757986963456_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/68226a26e55d011a238b247c210cb295/5B6D6F79/t51.2885-15/e35/28156141_1158121227624389_5732632638271782912_n.jpg",
+        "edge_media_preview_like": {
+            "count": 9727
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Anyone else looking forward to some Sunday snuggles? \ud83d\udcf8 @minayounglee \n#dogsthathike #sundaysnuggles #boop #snugglypuppy #lazysundaymorning"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 55
+        },
+        "id": "1727683456493437083",
+        "image_contents": [
+            "dingo, warrigal, warragal, Canis dingo",
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "kelpie",
+            "Cardigan, Cardigan Welsh corgi",
+            "malinois"
+        ],
+        "image_scores": [
+            0.29733,
+            0.15725,
+            0.09505,
+            0.05268,
+            0.04933
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Bf59vM0nECb",
+        "tags": [
+            "dogsthathike",
+            "sundaysnuggles",
+            "boop",
+            "snugglypuppy",
+            "lazysundaymorning"
+        ],
+        "taken_at_timestamp": 1520175939,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a4acd1563536f06074a2ea301b997d84/5B682D2E/t51.2885-15/s150x150/e35/28156141_1158121227624389_5732632638271782912_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/617a02b7a64351ac3b8aaf312ca96762/5B5155BA/t51.2885-15/s240x240/e35/28156141_1158121227624389_5732632638271782912_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/da998ed0272f215a702a35d59909fb00/5B6D5D1E/t51.2885-15/s320x320/e35/28156141_1158121227624389_5732632638271782912_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/656442c53533e9071f5aae3b204663ea/5B739D46/t51.2885-15/s480x480/e35/28156141_1158121227624389_5732632638271782912_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f3b011267b5976d35ed6fa82242dc0ab/5B54ED53/t51.2885-15/s640x640/sh0.08/e35/28156141_1158121227624389_5732632638271782912_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/f3b011267b5976d35ed6fa82242dc0ab/5B54ED53/t51.2885-15/s640x640/sh0.08/e35/28156141_1158121227624389_5732632638271782912_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/68226a26e55d011a238b247c210cb295/5B6D6F79/t51.2885-15/e35/28156141_1158121227624389_5732632638271782912_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/bf79e2a0003afc8809e2794c15ceed9c/5B651E64/t51.2885-15/e35/28153876_422088911578559_2085270789019402240_n.jpg",
+        "edge_media_preview_like": {
+            "count": 9682
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Hi-paw for making it half way to the weekend! \ud83d\udc3e \ud83d\udcf8 @lokiofmn \n#dogsthathike #highpaw #pawsup"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 90
+        },
+        "id": "1724817574318598963",
+        "image_contents": [
+            "golden retriever",
+            "Labrador retriever",
+            "kuvasz",
+            "flat-coated retriever",
+            "clumber, clumber spaniel"
+        ],
+        "image_scores": [
+            0.74603,
+            0.03587,
+            0.01242,
+            0.00961,
+            0.00437
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfvyHIDnGsz",
+        "tags": [
+            "dogsthathike",
+            "pawsup",
+            "highpaw"
+        ],
+        "taken_at_timestamp": 1519834299,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c42d878a641c0181a9760d879b0821c8/5B5A6D58/t51.2885-15/s150x150/e35/c0.135.1080.1080/28153876_422088911578559_2085270789019402240_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5bfc388f38f4bf83724054e138fcc99e/5B56C733/t51.2885-15/s240x240/e35/c0.135.1080.1080/28153876_422088911578559_2085270789019402240_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e68186506803aac0f487b0fc9170fe38/5B5C2DFB/t51.2885-15/s320x320/e35/c0.135.1080.1080/28153876_422088911578559_2085270789019402240_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ea79969dd025e5eaa492323535a1d0ae/5B645011/t51.2885-15/s480x480/e35/c0.135.1080.1080/28153876_422088911578559_2085270789019402240_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/60d6ef526ac847d39293f9f0af799231/5B73B8B6/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/28153876_422088911578559_2085270789019402240_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/60d6ef526ac847d39293f9f0af799231/5B73B8B6/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/28153876_422088911578559_2085270789019402240_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/bf79e2a0003afc8809e2794c15ceed9c/5B651E64/t51.2885-15/e35/28153876_422088911578559_2085270789019402240_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/b76e30b7dd69b88d8f771c641af563b9/5B6C5C4E/t51.2885-15/e35/28151286_376270319511658_5642252267072520192_n.jpg",
+        "edge_media_preview_like": {
+            "count": 7538
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Do you think Cricket is wishing for more snow or an early spring? \ud83d\udcf8 @cricketinthethicket \n#dogsthathike #snowdog #makingwishes #shibe #shibalove .\n.\n.\n.\n#hikingdog #hikingdogsofinstagram #hikingwithdogs #traildog #adventuredog #adventurepup #adventurewithdogs #dogadventures #dogsrule #dailydog #ruffpost #mydogismy #tailblazer"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 89
+        },
+        "id": "1723596918306483015",
+        "image_contents": [
+            "timber wolf, grey wolf, gray wolf, Canis lupus",
+            "dhole, Cuon alpinus",
+            "dingo, warrigal, warragal, Canis dingo",
+            "coyote, prairie wolf, brush wolf, Canis latrans",
+            "white wolf, Arctic wolf, Canis lupus tundrarum"
+        ],
+        "image_scores": [
+            0.22671,
+            0.13347,
+            0.09879,
+            0.05043,
+            0.02674
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfrckPjnatH",
+        "tags": [
+            "dailydog",
+            "snowdog",
+            "makingwishes",
+            "dogsrule",
+            "hikingdog",
+            "dogsthathike",
+            "traildog",
+            "mydogismy",
+            "dogadventures",
+            "shibe",
+            "adventurepup",
+            "adventurewithdogs",
+            "ruffpost",
+            "hikingwithdogs",
+            "hikingdogsofinstagram",
+            "tailblazer",
+            "shibalove",
+            "adventuredog"
+        ],
+        "taken_at_timestamp": 1519688785,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/124aec8df66ea816cf778381d53f5d76/5B563D72/t51.2885-15/s150x150/e35/c0.135.1080.1080/28151286_376270319511658_5642252267072520192_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5eb2ab5695c624c0a59a82768268f72d/5B555419/t51.2885-15/s240x240/e35/c0.135.1080.1080/28151286_376270319511658_5642252267072520192_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/cd7783b83cf437b7bb420ab9a1a60472/5B6F5BD1/t51.2885-15/s320x320/e35/c0.135.1080.1080/28151286_376270319511658_5642252267072520192_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a1bbce8d8f0dd086477afb969dc4d2b5/5B71C43B/t51.2885-15/s480x480/e35/c0.135.1080.1080/28151286_376270319511658_5642252267072520192_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/dfa16899b21ea2b6ca0c1eac4aad285a/5B50A39C/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/28151286_376270319511658_5642252267072520192_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/dfa16899b21ea2b6ca0c1eac4aad285a/5B50A39C/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/28151286_376270319511658_5642252267072520192_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/b76e30b7dd69b88d8f771c641af563b9/5B6C5C4E/t51.2885-15/e35/28151286_376270319511658_5642252267072520192_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/8078f274432316685064928bededfdef/5B55D29D/t51.2885-15/e35/28156050_886219824878487_5552462982157434880_n.jpg",
+        "edge_media_preview_like": {
+            "count": 10293
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Caption this \ud83d\uddef \ud83d\udcf8 @kopernikk \n#dogsthathike #snowdog #mansbestfriend .\n.\n.\n\n#hikingdog #hikingdogsofinstagram #hikingwithdogs #traildog #adventuredog #adventurepup #adventurewithdogs #dogadventures #dogsrule #dailydog #ruffpost #mydogismy #tailblazer #pawsup"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 93
+        },
+        "id": "1721121026259013026",
+        "image_contents": [
+            "Norwegian elkhound, elkhound",
+            "Eskimo dog, husky",
+            "Siberian husky",
+            "timber wolf, grey wolf, gray wolf, Canis lupus",
+            "German shepherd, German shepherd dog, German police dog, alsatian"
+        ],
+        "image_scores": [
+            0.30225,
+            0.20592,
+            0.06199,
+            0.06009,
+            0.04431
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfipnRZn82i",
+        "tags": [
+            "dailydog",
+            "snowdog",
+            "dogsrule",
+            "hikingdog",
+            "dogsthathike",
+            "traildog",
+            "mydogismy",
+            "dogadventures",
+            "adventurepup",
+            "pawsup",
+            "adventurewithdogs",
+            "ruffpost",
+            "mansbestfriend",
+            "hikingwithdogs",
+            "hikingdogsofinstagram",
+            "tailblazer",
+            "adventuredog"
+        ],
+        "taken_at_timestamp": 1519393636,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d47f20581247c4b2e9f7345200f0da42/5B6431A1/t51.2885-15/s150x150/e35/c0.135.1080.1080/28156050_886219824878487_5552462982157434880_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/77c8cf5b345540b0ce4c51861a8622d8/5B71D7CA/t51.2885-15/s240x240/e35/c0.135.1080.1080/28156050_886219824878487_5552462982157434880_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7f1b8d9d41a3e4c75cae49e3b00a5323/5B64AD02/t51.2885-15/s320x320/e35/c0.135.1080.1080/28156050_886219824878487_5552462982157434880_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/16f06f84a46222e2145a8c6cc943c287/5B5935E8/t51.2885-15/s480x480/e35/c0.135.1080.1080/28156050_886219824878487_5552462982157434880_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fd8517e62f929d663ba3039a8094cc84/5B5B844F/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/28156050_886219824878487_5552462982157434880_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/fd8517e62f929d663ba3039a8094cc84/5B5B844F/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/28156050_886219824878487_5552462982157434880_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/8078f274432316685064928bededfdef/5B55D29D/t51.2885-15/e35/28156050_886219824878487_5552462982157434880_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1349,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/fc46a873fe13d282368a9a757ffe754f/5B5C9A63/t51.2885-15/e35/27892743_197163584366711_2965377109150662656_n.jpg",
+        "edge_media_preview_like": {
+            "count": 18073
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Pack only the essentials \ud83d\udc36 \ud83d\udcf8 @laurahansen7 \n#dogsthathike #throwbackthursday #isitsummeryet"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 311
+        },
+        "id": "1720453832634166291",
+        "image_contents": [
+            "alp",
+            "Airedale, Airedale terrier",
+            "teddy, teddy bear",
+            "valley, vale",
+            "marmot"
+        ],
+        "image_scores": [
+            0.4746,
+            0.04339,
+            0.02134,
+            0.01473,
+            0.01205
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfgR6U6nmwT",
+        "tags": [
+            "dogsthathike",
+            "isitsummeryet",
+            "throwbackthursday"
+        ],
+        "taken_at_timestamp": 1519314100,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/1303de188e4341096fcf3c95393bab04/5B60B92F/t51.2885-15/s150x150/e35/c0.134.1080.1080/27892743_197163584366711_2965377109150662656_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c306ac6eff524f48dac1764cd92f6237/5B646C44/t51.2885-15/s240x240/e35/c0.134.1080.1080/27892743_197163584366711_2965377109150662656_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/69c1393465afd59149b252f0b7891517/5B5B1E8C/t51.2885-15/s320x320/e35/c0.134.1080.1080/27892743_197163584366711_2965377109150662656_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/571e40b5c4f2bd829f4d067884f5a79a/5B730666/t51.2885-15/s480x480/e35/c0.134.1080.1080/27892743_197163584366711_2965377109150662656_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/25093ea3d5f033ffb51a9e4f47701dfc/5B6413C1/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/27892743_197163584366711_2965377109150662656_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/25093ea3d5f033ffb51a9e4f47701dfc/5B6413C1/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/27892743_197163584366711_2965377109150662656_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/fc46a873fe13d282368a9a757ffe754f/5B5C9A63/t51.2885-15/e35/27892743_197163584366711_2965377109150662656_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 714,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/a65efcdf269830e6a92c777544a4393d/5B682283/t51.2885-15/e35/27891689_2081718382072434_3256633517395673088_n.jpg",
+        "edge_media_preview_like": {
+            "count": 18328
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tuesday after a long weekend got me like \ud83d\ude2a\n\nThanks to everyone who entered our Valentine's Day giveaway with @sierradesigns - our winner has been randomly chosen and congrats to @laurshyf \ud83d\udcf8 @emberbristol \n#dogsthathike #mondayvibes #onatuesday #sleepydog #lifeisruff\n.\n.\n.\n#hikingdog #hikingdogsofinstagram #hikingwithdogs #traildog #adventuredog #adventurepup #adventurewithdogs #dogadventures #ruffpost #mydogismy #tailblazer"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 194
+        },
+        "id": "1718991617032791384",
+        "image_contents": [
+            "golden retriever",
+            "bloodhound, sleuthhound",
+            "Labrador retriever",
+            "basset, basset hound",
+            "redbone"
+        ],
+        "image_scores": [
+            0.37548,
+            0.265,
+            0.06717,
+            0.06182,
+            0.04813
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfbFcShHSVY",
+        "tags": [
+            "hikingdog",
+            "dogsthathike",
+            "lifeisruff",
+            "traildog",
+            "dogadventures",
+            "adventurepup",
+            "mydogismy",
+            "adventurewithdogs",
+            "ruffpost",
+            "onatuesday",
+            "hikingwithdogs",
+            "sleepydog",
+            "hikingdogsofinstagram",
+            "tailblazer",
+            "mondayvibes",
+            "adventuredog"
+        ],
+        "taken_at_timestamp": 1519139791,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/1f11713d1755115f596231bce3963b69/5B5F3D33/t51.2885-15/s150x150/e35/c183.0.714.714/27891689_2081718382072434_3256633517395673088_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c943df11319ad6f53cb37fe6615926bb/5B6AA6A5/t51.2885-15/s240x240/e35/c183.0.714.714/27891689_2081718382072434_3256633517395673088_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0328b09df4dae30160668baafb5b77c5/5B7533A3/t51.2885-15/s320x320/e35/c183.0.714.714/27891689_2081718382072434_3256633517395673088_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e942a5bdc8eebf24919f37355731a067/5B757410/t51.2885-15/s480x480/e35/c183.0.714.714/27891689_2081718382072434_3256633517395673088_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5136dbdaab36c2403e1df4d394c1ebea/5B6B39A7/t51.2885-15/s640x640/sh0.08/e35/c183.0.714.714/27891689_2081718382072434_3256633517395673088_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/5136dbdaab36c2403e1df4d394c1ebea/5B6B39A7/t51.2885-15/s640x640/sh0.08/e35/c183.0.714.714/27891689_2081718382072434_3256633517395673088_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/a65efcdf269830e6a92c777544a4393d/5B682283/t51.2885-15/e35/27891689_2081718382072434_3256633517395673088_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/b02a7f943471c3c3d99b65cee146c35d/5B6BD6E1/t51.2885-15/e35/27891470_2177951862220571_3821101617202069504_n.jpg",
+        "edge_media_preview_like": {
+            "count": 15635
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Did you say Friday \ud83d\ude32\n\nDon't forget our giveaway with @sierradesigns ends tonight! See our last post for details. \ud83d\udcf8 @miratheshepsky \n#dogsthathike #friyay #explorealberta #abrahamlake #milesfromordinary .\n.\n.\n#hikingdog #hikingdogsofinstagram #hikingwithdogs #traildog #adventuredog #adventurepup #adventurewithdogs #dogadventures #dogsrule #dailydog #ruffpost #mydogismy #tailblazer #hikingadventures #takeahike #hike365 #goexplore"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 86
+        },
+        "id": "1716303739064540858",
+        "image_contents": [
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "malinois",
+            "kelpie",
+            "Cardigan, Cardigan Welsh corgi",
+            "Border terrier"
+        ],
+        "image_scores": [
+            0.43521,
+            0.14697,
+            0.0643,
+            0.03922,
+            0.03819
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfRiShFnd66",
+        "tags": [
+            "goexplore",
+            "hikingdog",
+            "hikingadventures",
+            "adventurepup",
+            "takeahike",
+            "milesfromordinary",
+            "explorealberta",
+            "traildog",
+            "dogadventures",
+            "hike365",
+            "hikingwithdogs",
+            "friyay",
+            "abrahamlake",
+            "adventuredog",
+            "dailydog",
+            "dogsrule",
+            "dogsthathike",
+            "adventurewithdogs",
+            "ruffpost",
+            "hikingdogsofinstagram",
+            "tailblazer",
+            "mydogismy"
+        ],
+        "taken_at_timestamp": 1518819371,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ad87c2db78ad223736e293e25b8b4d50/5B5D4146/t51.2885-15/s150x150/e35/c0.135.1080.1080/27891470_2177951862220571_3821101617202069504_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4297e2981f824426410c26b1a8e6fe7c/5B5ADEB6/t51.2885-15/s240x240/e35/c0.135.1080.1080/27891470_2177951862220571_3821101617202069504_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7fe1fbad997a388884410ffd37bd3ed6/5B68DDB7/t51.2885-15/s320x320/e35/c0.135.1080.1080/27891470_2177951862220571_3821101617202069504_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/02fe0e1f46605e3e4008de105570f923/5B655D9A/t51.2885-15/s480x480/e35/c0.135.1080.1080/27891470_2177951862220571_3821101617202069504_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d8867a6d001a319712cec517d49f8300/5B5A93E2/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27891470_2177951862220571_3821101617202069504_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/d8867a6d001a319712cec517d49f8300/5B5A93E2/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27891470_2177951862220571_3821101617202069504_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/b02a7f943471c3c3d99b65cee146c35d/5B6BD6E1/t51.2885-15/e35/27891470_2177951862220571_3821101617202069504_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1121,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/89585b3a3a3d3a89555666dab780d49f/5B5215B2/t51.2885-15/e35/27578406_1635301633223302_7669422920355020800_n.jpg",
+        "edge_media_preview_like": {
+            "count": 10353
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "GIVEAWAY CLOSED - congrats to our winner @laurshyf\n\nLove can take many forms, so this Valentine's Day we're teaming up with @sierradesigns to give away a brand new Backcountry Bed Duo, perfect for cuddling up with your best friend (four legged or otherwise). \ud83d\udcf8\u00a0@chlo.lewis\n\n#dogsthathike #sierradesigns #milesfromordinary\n.\n.\n.\n#giveaway #contest #sleepingbag #letscamp #hikingdog #hikingwithdogs #campingwithdogs #traildog #adventuredog #adventurepup #adventurewithdogs #dogadventures #hike365 #goexplore #staywild"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 3355
+        },
+        "id": "1714791237373902132",
+        "image_contents": [
+            "sleeping bag",
+            "fur coat",
+            "cloak",
+            "bath towel",
+            "stole"
+        ],
+        "image_scores": [
+            0.32819,
+            0.16619,
+            0.12857,
+            0.01029,
+            0.005
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfMKYuHn700",
+        "tags": [
+            "sierradesigns",
+            "giveaway",
+            "goexplore",
+            "contest",
+            "hikingdog",
+            "dogsthathike",
+            "traildog",
+            "dogadventures",
+            "adventurepup",
+            "campingwithdogs",
+            "adventurewithdogs",
+            "hike365",
+            "letscamp",
+            "hikingwithdogs",
+            "sleepingbag",
+            "staywild",
+            "milesfromordinary",
+            "adventuredog"
+        ],
+        "taken_at_timestamp": 1518639066,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a71451b4486e0e31432cfa8fd2b18be6/5B5F265B/t51.2885-15/s150x150/e35/c0.20.1080.1080/27578406_1635301633223302_7669422920355020800_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5380c42f1f729f174f9f8920a1d811d7/5B5DB230/t51.2885-15/s240x240/e35/c0.20.1080.1080/27578406_1635301633223302_7669422920355020800_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/872160645814b1be6cd7f5c2258bb33f/5B6A82F8/t51.2885-15/s320x320/e35/c0.20.1080.1080/27578406_1635301633223302_7669422920355020800_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b3ca1a89463edbcd73475177f37f7213/5B5D5212/t51.2885-15/s480x480/e35/c0.20.1080.1080/27578406_1635301633223302_7669422920355020800_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b3c8f4337cf6194fada0fd55ce8e3c9a/5B6BA1B5/t51.2885-15/s640x640/sh0.08/e35/c0.20.1080.1080/27578406_1635301633223302_7669422920355020800_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/b3c8f4337cf6194fada0fd55ce8e3c9a/5B6BA1B5/t51.2885-15/s640x640/sh0.08/e35/c0.20.1080.1080/27578406_1635301633223302_7669422920355020800_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/89585b3a3a3d3a89555666dab780d49f/5B5215B2/t51.2885-15/e35/27578406_1635301633223302_7669422920355020800_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/d60804fac1d4d07e46828f60ca910275/5B6EA555/t51.2885-15/e35/27574505_952492418248898_1870526817970946048_n.jpg",
+        "edge_media_preview_like": {
+            "count": 2668
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Did someone say treat? \ud83d\udc3a \ud83d\udcf8 @tansypup\n\n@tansypup put @poochieboots to the test and found a great boot that, unlike many others, doesn't irritate the dewclaw! Could these be the right boots for you? Click the link in our bio to read the full review and find out.\n\n#dogsthathike #treatsforme #happydoggy #adventuredog #adventurepup #dogadventures #doggear #dogboots #poochieboots"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 15
+        },
+        "id": "1714638718412605706",
+        "image_contents": [
+            "toy terrier",
+            "Chihuahua",
+            "miniature pinscher",
+            "dogsled, dog sled, dog sleigh",
+            "kelpie"
+        ],
+        "image_scores": [
+            0.25785,
+            0.10369,
+            0.0628,
+            0.0278,
+            0.02503
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfLntRxHUkK",
+        "tags": [
+            "doggear",
+            "dogboots",
+            "treatsforme",
+            "poochieboots",
+            "dogsthathike",
+            "dogadventures",
+            "adventurepup",
+            "happydoggy",
+            "adventuredog"
+        ],
+        "taken_at_timestamp": 1518620885,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d486512be1bfcd670b2bc7fd3c6490b5/5B6B1930/t51.2885-15/s150x150/e35/27574505_952492418248898_1870526817970946048_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/609bda661d4e89596f04ee775d50a40c/5B668E0F/t51.2885-15/s240x240/e35/27574505_952492418248898_1870526817970946048_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8eab0948140df4a3501e4b7ad3f75d81/5B60F777/t51.2885-15/s320x320/e35/27574505_952492418248898_1870526817970946048_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ba30449990bbec5a35271a398f2b7388/5B514AF1/t51.2885-15/s480x480/e35/27574505_952492418248898_1870526817970946048_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/038c1e409ee6c2d763154f5db9d74313/5B5D0934/t51.2885-15/s640x640/sh0.08/e35/27574505_952492418248898_1870526817970946048_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/038c1e409ee6c2d763154f5db9d74313/5B5D0934/t51.2885-15/s640x640/sh0.08/e35/27574505_952492418248898_1870526817970946048_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/d60804fac1d4d07e46828f60ca910275/5B6EA555/t51.2885-15/e35/27574505_952492418248898_1870526817970946048_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/786392b57af5d06aa92e5e16a9665e08/5B6BA90E/t51.2885-15/e35/27878719_529573077429982_2812476763039334400_n.jpg",
+        "edge_media_preview_like": {
+            "count": 15301
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Trail buddies for life \u2764 \ud83d\udcf8 @alexborsuk \n#dogsthathike #trailbuddies #traildog #mydogismy #adventuredog #adventuredogintraining"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 309
+        },
+        "id": "1713927617605655438",
+        "image_contents": [
+            "Border collie",
+            "collie",
+            "kelpie",
+            "Australian terrier",
+            "Cardigan, Cardigan Welsh corgi"
+        ],
+        "image_scores": [
+            0.80242,
+            0.08753,
+            0.03738,
+            0.00563,
+            0.00255
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfJGBZiHduO",
+        "tags": [
+            "dogsthathike",
+            "traildog",
+            "mydogismy",
+            "adventuredogintraining",
+            "trailbuddies",
+            "adventuredog"
+        ],
+        "taken_at_timestamp": 1518536115,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c9b5a0c94885c0a14f1058cc799d3012/5B504C6B/t51.2885-15/s150x150/e35/27878719_529573077429982_2812476763039334400_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ffde0228a4afc29e90640ff9f692f40a/5B688754/t51.2885-15/s240x240/e35/27878719_529573077429982_2812476763039334400_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e6d4550ff2252e3a80f121444061dbd5/5B64932C/t51.2885-15/s320x320/e35/27878719_529573077429982_2812476763039334400_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ee7d015e89d423f7cb7e095823b9f763/5B6B31AA/t51.2885-15/s480x480/e35/27878719_529573077429982_2812476763039334400_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8e3618aa7bada3d2fd5bba44b0e8ad68/5B5DC06F/t51.2885-15/s640x640/sh0.08/e35/27878719_529573077429982_2812476763039334400_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/8e3618aa7bada3d2fd5bba44b0e8ad68/5B5DC06F/t51.2885-15/s640x640/sh0.08/e35/27878719_529573077429982_2812476763039334400_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/786392b57af5d06aa92e5e16a9665e08/5B6BA90E/t51.2885-15/e35/27878719_529573077429982_2812476763039334400_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/534a6940e72f9abc3c26b25d90aac6b1/5B5432D3/t51.2885-15/e35/27877847_2086253791604505_4618102209941340160_n.jpg",
+        "edge_media_preview_like": {
+            "count": 5395
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Monday face \ud83d\udcf8 @ava_klausgsd \n#dogsthathike #mondayface #derp #derpface #socutetho"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 17
+        },
+        "id": "1713188198401447044",
+        "image_contents": [
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "malinois",
+            "Norwegian elkhound, elkhound",
+            "kelpie",
+            "Cardigan, Cardigan Welsh corgi"
+        ],
+        "image_scores": [
+            0.53275,
+            0.38249,
+            0.01098,
+            0.0028,
+            0.0023
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfGd5bvHBSE",
+        "tags": [
+            "dogsthathike",
+            "mondayface",
+            "socutetho",
+            "derpface",
+            "derp"
+        ],
+        "taken_at_timestamp": 1518447969,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fe22552fa2f053bdaab0998fb6b6ac89/5B710274/t51.2885-15/s150x150/e35/c0.135.1080.1080/27877847_2086253791604505_4618102209941340160_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/46e237351950075ba2617f8368c06dd1/5B736684/t51.2885-15/s240x240/e35/c0.135.1080.1080/27877847_2086253791604505_4618102209941340160_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/10c2c31aa57e915dac61a5cc48655d4b/5B557B85/t51.2885-15/s320x320/e35/c0.135.1080.1080/27877847_2086253791604505_4618102209941340160_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fc8773161688597f35195848622579b3/5B633DA8/t51.2885-15/s480x480/e35/c0.135.1080.1080/27877847_2086253791604505_4618102209941340160_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/cc81dd142169274da3f68729d9d8ee78/5B63B5D0/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27877847_2086253791604505_4618102209941340160_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/cc81dd142169274da3f68729d9d8ee78/5B63B5D0/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27877847_2086253791604505_4618102209941340160_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/534a6940e72f9abc3c26b25d90aac6b1/5B5432D3/t51.2885-15/e35/27877847_2086253791604505_4618102209941340160_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/04cc1f93c7e96d4966567d81907c7f7c/5B4FBBA3/t51.2885-15/e35/27575373_1846530378755307_4628895591605207040_n.jpg",
+        "edge_media_preview_like": {
+            "count": 4840
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Get in loser, we're going hiking \ud83d\udc36\n\nDid you see our story on Friday? We've got a new sticker - Dogs That Hike Are Dogs I Like! Click the link in our bio to get your hands on one (or two or three). $6 CAD and shipping is free in Canada/US.\n\n#dogsthathike #dogsthathikearedogsilike #getinloser #sticker #adventuredog #hikingdog #dogadventures"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 53
+        },
+        "id": "1712483705410207027",
+        "image_contents": [
+            "Appenzeller",
+            "kelpie",
+            "bluetick",
+            "Border collie",
+            "EntleBucher"
+        ],
+        "image_scores": [
+            0.12771,
+            0.10622,
+            0.10491,
+            0.10243,
+            0.05153
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BfD9ttgnr0z",
+        "tags": [
+            "getinloser",
+            "dogsthathikearedogsilike",
+            "hikingdog",
+            "dogsthathike",
+            "dogadventures",
+            "sticker",
+            "adventuredog"
+        ],
+        "taken_at_timestamp": 1518363987,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d94ede88e6439c7c187544d9c7bd3b68/5B4FFEF4/t51.2885-15/s150x150/e35/27575373_1846530378755307_4628895591605207040_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5a5674944556fd598108ea6500663db0/5B54CB60/t51.2885-15/s240x240/e35/27575373_1846530378755307_4628895591605207040_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c732de3c771fd90872d752259e5a7a0f/5B4ECCC4/t51.2885-15/s320x320/e35/27575373_1846530378755307_4628895591605207040_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/661a7bc70198eed5e9866ca42ab25ca2/5B6C1D9C/t51.2885-15/s480x480/e35/27575373_1846530378755307_4628895591605207040_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/98c7e81b875a3b3bda72950bc29db897/5B5EEC89/t51.2885-15/s640x640/sh0.08/e35/27575373_1846530378755307_4628895591605207040_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/98c7e81b875a3b3bda72950bc29db897/5B5EEC89/t51.2885-15/s640x640/sh0.08/e35/27575373_1846530378755307_4628895591605207040_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/04cc1f93c7e96d4966567d81907c7f7c/5B4FBBA3/t51.2885-15/e35/27575373_1846530378755307_4628895591605207040_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/387d6f7d57c181aaf97d623501a061bd/5B4EB17B/t51.2885-15/e35/26871715_200970457316210_9220443706677526528_n.jpg",
+        "edge_media_preview_like": {
+            "count": 20912
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Racing towards the weekend so fast you outrun your own skin!\n\nHave you read our latest review? We put the @ruffwear Polar Trex to the test! Click the link in our bio to see if these might be the right boots to help you beat winter \u2744 \ud83d\udcf8 @rubythetraildog \n#dogsthathike #weekendready #happydoggy #ruffwear #mydogismy #adventuredog #dogboots #doggear"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 541
+        },
+        "id": "1710998318820947496",
+        "image_contents": [
+            "vizsla, Hungarian pointer",
+            "Rhodesian ridgeback",
+            "Chesapeake Bay retriever",
+            "redbone",
+            "Brabancon griffon"
+        ],
+        "image_scores": [
+            0.96231,
+            0.00552,
+            0.00301,
+            0.00166,
+            0.00141
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Be-r-fcnPYo",
+        "tags": [
+            "doggear",
+            "dogboots",
+            "dogsthathike",
+            "mydogismy",
+            "ruffwear",
+            "weekendready",
+            "happydoggy",
+            "adventuredog"
+        ],
+        "taken_at_timestamp": 1518186915,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2bcff7497d8db7d21a6a61c3a79d7289/5B6FBC1E/t51.2885-15/s150x150/e35/26871715_200970457316210_9220443706677526528_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6beaaa2f58029fffabafcf8f63438dc7/5B55D221/t51.2885-15/s240x240/e35/26871715_200970457316210_9220443706677526528_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/26993f9f839403b9fc4c078b113a335d/5B6CAD59/t51.2885-15/s320x320/e35/26871715_200970457316210_9220443706677526528_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4c8475d821ea843af1f6bd63b8dabb25/5B6899DF/t51.2885-15/s480x480/e35/26871715_200970457316210_9220443706677526528_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6c74471c8b2cdbd57e5a06306d80786f/5B5C7D1A/t51.2885-15/s640x640/sh0.08/e35/26871715_200970457316210_9220443706677526528_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/6c74471c8b2cdbd57e5a06306d80786f/5B5C7D1A/t51.2885-15/s640x640/sh0.08/e35/26871715_200970457316210_9220443706677526528_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/387d6f7d57c181aaf97d623501a061bd/5B4EB17B/t51.2885-15/e35/26871715_200970457316210_9220443706677526528_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/cb47e1ef3aa8857ef5b1b7fd1341fe1b/5B6DA4F0/t51.2885-15/e35/26869843_350534892092187_7283116261624512512_n.jpg",
+        "edge_media_preview_like": {
+            "count": 16144
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Do you remember your pups first snow? Tell us about it below! \ud83d\udcf8 @harlowandfosters \n#dogsthathike #winterwednesday #snowdog #snowpuppy #puppydogeyes #adventuredog #adventurepup"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 214
+        },
+        "id": "1709862267440293460",
+        "image_contents": [
+            "Rottweiler",
+            "kelpie",
+            "Appenzeller",
+            "Tibetan mastiff",
+            "German shepherd, German shepherd dog, German police dog, alsatian"
+        ],
+        "image_scores": [
+            0.60974,
+            0.09771,
+            0.04127,
+            0.03353,
+            0.01665
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Be6pqxJn2ZU",
+        "tags": [
+            "snowdog",
+            "dogsthathike",
+            "puppydogeyes",
+            "adventurepup",
+            "winterwednesday",
+            "snowpuppy",
+            "adventuredog"
+        ],
+        "taken_at_timestamp": 1518051487,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b10dbc1db6b176fe7147fe564e207c91/5B71BC95/t51.2885-15/s150x150/e35/26869843_350534892092187_7283116261624512512_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d658f0a1eab67bb7dc4579b8c73cf691/5B574FAA/t51.2885-15/s240x240/e35/26869843_350534892092187_7283116261624512512_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0a486b298b59218dc4e08e05b8adcc1b/5B6BEAD2/t51.2885-15/s320x320/e35/26869843_350534892092187_7283116261624512512_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b8b4c52735077f25c7cda145088f0f47/5B53A354/t51.2885-15/s480x480/e35/26869843_350534892092187_7283116261624512512_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0c7612cce1a3ed911e7e8a76b2196c10/5B5B0091/t51.2885-15/s640x640/sh0.08/e35/26869843_350534892092187_7283116261624512512_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/0c7612cce1a3ed911e7e8a76b2196c10/5B5B0091/t51.2885-15/s640x640/sh0.08/e35/26869843_350534892092187_7283116261624512512_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/cb47e1ef3aa8857ef5b1b7fd1341fe1b/5B6DA4F0/t51.2885-15/e35/26869843_350534892092187_7283116261624512512_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/49e0e00a18fbffd07f3c5a7cefe2558f/5B65FAF1/t51.2885-15/e35/27579689_539503439755743_3578006485428338688_n.jpg",
+        "edge_media_preview_like": {
+            "count": 5057
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Happy tongue out Tuesday \ud83d\udc36\n\nWe've got another winter dog boot review up on the blog - the @ruffwear Polar Trex! Ruffwear took a unique approach with these opting for gaiters on the top of the boots to help keep snow out the same way gaiters work for humans! Could these be the right boots for your pup? Click the link in our bio to read the full review. \ud83d\udcf8 and review: @breeze.e.bear \n#dogsthathike #tongueouttuesday #dogboots #ruffwear #mydogismy #doggear"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 44
+        },
+        "id": "1708848772187914461",
+        "image_contents": [
+            "cocker spaniel, English cocker spaniel, cocker",
+            "English setter",
+            "Gordon setter",
+            "English springer, English springer spaniel",
+            "Bernese mountain dog"
+        ],
+        "image_scores": [
+            0.22789,
+            0.11627,
+            0.08355,
+            0.04559,
+            0.04395
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Be3DOeJH4Dd",
+        "tags": [
+            "dogboots",
+            "dogsthathike",
+            "mydogismy",
+            "ruffwear",
+            "tongueouttuesday",
+            "doggear"
+        ],
+        "taken_at_timestamp": 1517930669,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/460970b3537e67620943bf88542dccb3/5B757B94/t51.2885-15/s150x150/e35/27579689_539503439755743_3578006485428338688_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b8b1be89d84a06145039ad9b52467234/5B56F1AB/t51.2885-15/s240x240/e35/27579689_539503439755743_3578006485428338688_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/aa8efcc5a695f402f34f05981de3163b/5B7429D3/t51.2885-15/s320x320/e35/27579689_539503439755743_3578006485428338688_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/bfd6c4ba7bf08bfd99b6be41a253db25/5B507E55/t51.2885-15/s480x480/e35/27579689_539503439755743_3578006485428338688_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/51ca3c084b69a04496dbdf453880a284/5B682B90/t51.2885-15/s640x640/sh0.08/e35/27579689_539503439755743_3578006485428338688_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/51ca3c084b69a04496dbdf453880a284/5B682B90/t51.2885-15/s640x640/sh0.08/e35/27579689_539503439755743_3578006485428338688_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/49e0e00a18fbffd07f3c5a7cefe2558f/5B65FAF1/t51.2885-15/e35/27579689_539503439755743_3578006485428338688_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/d47c96fcb7fb38430279a228428cb74c/5B6669C2/t51.2885-15/e35/27579655_2066329950313804_1938542375336935424_n.jpg",
+        "edge_media_preview_like": {
+            "count": 19935
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Accurate photo of how I feel today \ud83d\udcf8 @lizzie.bear \n#dogsthathike #inovermyhead #sendhalp #goawaymonday #snowdog"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 302
+        },
+        "id": "1708124342075616567",
+        "image_contents": [
+            "Labrador retriever",
+            "Border terrier",
+            "cocker spaniel, English cocker spaniel, cocker",
+            "clumber, clumber spaniel",
+            "golden retriever"
+        ],
+        "image_scores": [
+            0.26112,
+            0.21811,
+            0.10157,
+            0.09225,
+            0.08906
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Be0egoBnW03",
+        "tags": [
+            "dogsthathike",
+            "snowdog",
+            "inovermyhead",
+            "goawaymonday",
+            "sendhalp"
+        ],
+        "taken_at_timestamp": 1517844311,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b6909c39368908a66b4cea3bc1ffb29e/5B565595/t51.2885-15/s150x150/e35/27579655_2066329950313804_1938542375336935424_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c01543a1833f57a4cb62508445622906/5B637E01/t51.2885-15/s240x240/e35/27579655_2066329950313804_1938542375336935424_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/147a8a8c7315892e92160cac86fcb109/5B6657A5/t51.2885-15/s320x320/e35/27579655_2066329950313804_1938542375336935424_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/bbbd2f6218f3635d9bda88a5c3e8238c/5B520AFD/t51.2885-15/s480x480/e35/27579655_2066329950313804_1938542375336935424_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e422380808e35c679ccd44c9401c70e4/5B5EB1E8/t51.2885-15/s640x640/sh0.08/e35/27579655_2066329950313804_1938542375336935424_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/e422380808e35c679ccd44c9401c70e4/5B5EB1E8/t51.2885-15/s640x640/sh0.08/e35/27579655_2066329950313804_1938542375336935424_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/d47c96fcb7fb38430279a228428cb74c/5B6669C2/t51.2885-15/e35/27579655_2066329950313804_1938542375336935424_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/d6ec5c5ba1d1b6f4c9be2d056f7f66b0/5B67C674/t51.2885-15/e35/26187837_926525474190439_4481281955098263552_n.jpg",
+        "edge_media_preview_like": {
+            "count": 11923
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Throwing back to sunny summer days \ud83c\udf1e \ud83d\udcf8 @pnwmutts .\n.\n.\n#dogsthathike #throwbackthursday #isitsummeryet #explorealberta #adventuredog #dogadventures #mutts"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 113
+        },
+        "id": "1705238202385638699",
+        "image_contents": [
+            "bull mastiff",
+            "Rottweiler",
+            "Staffordshire bullterrier, Staffordshire bull terrier",
+            "Brabancon griffon",
+            "Border terrier"
+        ],
+        "image_scores": [
+            0.38893,
+            0.1379,
+            0.06021,
+            0.04913,
+            0.0418
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BeqORw-nyUr",
+        "tags": [
+            "isitsummeryet",
+            "explorealberta",
+            "dogsthathike",
+            "throwbackthursday",
+            "dogadventures",
+            "mutts",
+            "adventuredog"
+        ],
+        "taken_at_timestamp": 1517500256,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/87d10869a29335c0f6d44d10e2520780/5B5A7748/t51.2885-15/s150x150/e35/c0.135.1080.1080/26187837_926525474190439_4481281955098263552_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4ecbdbf4a4e5d0746875c4575ea33422/5B720623/t51.2885-15/s240x240/e35/c0.135.1080.1080/26187837_926525474190439_4481281955098263552_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2c44becd42c2c9d9711a02b9cd4ee0a1/5B7131EB/t51.2885-15/s320x320/e35/c0.135.1080.1080/26187837_926525474190439_4481281955098263552_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/870146c64e515971c862c408cbeebd3c/5B517101/t51.2885-15/s480x480/e35/c0.135.1080.1080/26187837_926525474190439_4481281955098263552_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c79fe8562349253eb743f86dbce4119e/5B5050A6/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26187837_926525474190439_4481281955098263552_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/c79fe8562349253eb743f86dbce4119e/5B5050A6/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26187837_926525474190439_4481281955098263552_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/d6ec5c5ba1d1b6f4c9be2d056f7f66b0/5B67C674/t51.2885-15/e35/26187837_926525474190439_4481281955098263552_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 718,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/c3745353e0ddad1364095d109a0b62c3/5B6F305A/t51.2885-15/e35/26275189_195571911185561_5224321974594961408_n.jpg",
+        "edge_media_preview_like": {
+            "count": 5662
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "How many channels do you think those ears get? \ud83e\udd14 \ud83d\udcf8 @reggieandthevan \n#dogsthathike #thoseears #atleast10channels #thoseeyestho"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 35
+        },
+        "id": "1704572803889315790",
+        "image_contents": [
+            "Ibizan hound, Ibizan Podenco",
+            "kelpie",
+            "dingo, warrigal, warragal, Canis dingo",
+            "Eskimo dog, husky",
+            "Cardigan, Cardigan Welsh corgi"
+        ],
+        "image_scores": [
+            0.27755,
+            0.27599,
+            0.15471,
+            0.03657,
+            0.01898
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Ben2-8VnT_O",
+        "tags": [
+            "dogsthathike",
+            "thoseears",
+            "thoseeyestho",
+            "atleast10channels"
+        ],
+        "taken_at_timestamp": 1517420934,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2e5d23f5c3ea520debc8f2b62c83b8a1/5B75BD54/t51.2885-15/s150x150/e35/c181.0.718.718/26275189_195571911185561_5224321974594961408_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3daa330082a82fd289c288f83f155187/5B6AF9C2/t51.2885-15/s240x240/e35/c181.0.718.718/26275189_195571911185561_5224321974594961408_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3f236d9103921f19e14f45519effc070/5B58FF2A/t51.2885-15/s320x320/e35/c181.0.718.718/26275189_195571911185561_5224321974594961408_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ce2e9740efe59b65d344c1c7f09e7f32/5B68C003/t51.2885-15/s480x480/e35/c181.0.718.718/26275189_195571911185561_5224321974594961408_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2137641897f006f9a74742d97f383456/5B5DBD17/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/26275189_195571911185561_5224321974594961408_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/2137641897f006f9a74742d97f383456/5B5DBD17/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/26275189_195571911185561_5224321974594961408_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/c3745353e0ddad1364095d109a0b62c3/5B6F305A/t51.2885-15/e35/26275189_195571911185561_5224321974594961408_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/7a599edd81e37d48d799e8b1c39d27a5/5B64DEAA/t51.2885-15/e35/26869150_1771898619527832_5776221368005689344_n.jpg",
+        "edge_media_preview_like": {
+            "count": 5487
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\"Can't we just stay here forever?\" The first of our winter boot reviews is now posted! @thelifeofdelilah put @muttluks Snow Mushers to the test and it's safe to say these will be a part of many of their winter adventures! Click the link in our bio to read the full review. \ud83d\udcf8 @thelifeofdelilah \n#dogsthathike #doggear #dogboots #muttluks #puppydogeyes #thatfacetho"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 75
+        },
+        "id": "1703820239803519124",
+        "image_contents": [
+            "bluetick",
+            "Walker hound, Walker foxhound",
+            "basset, basset hound",
+            "German short-haired pointer",
+            "beagle"
+        ],
+        "image_scores": [
+            0.34929,
+            0.15376,
+            0.03728,
+            0.02797,
+            0.02714
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BelL3sanBCU",
+        "tags": [
+            "dogboots",
+            "thatfacetho",
+            "dogsthathike",
+            "puppydogeyes",
+            "muttluks",
+            "doggear"
+        ],
+        "taken_at_timestamp": 1517331222,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4c3f72e4e35c8021f604acc23845f8d4/5B5BFDFD/t51.2885-15/s150x150/e35/26869150_1771898619527832_5776221368005689344_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/10f0011c0c539bd1c1aaf66af00c551f/5B6B9F69/t51.2885-15/s240x240/e35/26869150_1771898619527832_5776221368005689344_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/308559420407c53a18e9e89024a42cff/5B623CCD/t51.2885-15/s320x320/e35/26869150_1771898619527832_5776221368005689344_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/30c0f1bc34d8a37e11bc81981a742993/5B721C95/t51.2885-15/s480x480/e35/26869150_1771898619527832_5776221368005689344_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/af13053c0fa044de62963f0d7fe054be/5B6B5480/t51.2885-15/s640x640/sh0.08/e35/26869150_1771898619527832_5776221368005689344_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/af13053c0fa044de62963f0d7fe054be/5B6B5480/t51.2885-15/s640x640/sh0.08/e35/26869150_1771898619527832_5776221368005689344_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/7a599edd81e37d48d799e8b1c39d27a5/5B64DEAA/t51.2885-15/e35/26869150_1771898619527832_5776221368005689344_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1339,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/545a3e142cbb4921a393fa2502c19127/5B660E88/t51.2885-15/e35/26403719_1762177240757168_4528408475163688960_n.jpg",
+        "edge_media_preview_like": {
+            "count": 9271
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Are you sure we have to Monday? \ud83d\udcf8 @farley_the_labrador \n#dogsthathike #mondayvibes #boop #thoseeyestho #labstagram #puppydogeyes"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 44
+        },
+        "id": "1703063118564703903",
+        "image_contents": [
+            "Labrador retriever",
+            "Chesapeake Bay retriever",
+            "kuvasz",
+            "curly-coated retriever",
+            "dalmatian, coach dog, carriage dog"
+        ],
+        "image_scores": [
+            0.92457,
+            0.01915,
+            0.00582,
+            0.00273,
+            0.00216
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BeifuIUHj6f",
+        "tags": [
+            "dogsthathike",
+            "labstagram",
+            "puppydogeyes",
+            "boop",
+            "thoseeyestho",
+            "mondayvibes"
+        ],
+        "taken_at_timestamp": 1517240966,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4f05d0af846c85a536368fad9dcbd299/5B729DA8/t51.2885-15/s150x150/e35/c0.129.1080.1080/26403719_1762177240757168_4528408475163688960_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ab1b8fd294f1185a8dbd091d71b6524d/5B6D1858/t51.2885-15/s240x240/e35/c0.129.1080.1080/26403719_1762177240757168_4528408475163688960_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/998a657bdba89a82372593c80766f586/5B61F759/t51.2885-15/s320x320/e35/c0.129.1080.1080/26403719_1762177240757168_4528408475163688960_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0773d6d7068950a13c705f809572330c/5B577974/t51.2885-15/s480x480/e35/c0.129.1080.1080/26403719_1762177240757168_4528408475163688960_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c29667b12ca02f55d599688d7581ff8d/5B734B0C/t51.2885-15/s640x640/sh0.08/e35/c0.129.1080.1080/26403719_1762177240757168_4528408475163688960_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/c29667b12ca02f55d599688d7581ff8d/5B734B0C/t51.2885-15/s640x640/sh0.08/e35/c0.129.1080.1080/26403719_1762177240757168_4528408475163688960_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/545a3e142cbb4921a393fa2502c19127/5B660E88/t51.2885-15/e35/26403719_1762177240757168_4528408475163688960_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/cfb49ec90f3cc403cf29e9b02fbf54c5/5B6784CB/t51.2885-15/e35/26865169_1987376421500685_2822355668856471552_n.jpg",
+        "edge_media_preview_like": {
+            "count": 2709
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Put your ears in the air and wave em like you just don't care \ud83d\udc3a\n\nOur Explorers have been busy putting some winter boots to the test including these Snow Mushers from @muttluks \ud83d\udc3e check back next week for the first of our reviews! \ud83d\udcf8 @tansypup \n#dogsthathike #friyayvibes #dogboots #doggear #muttluks"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 16
+        },
+        "id": "1700906873804115917",
+        "image_contents": [
+            "toy terrier",
+            "Chihuahua",
+            "miniature pinscher",
+            "Boston bull, Boston terrier",
+            "Italian greyhound"
+        ],
+        "image_scores": [
+            0.48649,
+            0.10036,
+            0.05742,
+            0.00647,
+            0.00553
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Bea1co5HU_N",
+        "tags": [
+            "dogsthathike",
+            "muttluks",
+            "dogboots",
+            "friyayvibes",
+            "doggear"
+        ],
+        "taken_at_timestamp": 1516983921,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/015577bb2592a95ac739127c5a97defc/5B74C69C/t51.2885-15/s150x150/e35/26865169_1987376421500685_2822355668856471552_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/df8a608dfaaf898adbacbee09f073d4b/5B606C08/t51.2885-15/s240x240/e35/26865169_1987376421500685_2822355668856471552_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/9984f87392dbe3cb2e5e2358d08e7fb8/5B5A3CAC/t51.2885-15/s320x320/e35/26865169_1987376421500685_2822355668856471552_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ec90b9c9b8485d0b56fb137e304d9a28/5B7389F4/t51.2885-15/s480x480/e35/26865169_1987376421500685_2822355668856471552_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/29b21922da5d10e01ef69eb90c1a4178/5B6F13E1/t51.2885-15/s640x640/sh0.08/e35/26865169_1987376421500685_2822355668856471552_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/29b21922da5d10e01ef69eb90c1a4178/5B6F13E1/t51.2885-15/s640x640/sh0.08/e35/26865169_1987376421500685_2822355668856471552_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/cfb49ec90f3cc403cf29e9b02fbf54c5/5B6784CB/t51.2885-15/e35/26865169_1987376421500685_2822355668856471552_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/d7da1b30a6c0eb9fa8079a0e99d8e4ea/5B5A2B65/t51.2885-15/e35/26872053_749527651908961_3509680500711096320_n.jpg",
+        "edge_media_preview_like": {
+            "count": 7244
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Do you think she jumped in? \ud83d\udcf8 @kristiinatammik\n\n#dogsthathike #dogsthatswim #wetdogwednesday #winterwednesday #ibizanhound"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 53
+        },
+        "id": "1699722034287582297",
+        "image_contents": [
+            "Ibizan hound, Ibizan Podenco",
+            "Chihuahua",
+            "Brittany spaniel",
+            "cassette",
+            "vizsla, Hungarian pointer"
+        ],
+        "image_scores": [
+            0.97017,
+            0.00059,
+            0.00058,
+            0.00038,
+            0.00026
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BeWoC9GnZxZ",
+        "tags": [
+            "dogsthathike",
+            "winterwednesday",
+            "wetdogwednesday",
+            "dogsthatswim",
+            "ibizanhound"
+        ],
+        "taken_at_timestamp": 1516842677,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/35400f7362db7905185990f9857eca69/5B69AC00/t51.2885-15/s150x150/e35/26872053_749527651908961_3509680500711096320_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a4d09f97d297fda0c398c1a726d2cb6c/5B6AA43F/t51.2885-15/s240x240/e35/26872053_749527651908961_3509680500711096320_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ffb260ee5c7e7480ec48916d8694bd15/5B626047/t51.2885-15/s320x320/e35/26872053_749527651908961_3509680500711096320_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4e8b82a0efabb0c3915995843df9148f/5B6E48C1/t51.2885-15/s480x480/e35/26872053_749527651908961_3509680500711096320_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/69ae8a2cd33281cb4a4b987fb4d19c1a/5B6CC704/t51.2885-15/s640x640/sh0.08/e35/26872053_749527651908961_3509680500711096320_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/69ae8a2cd33281cb4a4b987fb4d19c1a/5B6CC704/t51.2885-15/s640x640/sh0.08/e35/26872053_749527651908961_3509680500711096320_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/d7da1b30a6c0eb9fa8079a0e99d8e4ea/5B5A2B65/t51.2885-15/e35/26872053_749527651908961_3509680500711096320_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/645c2deaaf3762ffeeb5f8d8c9a7a69c/5B5C4D84/t51.2885-15/e35/26868887_1046768978799534_3871942188761874432_n.jpg",
+        "edge_media_preview_like": {
+            "count": 15925
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\"Are you sure you know where you're going hooman?\" \ud83d\udcf8 @trailsandbears \n#dogsthathike #dogsthatswim #lakelouise #banffnationalpark #explorealberta"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 145
+        },
+        "id": "1698975327799038875",
+        "image_contents": [
+            "Shetland sheepdog, Shetland sheep dog, Shetland",
+            "collie",
+            "Pembroke, Pembroke Welsh corgi",
+            "Cardigan, Cardigan Welsh corgi",
+            "Border collie"
+        ],
+        "image_scores": [
+            0.58071,
+            0.25394,
+            0.01742,
+            0.00555,
+            0.00244
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BeT-Q8fnVOb",
+        "tags": [
+            "dogsthathike",
+            "banffnationalpark",
+            "dogsthatswim",
+            "lakelouise",
+            "explorealberta"
+        ],
+        "taken_at_timestamp": 1516753663,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4dcee25289834658fad41e3039258579/5B52D323/t51.2885-15/s150x150/e35/c0.135.1080.1080/26868887_1046768978799534_3871942188761874432_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/1782e6f25ab033237143bf219e6b8e0e/5B67BFD3/t51.2885-15/s240x240/e35/c0.135.1080.1080/26868887_1046768978799534_3871942188761874432_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/18abb8e0aab10c51dfb1e792f9b3ded9/5B738AD2/t51.2885-15/s320x320/e35/c0.135.1080.1080/26868887_1046768978799534_3871942188761874432_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f2b32efb426607effb30e2a595aa50ed/5B5B58FF/t51.2885-15/s480x480/e35/c0.135.1080.1080/26868887_1046768978799534_3871942188761874432_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/97460dde306a87f3c9f84fe3b05290a9/5B595187/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26868887_1046768978799534_3871942188761874432_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/97460dde306a87f3c9f84fe3b05290a9/5B595187/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26868887_1046768978799534_3871942188761874432_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/645c2deaaf3762ffeeb5f8d8c9a7a69c/5B5C4D84/t51.2885-15/e35/26868887_1046768978799534_3871942188761874432_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/b744f951fcce59648585adb6b5609c76/5B54C7EB/t51.2885-15/e35/26869486_140724433267892_5831718994079383552_n.jpg",
+        "edge_media_preview_like": {
+            "count": 16339
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Please hooman, make Monday go away \ud83d\ude41 \ud83d\udcf8 @littleriverdog \n#dogsthathike #mondaymood #thoseeyestho #snugglypup"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 240
+        },
+        "id": "1697999294786469179",
+        "image_contents": [
+            "bath towel",
+            "Brittany spaniel",
+            "English springer, English springer spaniel",
+            "sock",
+            "bonnet, poke bonnet"
+        ],
+        "image_scores": [
+            0.29686,
+            0.12333,
+            0.0795,
+            0.02244,
+            0.0193
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BeQgVy6nH07",
+        "tags": [
+            "dogsthathike",
+            "thoseeyestho",
+            "snugglypup",
+            "mondaymood"
+        ],
+        "taken_at_timestamp": 1516637311,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/003b1e70e04896787343425330a93f66/5B5891D7/t51.2885-15/s150x150/e35/c0.135.1080.1080/26869486_140724433267892_5831718994079383552_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7367042cb9df2d7d51abedd307df7535/5B7021BC/t51.2885-15/s240x240/e35/c0.135.1080.1080/26869486_140724433267892_5831718994079383552_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f39958704dd364584414afe19d50f841/5B562F74/t51.2885-15/s320x320/e35/c0.135.1080.1080/26869486_140724433267892_5831718994079383552_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/99a5caf33e644db00eaccfca3df17a1a/5B5E8D9E/t51.2885-15/s480x480/e35/c0.135.1080.1080/26869486_140724433267892_5831718994079383552_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/43ef4c9c907161d482ad147ab28c15ae/5B503539/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26869486_140724433267892_5831718994079383552_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/43ef4c9c907161d482ad147ab28c15ae/5B503539/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26869486_140724433267892_5831718994079383552_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/b744f951fcce59648585adb6b5609c76/5B54C7EB/t51.2885-15/e35/26869486_140724433267892_5831718994079383552_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/02cb13fe92d2930ae21e06d83e16c7b6/5B6DE5FB/t51.2885-15/e35/26070463_330688260763340_6210540907792433152_n.jpg",
+        "edge_media_preview_like": {
+            "count": 11206
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "How do you find Will Smith in the snow?\n\nLook for fresh prints! \ud83d\udcf8 @indiegramz \n#dogsthathike #happydoggy #cutedoggy"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 105
+        },
+        "id": "1695810771300119138",
+        "image_contents": [
+            "poncho",
+            "fur coat",
+            "cloak",
+            "bloodhound, sleuthhound",
+            "brown bear, bruin, Ursus arctos"
+        ],
+        "image_scores": [
+            0.56774,
+            0.0578,
+            0.02466,
+            0.01207,
+            0.01041
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BeIuulln_Ji",
+        "tags": [
+            "dogsthathike",
+            "cutedoggy",
+            "happydoggy"
+        ],
+        "taken_at_timestamp": 1516376418,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/92ef57aa003004f22176581b23488747/5B74679E/t51.2885-15/s150x150/e35/26070463_330688260763340_6210540907792433152_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a02f43e2e2802c038e35664d5a25f99b/5B4F61A1/t51.2885-15/s240x240/e35/26070463_330688260763340_6210540907792433152_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/844a2f4eeb64f18949339e6014d72c63/5B70F5D9/t51.2885-15/s320x320/e35/26070463_330688260763340_6210540907792433152_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/19cc4ed70bfdd0548e7104babf3d1fab/5B55935F/t51.2885-15/s480x480/e35/26070463_330688260763340_6210540907792433152_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c4193010a4792c7e4318c404ec7b9cef/5B6FBB9A/t51.2885-15/s640x640/sh0.08/e35/26070463_330688260763340_6210540907792433152_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/c4193010a4792c7e4318c404ec7b9cef/5B6FBB9A/t51.2885-15/s640x640/sh0.08/e35/26070463_330688260763340_6210540907792433152_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/02cb13fe92d2930ae21e06d83e16c7b6/5B6DE5FB/t51.2885-15/e35/26070463_330688260763340_6210540907792433152_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/46fbffdf479262b5f9bb366ca5f10cf7/5B6AC4E0/t51.2885-15/e35/26262815_146572139312379_7148140536321277952_n.jpg",
+        "edge_media_preview_like": {
+            "count": 6696
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Caption this \ud83d\uddef \ud83d\udcf8 @lokithefirefox \n#dogsthathike #puppydogeyes #thoseears #boop #throwbackthursday"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 49
+        },
+        "id": "1695058526492958388",
+        "image_contents": [
+            "kelpie",
+            "Border collie",
+            "Ibizan hound, Ibizan Podenco",
+            "collie",
+            "Brittany spaniel"
+        ],
+        "image_scores": [
+            0.30999,
+            0.27453,
+            0.07127,
+            0.0552,
+            0.0342
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BeGDr_BHB60",
+        "tags": [
+            "dogsthathike",
+            "boop",
+            "puppydogeyes",
+            "thoseears",
+            "throwbackthursday"
+        ],
+        "taken_at_timestamp": 1516286744,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a5d35bc9109c943254fbb807f05f1632/5B5E9485/t51.2885-15/s150x150/e35/26262815_146572139312379_7148140536321277952_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f3a2dd39913a2afd0dc14d9202f4fe9c/5B720FBA/t51.2885-15/s240x240/e35/26262815_146572139312379_7148140536321277952_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5edfab02db6c546270145db3fd71683f/5B75FFC2/t51.2885-15/s320x320/e35/26262815_146572139312379_7148140536321277952_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e345d519c24268298851ac92b2cf9da4/5B6FE944/t51.2885-15/s480x480/e35/26262815_146572139312379_7148140536321277952_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/27ea9f50a177d3033608632def2ad6e0/5B51A881/t51.2885-15/s640x640/sh0.08/e35/26262815_146572139312379_7148140536321277952_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/27ea9f50a177d3033608632def2ad6e0/5B51A881/t51.2885-15/s640x640/sh0.08/e35/26262815_146572139312379_7148140536321277952_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/46fbffdf479262b5f9bb366ca5f10cf7/5B6AC4E0/t51.2885-15/e35/26262815_146572139312379_7148140536321277952_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 955,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/02edcee623b6c3d371dc8141dd2bf85a/5B5D5355/t51.2885-15/e35/26320599_152494845405726_3177881503862358016_n.jpg",
+        "edge_media_preview_like": {
+            "count": 21219
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Smile if you love winter \ud83d\ude01 \ud83d\udcf8 and caption: @timthetoothninja / @bjorninalaska\n\n#dogsthathike\n.\n.\n.\n\n#boop #snowdog #happydoggy #goprodog #winterwonderland"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 384
+        },
+        "id": "1694375619990397425",
+        "image_contents": [
+            "Border collie",
+            "collie",
+            "Bernese mountain dog",
+            "Tibetan mastiff",
+            "Newfoundland, Newfoundland dog"
+        ],
+        "image_scores": [
+            0.224,
+            0.17753,
+            0.13388,
+            0.04156,
+            0.03496
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BeDoaYxnCHx",
+        "tags": [
+            "snowdog",
+            "dogsthathike",
+            "goprodog",
+            "happydoggy",
+            "boop",
+            "winterwonderland"
+        ],
+        "taken_at_timestamp": 1516205335,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/390c681f9ecb54980e15805635b9b7ee/5B706F9E/t51.2885-15/s150x150/e35/c62.0.955.955/26320599_152494845405726_3177881503862358016_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b2cda95c7c346ed03ec567d3136611b8/5B590115/t51.2885-15/s240x240/e35/c62.0.955.955/26320599_152494845405726_3177881503862358016_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fbd1e84d88dd73aaac964457c1ebc047/5B646281/t51.2885-15/s320x320/e35/c62.0.955.955/26320599_152494845405726_3177881503862358016_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/22389d51b7cfa1a46dfe13bfd35af961/5B673FD4/t51.2885-15/s480x480/e35/c62.0.955.955/26320599_152494845405726_3177881503862358016_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e66e6f9ce286d952f131cf1b209ea6ff/5B501DE2/t51.2885-15/s640x640/sh0.08/e35/c62.0.955.955/26320599_152494845405726_3177881503862358016_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/e66e6f9ce286d952f131cf1b209ea6ff/5B501DE2/t51.2885-15/s640x640/sh0.08/e35/c62.0.955.955/26320599_152494845405726_3177881503862358016_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/02edcee623b6c3d371dc8141dd2bf85a/5B5D5355/t51.2885-15/e35/26320599_152494845405726_3177881503862358016_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1234,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/76e912cdcc3e551228bc3e2bcbb93ab4/5B6552CB/t51.2885-15/e35/26072813_142856949736952_3744676221812736000_n.jpg",
+        "edge_media_preview_like": {
+            "count": 11886
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "When you're just not ready to Monday \ud83d\ude27 \ud83d\udcf8 @theneighbourhoodwolf \n#dogsthathike #mondayvibes"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 96
+        },
+        "id": "1692872367285367567",
+        "image_contents": [
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "malinois",
+            "groenendael",
+            "kelpie",
+            "Norwegian elkhound, elkhound"
+        ],
+        "image_scores": [
+            0.88421,
+            0.0169,
+            0.0135,
+            0.00956,
+            0.00759
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Bd-SnLmHnMP",
+        "tags": [
+            "dogsthathike",
+            "mondayvibes"
+        ],
+        "taken_at_timestamp": 1516026133,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/97b31e586d624acb3f55b914d3f8b826/5B608202/t51.2885-15/s150x150/e35/c0.77.1080.1080/26072813_142856949736952_3744676221812736000_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/db457dadeef3b7a838f96306bf7f705a/5B5EBF94/t51.2885-15/s240x240/e35/c0.77.1080.1080/26072813_142856949736952_3744676221812736000_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f8371a4f0ec038017bd5b87bdcbdf537/5B5E8692/t51.2885-15/s320x320/e35/c0.77.1080.1080/26072813_142856949736952_3744676221812736000_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/28c1dba09b8802958d45864fb7b6a7dc/5B72D321/t51.2885-15/s480x480/e35/c0.77.1080.1080/26072813_142856949736952_3744676221812736000_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/dbeca3488d8eac54b07a427611af0767/5B500496/t51.2885-15/s640x640/sh0.08/e35/c0.77.1080.1080/26072813_142856949736952_3744676221812736000_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/dbeca3488d8eac54b07a427611af0767/5B500496/t51.2885-15/s640x640/sh0.08/e35/c0.77.1080.1080/26072813_142856949736952_3744676221812736000_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/76e912cdcc3e551228bc3e2bcbb93ab4/5B6552CB/t51.2885-15/e35/26072813_142856949736952_3744676221812736000_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/c8debdcf4d8b8c280159bdf0bfb51bcd/5B640C7A/t51.2885-15/e35/26156594_425032627932680_7581728587342938112_n.jpg",
+        "edge_media_preview_like": {
+            "count": 14430
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\"I was wearing beanies before you'd ever heard of them\" - Hank, Professional Hipster Doggo \ud83d\udcf8 @pointinghomeward / @easanti\n\n#dogsthathike #hipsterdog #throwbackthursday"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 404
+        },
+        "id": "1690307043230976117",
+        "image_contents": [
+            "German short-haired pointer",
+            "bluetick",
+            "Great Dane",
+            "Weimaraner",
+            "Labrador retriever"
+        ],
+        "image_scores": [
+            0.89841,
+            0.02508,
+            0.00807,
+            0.00143,
+            0.00136
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Bd1LUzZH4h1",
+        "tags": [
+            "dogsthathike",
+            "throwbackthursday",
+            "hipsterdog"
+        ],
+        "taken_at_timestamp": 1515720323,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/888f3542f6d846195e57d35fba602c6b/5B5E6046/t51.2885-15/s150x150/e35/c0.135.1080.1080/26156594_425032627932680_7581728587342938112_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ebe18ed8ae61ceb63e92082781029b8d/5B5A072D/t51.2885-15/s240x240/e35/c0.135.1080.1080/26156594_425032627932680_7581728587342938112_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ae48fc7084c77984e60efb1535342f33/5B6014E5/t51.2885-15/s320x320/e35/c0.135.1080.1080/26156594_425032627932680_7581728587342938112_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/64760bffe3d92331b3f8c78919af62c8/5B546D0F/t51.2885-15/s480x480/e35/c0.135.1080.1080/26156594_425032627932680_7581728587342938112_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/79728bd1e81cb1fa173d0f63f4e9d8f8/5B6480A8/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26156594_425032627932680_7581728587342938112_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/79728bd1e81cb1fa173d0f63f4e9d8f8/5B6480A8/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26156594_425032627932680_7581728587342938112_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/c8debdcf4d8b8c280159bdf0bfb51bcd/5B640C7A/t51.2885-15/e35/26156594_425032627932680_7581728587342938112_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/74d660b7b70ffdca55ef6efa880d7f4d/5B5B088D/t51.2885-15/e35/25039263_392814554494620_5734956108204736512_n.jpg",
+        "edge_media_preview_like": {
+            "count": 13130
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Did someone say treat? \ud83d\udcf8 @tobithebc / @jongsunpark_ \n#dogsthathike #thoseeyestho"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 107
+        },
+        "id": "1688504341094091753",
+        "image_contents": [
+            "Border collie",
+            "collie",
+            "kelpie",
+            "Appenzeller",
+            "Ibizan hound, Ibizan Podenco"
+        ],
+        "image_scores": [
+            0.88535,
+            0.04635,
+            0.0144,
+            0.00258,
+            0.00252
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BduxcCMnkvp",
+        "tags": [
+            "dogsthathike",
+            "thoseeyestho"
+        ],
+        "taken_at_timestamp": 1515505424,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/19306ea69c165e2e2511598b6bfee2cb/5B7476B1/t51.2885-15/s150x150/e35/c0.135.1080.1080/25039263_392814554494620_5734956108204736512_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4263af073744c3d701d978d14e5a39c1/5B531ADA/t51.2885-15/s240x240/e35/c0.135.1080.1080/25039263_392814554494620_5734956108204736512_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/785388d8c47823ef7433e776900df333/5B742312/t51.2885-15/s320x320/e35/c0.135.1080.1080/25039263_392814554494620_5734956108204736512_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4b3400d9e6f956016aa1cf2d4f690a18/5B6B70F8/t51.2885-15/s480x480/e35/c0.135.1080.1080/25039263_392814554494620_5734956108204736512_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3ade1dca4a3535f78c569ea19fa4653d/5B6E625F/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25039263_392814554494620_5734956108204736512_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/3ade1dca4a3535f78c569ea19fa4653d/5B6E625F/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25039263_392814554494620_5734956108204736512_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/74d660b7b70ffdca55ef6efa880d7f4d/5B5B088D/t51.2885-15/e35/25039263_392814554494620_5734956108204736512_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/4ba6d2bbf1e4fbd2406d824bd3fcc4e5/5B727521/t51.2885-15/e35/25036693_862815477233292_2390947090399232000_n.jpg",
+        "edge_media_preview_like": {
+            "count": 20026
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "How dogs in Canada are born* \ud83d\udc36 \ud83d\udcf8 @kjp / @puffinandbennie \n#dogsthathike #thoseeyestho * not actually a Canadian doggo but an accurate representation of what happens up here, eh!"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 255
+        },
+        "id": "1685930215292608027",
+        "image_contents": [
+            "golden retriever",
+            "Labrador retriever",
+            "clumber, clumber spaniel",
+            "Chesapeake Bay retriever",
+            "flat-coated retriever"
+        ],
+        "image_scores": [
+            0.71977,
+            0.21836,
+            0.0024,
+            0.00173,
+            0.00119
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BdloJkunR4b",
+        "tags": [
+            "dogsthathike",
+            "thoseeyestho"
+        ],
+        "taken_at_timestamp": 1515198564,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/9bc4d2b59f03c864f21960ee3d46f36d/5B61071D/t51.2885-15/s150x150/e35/c0.135.1080.1080/25036693_862815477233292_2390947090399232000_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f96d9b7b13616bada23638930e534165/5B66ED76/t51.2885-15/s240x240/e35/c0.135.1080.1080/25036693_862815477233292_2390947090399232000_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0263e55f5bec36d21464fe84cb371cee/5B6BBFBE/t51.2885-15/s320x320/e35/c0.135.1080.1080/25036693_862815477233292_2390947090399232000_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d8e8c1d7dbb75c01412d85c9cd834d60/5B645554/t51.2885-15/s480x480/e35/c0.135.1080.1080/25036693_862815477233292_2390947090399232000_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6de05a4ab13fbf69c03846cc0378f9b6/5B5A66F3/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25036693_862815477233292_2390947090399232000_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/6de05a4ab13fbf69c03846cc0378f9b6/5B5A66F3/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25036693_862815477233292_2390947090399232000_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/4ba6d2bbf1e4fbd2406d824bd3fcc4e5/5B727521/t51.2885-15/e35/25036693_862815477233292_2390947090399232000_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/143b86a668d49b98c1324a775ffafc5e/5B6617F5/t51.2885-15/e35/26181236_465131347215600_4415040549938003968_n.jpg",
+        "edge_media_preview_like": {
+            "count": 9409
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Our kind of goals \ud83d\ude02 \nWhat are your goals for 2018? \ud83d\udcf8 @reverend_scott\n\n#dogsthathike #goals #petallthedogs"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 650
+        },
+        "id": "1684317327415244234",
+        "image_contents": [
+            "web site, website, internet site, site",
+            "rugby ball",
+            "nail",
+            "snail",
+            "volleyball"
+        ],
+        "image_scores": [
+            0.3826,
+            0.04591,
+            0.0368,
+            0.02302,
+            0.02254
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Bdf5a91nvXK",
+        "tags": [
+            "dogsthathike",
+            "petallthedogs",
+            "goals"
+        ],
+        "taken_at_timestamp": 1515006293,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/017bcd7768282e5aff8c948ca21a89a4/5B4F4D90/t51.2885-15/s150x150/e35/26181236_465131347215600_4415040549938003968_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6546f66a5f1ccfadb2a1ea91316bf278/5B6EC1AF/t51.2885-15/s240x240/e35/26181236_465131347215600_4415040549938003968_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/50488fd2df696a2d14b5b56fa81ae4a2/5B5867D7/t51.2885-15/s320x320/e35/26181236_465131347215600_4415040549938003968_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/aac141de9bd712d096559a6205f540e0/5B557E51/t51.2885-15/s480x480/e35/26181236_465131347215600_4415040549938003968_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e2aa0196312761d77d8abf857e7d7cc2/5B54D694/t51.2885-15/s640x640/sh0.08/e35/26181236_465131347215600_4415040549938003968_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/e2aa0196312761d77d8abf857e7d7cc2/5B54D694/t51.2885-15/s640x640/sh0.08/e35/26181236_465131347215600_4415040549938003968_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/143b86a668d49b98c1324a775ffafc5e/5B6617F5/t51.2885-15/e35/26181236_465131347215600_4415040549938003968_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/aac29a85d0878b125bebfa3d0208bfec/5B759F48/t51.2885-15/e35/26278414_1285192804960256_6847246384672800768_n.jpg",
+        "edge_media_preview_like": {
+            "count": 18620
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "When you're trying to keep it together on your first day back to work but you can't remember any of your passwords \ud83d\udcf8 @zilkerbark \n#dogsthathike #canigohomenow #boop"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 214
+        },
+        "id": "1683470019094103211",
+        "image_contents": [
+            "Rhodesian ridgeback",
+            "malinois",
+            "Irish terrier",
+            "Brabancon griffon",
+            "redbone"
+        ],
+        "image_scores": [
+            0.48878,
+            0.12785,
+            0.04817,
+            0.04591,
+            0.03756
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "Bdc4xAeH8Sr",
+        "tags": [
+            "dogsthathike",
+            "boop",
+            "canigohomenow"
+        ],
+        "taken_at_timestamp": 1514905286,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/9f2ecc298cb94f483a4a9bc6f596710b/5B746AEF/t51.2885-15/s150x150/e35/c0.135.1080.1080/26278414_1285192804960256_6847246384672800768_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/1edd6d3a798b74eee0828e2de01e7639/5B59681F/t51.2885-15/s240x240/e35/c0.135.1080.1080/26278414_1285192804960256_6847246384672800768_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e22a180a818eb007d53f4754cd7d1978/5B5F831E/t51.2885-15/s320x320/e35/c0.135.1080.1080/26278414_1285192804960256_6847246384672800768_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/970646fd9dd0a4f8f559c956462f43c9/5B63C133/t51.2885-15/s480x480/e35/c0.135.1080.1080/26278414_1285192804960256_6847246384672800768_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/bc15dc1899f220407f734ac45bf249c6/5B5B884B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26278414_1285192804960256_6847246384672800768_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/bc15dc1899f220407f734ac45bf249c6/5B5B884B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26278414_1285192804960256_6847246384672800768_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/aac29a85d0878b125bebfa3d0208bfec/5B759F48/t51.2885-15/e35/26278414_1285192804960256_6847246384672800768_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 848,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/ff26a9bb7a983a69860775b2eaffab0c/5B735E75/t51.2885-15/e35/26266855_1971858946385360_5213694520402640896_n.jpg",
+        "edge_media_preview_like": {
+            "count": 11986
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Paws up if you're ready to conquer 2018 \ud83d\udc3e \ud83d\udcf8 @fuku_the_mixbreed \n#dogsthathike #pawsup #blep"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 86
+        },
+        "id": "1682759993371049884",
+        "image_contents": [
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "malamute, malemute, Alaskan malamute",
+            "Norwegian elkhound, elkhound",
+            "Eskimo dog, husky",
+            "Tibetan mastiff"
+        ],
+        "image_scores": [
+            0.31045,
+            0.15647,
+            0.05745,
+            0.04452,
+            0.03937
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BdaXUxfHr-c",
+        "tags": [
+            "dogsthathike",
+            "pawsup",
+            "blep"
+        ],
+        "taken_at_timestamp": 1514820645,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/dab69c95afbd4767f96b870d0f114d42/5B67C131/t51.2885-15/s150x150/e35/c116.0.848.848/26266855_1971858946385360_5213694520402640896_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4519acabf4c37cb99b036ad54df1b31b/5B67D9A7/t51.2885-15/s240x240/e35/c116.0.848.848/26266855_1971858946385360_5213694520402640896_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/cd0c9486fa107074a5efac94538dd4d4/5B59B9A1/t51.2885-15/s320x320/e35/c116.0.848.848/26266855_1971858946385360_5213694520402640896_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2830e0e6b61c10e7c6a4809f51da40aa/5B70F512/t51.2885-15/s480x480/e35/c116.0.848.848/26266855_1971858946385360_5213694520402640896_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7ac9ded7b2e80e9b27919eb522a4d094/5B73B3A5/t51.2885-15/s640x640/sh0.08/e35/c116.0.848.848/26266855_1971858946385360_5213694520402640896_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/7ac9ded7b2e80e9b27919eb522a4d094/5B73B3A5/t51.2885-15/s640x640/sh0.08/e35/c116.0.848.848/26266855_1971858946385360_5213694520402640896_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/ff26a9bb7a983a69860775b2eaffab0c/5B735E75/t51.2885-15/e35/26266855_1971858946385360_5213694520402640896_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/b21e92f505726d0e33771d4dd8b93cba/5B56932D/t51.2885-15/e35/25035700_143457466434492_4893397673605857280_n.jpg",
+        "edge_media_preview_like": {
+            "count": 7237
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "When you're not ready for the holidays to be over... \ud83d\udcf8 @findmeoutside \n#dogsthathike #canwejuststayhereplease"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 40
+        },
+        "id": "1679178474643636846",
+        "image_contents": [
+            "vizsla, Hungarian pointer",
+            "Weimaraner",
+            "Doberman, Doberman pinscher",
+            "Chesapeake Bay retriever",
+            "Rhodesian ridgeback"
+        ],
+        "image_scores": [
+            0.21215,
+            0.13181,
+            0.09291,
+            0.04541,
+            0.0389
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "2291217662"
+        },
+        "shortcode": "BdNo-0PncJu",
+        "tags": [
+            "dogsthathike",
+            "canwejuststayhereplease"
+        ],
+        "taken_at_timestamp": 1514393694,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/1f5725471bff3ea4ab6afc80dd464816/5B64AA48/t51.2885-15/s150x150/e35/25035700_143457466434492_4893397673605857280_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c90195db85a8c73719fc17225f36ec2a/5B74A577/t51.2885-15/s240x240/e35/25035700_143457466434492_4893397673605857280_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/55c55a76966b5ce1f0a1825c56854f4f/5B58560F/t51.2885-15/s320x320/e35/25035700_143457466434492_4893397673605857280_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/595392f4ad8b00c913986ffdfe6c5c53/5B603489/t51.2885-15/s480x480/e35/25035700_143457466434492_4893397673605857280_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b0b7d3c35b23ec5bb77243a3622c7e55/5B65574C/t51.2885-15/s640x640/sh0.08/e35/25035700_143457466434492_4893397673605857280_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/b0b7d3c35b23ec5bb77243a3622c7e55/5B65574C/t51.2885-15/s640x640/sh0.08/e35/25035700_143457466434492_4893397673605857280_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/b21e92f505726d0e33771d4dd8b93cba/5B56932D/t51.2885-15/e35/25035700_143457466434492_4893397673605857280_n.jpg"
+        ]
+    }
+]

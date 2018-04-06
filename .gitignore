@@ -42,8 +42,5 @@ Thumbs.db
 # TensorFlow pre trained models
 models/
 
-# Instagram-scraper output file
-users/
-
 # Virtual environment
 venv/

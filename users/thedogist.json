@@ -1,0 +1,3893 @@
+[
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/7bececbc5540137702c138c40ad32c2c/5B5B99EC/t51.2885-15/e35/29737336_375882802887236_3912535195986690048_n.jpg",
+        "edge_media_preview_like": {
+            "count": 56732
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Rolland, Boston Terrier, Lafayette & Prince St., New York, NY \u2022 \u201cHe\u2019s just super mellow.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 418
+        },
+        "id": "1751121550473671538",
+        "image_contents": [
+            "Boston bull, Boston terrier",
+            "French bulldog",
+            "toy terrier",
+            "lens cap, lens cover",
+            "Chihuahua"
+        ],
+        "image_scores": [
+            0.7661,
+            0.03068,
+            0.00913,
+            0.00226,
+            0.00155
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhNO8W2g7Ny",
+        "tags": [],
+        "taken_at_timestamp": 1522969977,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6d3a7cf9fbd61cc10c73d020c920299c/5B4EBDD0/t51.2885-15/s150x150/e35/c0.135.1080.1080/29737336_375882802887236_3912535195986690048_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/91e80791e4f68723266cf62889c362ec/5B60AEBB/t51.2885-15/s240x240/e35/c0.135.1080.1080/29737336_375882802887236_3912535195986690048_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/93b4757625e6b771df280d2b0236b441/5B71CB73/t51.2885-15/s320x320/e35/c0.135.1080.1080/29737336_375882802887236_3912535195986690048_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/48402f5726b4c1f391f0be8f02c44829/5B6A7C99/t51.2885-15/s480x480/e35/c0.135.1080.1080/29737336_375882802887236_3912535195986690048_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/78c65bf367faba0b2226e7c472f60dab/5B5BB03E/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29737336_375882802887236_3912535195986690048_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/78c65bf367faba0b2226e7c472f60dab/5B5BB03E/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29737336_375882802887236_3912535195986690048_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/7bececbc5540137702c138c40ad32c2c/5B5B99EC/t51.2885-15/e35/29737336_375882802887236_3912535195986690048_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/0341a6773cd9a83e988596008a1c2df5/5B6B3619/t51.2885-15/e35/30077275_1982182105380979_145359586130395136_n.jpg",
+        "edge_media_preview_like": {
+            "count": 80244
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Stella, Pit Bull mix (10 m/o), Prince & Sullivan St., New York, NY \u2022 \u201cShe\u2019s a \u2018potcake\u2019 dog from the Bahamas. I\u2019ve had her for about a week and she\u2019s just finding her voice in the city.\u201d Puppy photo courtesy of owner. A rescue from @secondchancerescuenyc"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 682
+        },
+        "id": "1751038858763595346",
+        "image_contents": [
+            "Staffordshire bullterrier, Staffordshire bull terrier",
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+            "miniature pinscher",
+            "Italian greyhound",
+            "Rhodesian ridgeback"
+        ],
+        "image_scores": [
+            0.30762,
+            0.11557,
+            0.0568,
+            0.0286,
+            0.02646
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhM8JCMgm5S",
+        "tags": [],
+        "taken_at_timestamp": 1522960120,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/377769c39155eca2cb7486c0536f3bb5/5B4FD97C/t51.2885-15/s150x150/e35/30077275_1982182105380979_145359586130395136_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ea913db10071ea14021810b5deddc601/5B617E43/t51.2885-15/s240x240/e35/30077275_1982182105380979_145359586130395136_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fc95e5bc01f294e2e2620ce1ec6bda26/5B67FB3B/t51.2885-15/s320x320/e35/30077275_1982182105380979_145359586130395136_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/74989bd80d179f9a2202527ee6489553/5B6E84BD/t51.2885-15/s480x480/e35/30077275_1982182105380979_145359586130395136_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2eb9b8a827881aba5d3efa3e5dab9899/5B63DF78/t51.2885-15/s640x640/sh0.08/e35/30077275_1982182105380979_145359586130395136_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/2eb9b8a827881aba5d3efa3e5dab9899/5B63DF78/t51.2885-15/s640x640/sh0.08/e35/30077275_1982182105380979_145359586130395136_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/0341a6773cd9a83e988596008a1c2df5/5B6B3619/t51.2885-15/e35/30077275_1982182105380979_145359586130395136_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/03ba38d703496f1812b148a728710db5/5B5AD5F3/t51.2885-15/e35/29740668_202048563730763_2877459463608991744_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/2942da8a8c5a2066b586b4ba3193eca0/5B749D50/t51.2885-15/e35/29740149_403014743493198_3540472190702977024_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/d565d6ec1014b9a7e8860e541680e2e6/5B6348B6/t51.2885-15/e35/29715828_1999674606949083_901230249193242624_n.jpg",
+        "edge_media_preview_like": {
+            "count": 151057
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Pepper, Cardigan Welsh Corgi (1 y/o), Thompson & Bleecker St., New York, NY \u2022 \u201cShe\u2019s terrified of balloons. No real reason.\u201d @passthe_pepper"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1894
+        },
+        "id": "1750352154880852108",
+        "image_contents": [
+            "Cardigan, Cardigan Welsh corgi",
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "Norwegian elkhound, elkhound",
+            "Eskimo dog, husky",
+            "malinois"
+        ],
+        "image_scores": [
+            0.74605,
+            0.02367,
+            0.02013,
+            0.00926,
+            0.00591
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhKgALXg0CM",
+        "tags": [],
+        "taken_at_timestamp": 1522878258,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c12b3c56e60ec74b7fd2c611ffd92057/5B5ED5D3/t51.2885-15/s150x150/e35/29715828_1999674606949083_901230249193242624_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d75cf9ea4d3900ba35a2f89f33a114c9/5B61E6EC/t51.2885-15/s240x240/e35/29715828_1999674606949083_901230249193242624_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b154850a3cf2c1a81b2846b76234185a/5B6D7794/t51.2885-15/s320x320/e35/29715828_1999674606949083_901230249193242624_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6c1fd1246c77e6bcd0c64061c4912d6d/5B656D12/t51.2885-15/s480x480/e35/29715828_1999674606949083_901230249193242624_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fa164aecb307e819f95b749bedd47ebe/5B7549D7/t51.2885-15/s640x640/sh0.08/e35/29715828_1999674606949083_901230249193242624_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/fa164aecb307e819f95b749bedd47ebe/5B7549D7/t51.2885-15/s640x640/sh0.08/e35/29715828_1999674606949083_901230249193242624_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/d565d6ec1014b9a7e8860e541680e2e6/5B6348B6/t51.2885-15/e35/29715828_1999674606949083_901230249193242624_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/0460428051221244bf0c169b1728d577/5B742327/t51.2885-15/e35/30086324_209975946265856_7194014308915740672_n.jpg",
+        "edge_media_preview_like": {
+            "count": 63211
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Murphy Brown, Lhasapoo (7 y/o), W 10th & Greenwich St., New York, NY \u2022 \u201cShe has a very full puppy passport. She spends a lot of time in Cannes (France). We didn\u2019t bring her on a safari because we were afraid she was going to be eaten. She\u2019s very spoiled and once ate all the chopped liver at Passover.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 414
+        },
+        "id": "1750144043138132119",
+        "image_contents": [
+            "Lhasa, Lhasa apso",
+            "Maltese dog, Maltese terrier, Maltese",
+            "Tibetan terrier, chrysanthemum dog",
+            "Shih-Tzu",
+            "Japanese spaniel"
+        ],
+        "image_scores": [
+            0.58617,
+            0.27939,
+            0.02621,
+            0.00697,
+            0.00237
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhJwrwNA6iX",
+        "tags": [],
+        "taken_at_timestamp": 1522853449,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6967aae77f7ce719087c598fb5926013/5B64FD42/t51.2885-15/s150x150/e35/30086324_209975946265856_7194014308915740672_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5d8b83ddfe186ed4b61cc2e414dc9e20/5B67E97D/t51.2885-15/s240x240/e35/30086324_209975946265856_7194014308915740672_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/63bebcbf44307f84d23d88231cd3f7c3/5B584405/t51.2885-15/s320x320/e35/30086324_209975946265856_7194014308915740672_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3c11c9414609b8a22590e1a49fe5a4e3/5B554783/t51.2885-15/s480x480/e35/30086324_209975946265856_7194014308915740672_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/88502a68fd2d5872b794b62fcb30f067/5B72D546/t51.2885-15/s640x640/sh0.08/e35/30086324_209975946265856_7194014308915740672_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/88502a68fd2d5872b794b62fcb30f067/5B72D546/t51.2885-15/s640x640/sh0.08/e35/30086324_209975946265856_7194014308915740672_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/0460428051221244bf0c169b1728d577/5B742327/t51.2885-15/e35/30086324_209975946265856_7194014308915740672_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/4ded198836e79b8ca7095d9daaa28446/5B524511/t51.2885-15/e35/29414391_435524500192311_5956671442534793216_n.jpg",
+        "edge_media_preview_like": {
+            "count": 179096
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Max, Bernese Mountain Dog (8 y/o), Hudson River Greenway, New York, NY \u2022 \u201cHe once ate a bag of uncooked rice. Luckily, he was fine.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2995
+        },
+        "id": "1749719190341711781",
+        "image_contents": [
+            "Bernese mountain dog",
+            "Appenzeller",
+            "EntleBucher",
+            "Greater Swiss Mountain dog",
+            "Tibetan mastiff"
+        ],
+        "image_scores": [
+            0.86604,
+            0.05018,
+            0.02349,
+            0.01487,
+            0.00058
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhIQFVNAHel",
+        "tags": [],
+        "taken_at_timestamp": 1522802803,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e9c8383da2541689e3de9e87194b556a/5B565D74/t51.2885-15/s150x150/e35/29414391_435524500192311_5956671442534793216_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e93c9e1feefffa8e6269a9d94543bc3c/5B52954B/t51.2885-15/s240x240/e35/29414391_435524500192311_5956671442534793216_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/17c8662d626cf4f64556406b73a7a5a3/5B6E1E33/t51.2885-15/s320x320/e35/29414391_435524500192311_5956671442534793216_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a0798c9a4dcaf5e30dc278101051b3fb/5B5E4DB5/t51.2885-15/s480x480/e35/29414391_435524500192311_5956671442534793216_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7ea9526f2f332a36c370b1faeea03427/5B50DC70/t51.2885-15/s640x640/sh0.08/e35/29414391_435524500192311_5956671442534793216_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/7ea9526f2f332a36c370b1faeea03427/5B50DC70/t51.2885-15/s640x640/sh0.08/e35/29414391_435524500192311_5956671442534793216_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/4ded198836e79b8ca7095d9daaa28446/5B524511/t51.2885-15/e35/29414391_435524500192311_5956671442534793216_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/a44db701e915fa283daababea518ec44/5B5C0A8B/t51.2885-15/e35/30080058_2115798165318437_4375602201721044992_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/f9d9b2296636c31ade3293be82ff8cd4/5B726E07/t51.2885-15/e35/29416615_915314415313753_4590902817710931968_n.jpg",
+        "edge_media_preview_like": {
+            "count": 99135
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Mimosa, Pit Bull mix (9 y/o), Hudson River Greenway, New York, NY \u2022 \"She likes to dress up and have conversations. She'll bark if you don't pay attention to her.\" A rescue from @animalhaven"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1165
+        },
+        "id": "1749617883320688636",
+        "image_contents": [
+            "boxer",
+            "bull mastiff",
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+            "Great Dane",
+            "Saint Bernard, St Bernard"
+        ],
+        "image_scores": [
+            0.19438,
+            0.04748,
+            0.04584,
+            0.03888,
+            0.01101
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhH5DHsAB_8",
+        "tags": [],
+        "taken_at_timestamp": 1522790726,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/620a5b4a85a109e7231638292d7091b5/5B4FF962/t51.2885-15/s150x150/e35/29416615_915314415313753_4590902817710931968_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4131a150b5cc6a19eb045e622f9697b6/5B60FD5D/t51.2885-15/s240x240/e35/29416615_915314415313753_4590902817710931968_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6a96a8873ab495d2e34ab08aa2f9a76c/5B5D6225/t51.2885-15/s320x320/e35/29416615_915314415313753_4590902817710931968_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7d1261b5081edfb2f757e3a506f29095/5B6D30A3/t51.2885-15/s480x480/e35/29416615_915314415313753_4590902817710931968_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6fa6b481f4262d9c307a4e143c266d94/5B523866/t51.2885-15/s640x640/sh0.08/e35/29416615_915314415313753_4590902817710931968_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/6fa6b481f4262d9c307a4e143c266d94/5B523866/t51.2885-15/s640x640/sh0.08/e35/29416615_915314415313753_4590902817710931968_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/f9d9b2296636c31ade3293be82ff8cd4/5B726E07/t51.2885-15/e35/29416615_915314415313753_4590902817710931968_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1078,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/731d3ba5dfa181154ee768d9e715f9ac/5B7606D3/t51.2885-15/e35/29417121_182650285862346_506341807718662144_n.jpg",
+        "edge_media_preview_like": {
+            "count": 155749
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Shadow, Australian Shepherd (4 y/o), Houston & Mott St., New York, NY \u2022 \u201cHis favorite thing right now is chasing ducks. Any flying bird over water is \u2018a duck\u2019. I once sent him to sheep herding camp and he would have this grin from ear-to-ear. So happy. Herding is just a hobby for him now.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 881
+        },
+        "id": "1748912531050610908",
+        "image_contents": [
+            "Bernese mountain dog",
+            "collie",
+            "Border collie",
+            "Cardigan, Cardigan Welsh corgi",
+            "Appenzeller"
+        ],
+        "image_scores": [
+            0.4376,
+            0.13923,
+            0.13191,
+            0.03552,
+            0.03346
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhFYq5MgEDc",
+        "tags": [],
+        "taken_at_timestamp": 1522706642,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/146e0c7f91a9ed571db2a64e17570ad0/5B4F15D6/t51.2885-15/s150x150/e35/c1.0.1078.1078/29417121_182650285862346_506341807718662144_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/13c429796bce0de147eb6e8bc8fbdb37/5B71DD5D/t51.2885-15/s240x240/e35/c1.0.1078.1078/29417121_182650285862346_506341807718662144_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ba71fdcfaa0148af93cc2c7c3320ba59/5B562DC9/t51.2885-15/s320x320/e35/c1.0.1078.1078/29417121_182650285862346_506341807718662144_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/9f31e349df3021a62a3de1b86de03f34/5B51AE9C/t51.2885-15/s480x480/e35/c1.0.1078.1078/29417121_182650285862346_506341807718662144_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a8c49df4da6156d04e9adec2c969449a/5B55D0AA/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/29417121_182650285862346_506341807718662144_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/a8c49df4da6156d04e9adec2c969449a/5B55D0AA/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/29417121_182650285862346_506341807718662144_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/731d3ba5dfa181154ee768d9e715f9ac/5B7606D3/t51.2885-15/e35/29417121_182650285862346_506341807718662144_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/3aea6a925704be1f8473c6bac29886a1/5B67E23A/t51.2885-15/e35/29414983_163344417703262_7450719242862723072_n.jpg",
+        "edge_media_preview_like": {
+            "count": 90071
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Atlas, Labrador Retriever/Shepherd mix, W 10th & Greenwich St., New York, NY \u2022 \u201cHe\u2019s the guard dog of 20th St. We have a terrace and he makes sure everyone knows it\u2019s his.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 393
+        },
+        "id": "1748724454651034009",
+        "image_contents": [
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+            "Staffordshire bullterrier, Staffordshire bull terrier",
+            "kelpie",
+            "bull mastiff",
+            "Labrador retriever"
+        ],
+        "image_scores": [
+            0.41632,
+            0.22535,
+            0.04829,
+            0.0091,
+            0.00824
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhEt6BZg3mZ",
+        "tags": [],
+        "taken_at_timestamp": 1522684221,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/80655f06166fac0da473bc1020d17ed2/5B560106/t51.2885-15/s150x150/e35/c0.135.1080.1080/29414983_163344417703262_7450719242862723072_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ec5916e9da36d8abf8bc9ab3fb6627ed/5B598B6D/t51.2885-15/s240x240/e35/c0.135.1080.1080/29414983_163344417703262_7450719242862723072_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b8c5c2f286e5c0c454284df478769905/5B5909A5/t51.2885-15/s320x320/e35/c0.135.1080.1080/29414983_163344417703262_7450719242862723072_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/60f29aa1008ad766de27d6e7db10ae65/5B753F4F/t51.2885-15/s480x480/e35/c0.135.1080.1080/29414983_163344417703262_7450719242862723072_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a0ed933c834f92d662dac20be863a393/5B6ECBE8/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29414983_163344417703262_7450719242862723072_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/a0ed933c834f92d662dac20be863a393/5B6ECBE8/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29414983_163344417703262_7450719242862723072_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/3aea6a925704be1f8473c6bac29886a1/5B67E23A/t51.2885-15/e35/29414983_163344417703262_7450719242862723072_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/dd31abec98baa4d49b68307be7aeed3c/5B703B4F/t51.2885-15/e35/29404237_224207748314260_3179527429819465728_n.jpg",
+        "edge_media_preview_like": {
+            "count": 88834
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Summit & River, Snow Leopards (5 y/o), Central Park Zoo, New York, NY \u2022 \u201cThey\u2019re twins born at the zoo. They enjoy a large fan base.\u201c"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 411
+        },
+        "id": "1748154275554543376",
+        "image_contents": [
+            "snow leopard, ounce, Panthera uncia",
+            "leopard, Panthera pardus",
+            "jaguar, panther, Panthera onca, Felis onca",
+            "cheetah, chetah, Acinonyx jubatus",
+            "lynx, catamount"
+        ],
+        "image_scores": [
+            0.8026,
+            0.1297,
+            0.00982,
+            0.0029,
+            0.00099
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhCsQ0vAkcQ",
+        "tags": [],
+        "taken_at_timestamp": 1522616250,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/9ab48057760692b6e3868eacc1d245aa/5B62152A/t51.2885-15/s150x150/e35/29404237_224207748314260_3179527429819465728_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fbe26ca0d5813b3210e414b45d80114a/5B535515/t51.2885-15/s240x240/e35/29404237_224207748314260_3179527429819465728_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/dfac434227e7742b83dad52bd2c300f5/5B69066D/t51.2885-15/s320x320/e35/29404237_224207748314260_3179527429819465728_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c92802f05c2a18d0c9d169b59da187c7/5B6506EB/t51.2885-15/s480x480/e35/29404237_224207748314260_3179527429819465728_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/92c3b6488d002369835beb5486a5dce3/5B5F3A2E/t51.2885-15/s640x640/sh0.08/e35/29404237_224207748314260_3179527429819465728_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/92c3b6488d002369835beb5486a5dce3/5B5F3A2E/t51.2885-15/s640x640/sh0.08/e35/29404237_224207748314260_3179527429819465728_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/dd31abec98baa4d49b68307be7aeed3c/5B703B4F/t51.2885-15/e35/29404237_224207748314260_3179527429819465728_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/20de91025e82d73af024f59d191e3b15/5B5CC4A4/t51.2885-15/e35/29715774_201277493796910_8102475182796439552_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/0de31c462f69cef7066d03bdd124d6f6/5B6F3B56/t51.2885-15/e35/29402879_678336839007987_6962292508239855616_n.jpg",
+        "edge_media_preview_like": {
+            "count": 96028
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Betsy, Red Panda, Central Park Zoo, New York, NY \u2022 \u201cShe is exhibit mates with Rohan and if things work out, we are hoping for baby pandas next year.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1110
+        },
+        "id": "1747958435581882393",
+        "image_contents": [
+            "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",
+            "polecat, fitch, foulmart, foumart, Mustela putorius",
+            "giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",
+            "brown bear, bruin, Ursus arctos",
+            "sloth bear, Melursus ursinus, Ursus ursinus"
+        ],
+        "image_scores": [
+            0.97496,
+            0.00151,
+            0.0007,
+            0.00019,
+            0.00016
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhB_u-jAXAZ",
+        "tags": [],
+        "taken_at_timestamp": 1522592904,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/28041f1023f6e54cfe149671b7fa8d83/5B74BD33/t51.2885-15/s150x150/e35/29402879_678336839007987_6962292508239855616_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f707c88ddf96f58e756e45b6080c3c3e/5B6F180C/t51.2885-15/s240x240/e35/29402879_678336839007987_6962292508239855616_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c0b6900faa146ab6eca0b6fae8cfeae5/5B561074/t51.2885-15/s320x320/e35/29402879_678336839007987_6962292508239855616_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a7a05f208c0cc6a80106450fd55377e3/5B623EF2/t51.2885-15/s480x480/e35/29402879_678336839007987_6962292508239855616_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/eddc7c85dc2be671dfb17676b07a5952/5B583737/t51.2885-15/s640x640/sh0.08/e35/29402879_678336839007987_6962292508239855616_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/eddc7c85dc2be671dfb17676b07a5952/5B583737/t51.2885-15/s640x640/sh0.08/e35/29402879_678336839007987_6962292508239855616_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/0de31c462f69cef7066d03bdd124d6f6/5B6F3B56/t51.2885-15/e35/29402879_678336839007987_6962292508239855616_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/9534a9e71b50158f19d39064ca67d89c/5B60D208/t51.2885-15/e35/29403094_1069034356568422_5892632818726469632_n.jpg",
+        "edge_media_preview_like": {
+            "count": 94782
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Finley, Husky/Border Collie mix (7 y/o), Broome & West Broadway, New York, NY \u2022 \u201cShe\u2019s super cool and Vice President of our company.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 377
+        },
+        "id": "1747485898783597945",
+        "image_contents": [
+            "Eskimo dog, husky",
+            "malamute, malemute, Alaskan malamute",
+            "Siberian husky",
+            "Norwegian elkhound, elkhound",
+            "timber wolf, grey wolf, gray wolf, Canis lupus"
+        ],
+        "image_scores": [
+            0.4436,
+            0.31251,
+            0.02151,
+            0.00975,
+            0.00838
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BhAUSqXACV5",
+        "tags": [],
+        "taken_at_timestamp": 1522536574,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/adb9a3d82d8aa326c6d8311f3f0ac409/5B58C45F/t51.2885-15/s150x150/e35/29403094_1069034356568422_5892632818726469632_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ebfec4560c1d69679800a231855a7a09/5B51F3CB/t51.2885-15/s240x240/e35/29403094_1069034356568422_5892632818726469632_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/510c6acb4bd69e6d053e33e2678315f3/5B57156F/t51.2885-15/s320x320/e35/29403094_1069034356568422_5892632818726469632_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/cdbf325e5bc7737b5f2ecb0af27e1e13/5B625137/t51.2885-15/s480x480/e35/29403094_1069034356568422_5892632818726469632_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0414447a6cbc54ebd2f68af83aa58eff/5B70BA22/t51.2885-15/s640x640/sh0.08/e35/29403094_1069034356568422_5892632818726469632_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/0414447a6cbc54ebd2f68af83aa58eff/5B70BA22/t51.2885-15/s640x640/sh0.08/e35/29403094_1069034356568422_5892632818726469632_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/9534a9e71b50158f19d39064ca67d89c/5B60D208/t51.2885-15/e35/29403094_1069034356568422_5892632818726469632_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/98a5ff3cebc7d0df6e4eaba78951d2dd/5B72BE3D/t51.2885-15/e35/29401418_1770083089679418_3112152295026982912_n.jpg",
+        "edge_media_preview_like": {
+            "count": 137207
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Moomba, Dalmatian (14 y/o), Little Italy, New York, NY \u2022 \u201cI cook for her. Nothing from the store. Turkey and carrots.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 600
+        },
+        "id": "1747250583087127573",
+        "image_contents": [
+            "dalmatian, coach dog, carriage dog",
+            "cannon",
+            "kuvasz",
+            "Great Dane",
+            "cabbage butterfly"
+        ],
+        "image_scores": [
+            0.97356,
+            0.00643,
+            0.00053,
+            0.00049,
+            0.00031
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bg_eyXigJwV",
+        "tags": [],
+        "taken_at_timestamp": 1522508522,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7e87f28b64c8d17941e2d1a582f18acb/5B6E226A/t51.2885-15/s150x150/e35/29401418_1770083089679418_3112152295026982912_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/512e114ba21c6cf157c74f08ccdf6505/5B73C1FE/t51.2885-15/s240x240/e35/29401418_1770083089679418_3112152295026982912_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8db6dec47af1d22fcb4eb7a3eb69dc7c/5B566F5A/t51.2885-15/s320x320/e35/29401418_1770083089679418_3112152295026982912_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f239bb67ceeebd7e037a481f2100f543/5B704F02/t51.2885-15/s480x480/e35/29401418_1770083089679418_3112152295026982912_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6e07581c8bd08ad4bbf1a66c46ec47ff/5B5C3E17/t51.2885-15/s640x640/sh0.08/e35/29401418_1770083089679418_3112152295026982912_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/6e07581c8bd08ad4bbf1a66c46ec47ff/5B5C3E17/t51.2885-15/s640x640/sh0.08/e35/29401418_1770083089679418_3112152295026982912_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/98a5ff3cebc7d0df6e4eaba78951d2dd/5B72BE3D/t51.2885-15/e35/29401418_1770083089679418_3112152295026982912_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/b5907cd686b6be3d2d386d2e926dad62/5B6C0F25/t51.2885-15/e35/29740668_2031127253796548_5165245021561028608_n.jpg",
+        "edge_media_preview_like": {
+            "count": 96749
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Cara & Molly, Husky/Hound mix & Pit Bull mix (2 & 3 y/o), Riverside Park, New York, NY \u2022 \u201cCara was abandoned in Georgia with her littermates and Molly was skin and bones when we got her.\u201d Rescues from @haarescue & @nycacc"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 248
+        },
+        "id": "1746888690065496327",
+        "image_contents": [
+            "Labrador retriever",
+            "redbone",
+            "Walker hound, Walker foxhound",
+            "Rhodesian ridgeback",
+            "golden retriever"
+        ],
+        "image_scores": [
+            0.18776,
+            0.06804,
+            0.04328,
+            0.03884,
+            0.02516
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bg-MgIZgFkH",
+        "tags": [],
+        "taken_at_timestamp": 1522465381,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/153b462241c19ec725602b75bcafb1a4/5B6C3472/t51.2885-15/s150x150/e35/29740668_2031127253796548_5165245021561028608_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6565cad7fc5d8afcf60149303b68ad50/5B69FEE6/t51.2885-15/s240x240/e35/29740668_2031127253796548_5165245021561028608_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d877f311045b7e0a0ab02f9a7cc66e61/5B5B2342/t51.2885-15/s320x320/e35/29740668_2031127253796548_5165245021561028608_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b766292a5dc9e4b42481a2e22d63fdf9/5B53C31A/t51.2885-15/s480x480/e35/29740668_2031127253796548_5165245021561028608_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/35518fd8028c99b53bf7eeb6aa73621f/5B612F0F/t51.2885-15/s640x640/sh0.08/e35/29740668_2031127253796548_5165245021561028608_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/35518fd8028c99b53bf7eeb6aa73621f/5B612F0F/t51.2885-15/s640x640/sh0.08/e35/29740668_2031127253796548_5165245021561028608_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/b5907cd686b6be3d2d386d2e926dad62/5B6C0F25/t51.2885-15/e35/29740668_2031127253796548_5165245021561028608_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/4e21d3e42609191d768f1cb89648178b/5B72E3DB/t51.2885-15/e35/29416444_286725938531490_4549793847474913280_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1081,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/00aceea20b9af72957e1862dad1d371d/5B6D201B/t51.2885-15/e35/29096469_189271108354113_4395918324744060928_n.jpg",
+        "edge_media_preview_like": {
+            "count": 111601
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Dizzy, Siberian Husky (5 y/o), Hudson River Greenway, New York, NY \u2022 \u201cHe\u2019s named after Dizzy Gillespie and he has an awesome memory. He\u2019ll never forget you gave him a cookie at this spot.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 557
+        },
+        "id": "1746613993814049540",
+        "image_contents": [
+            "Eskimo dog, husky",
+            "Siberian husky",
+            "malamute, malemute, Alaskan malamute",
+            "dogsled, dog sled, dog sleigh",
+            "timber wolf, grey wolf, gray wolf, Canis lupus"
+        ],
+        "image_scores": [
+            0.81735,
+            0.1228,
+            0.01078,
+            0.00166,
+            0.0007
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bg9OCxlA0ME",
+        "tags": [],
+        "taken_at_timestamp": 1522432635,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/11d1b6691d7bb273db1436f18033b7ca/5B5959DC/t51.2885-15/s150x150/e35/c0.0.1080.1080/29096469_189271108354113_4395918324744060928_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/90c0a95f76040cc5816f3d0951c1f06b/5B5F044A/t51.2885-15/s240x240/e35/c0.0.1080.1080/29096469_189271108354113_4395918324744060928_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d73f27a967baf7dc4e0e1146b397871c/5B6D63A2/t51.2885-15/s320x320/e35/c0.0.1080.1080/29096469_189271108354113_4395918324744060928_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/975f44e72416174e8739d47dc2babd99/5B6DCB8B/t51.2885-15/s480x480/e35/c0.0.1080.1080/29096469_189271108354113_4395918324744060928_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7ef9680070e8c28447201ef8b29613d1/5B71659F/t51.2885-15/s640x640/sh0.08/e35/c0.0.1080.1080/29096469_189271108354113_4395918324744060928_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/7ef9680070e8c28447201ef8b29613d1/5B71659F/t51.2885-15/s640x640/sh0.08/e35/c0.0.1080.1080/29096469_189271108354113_4395918324744060928_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/00aceea20b9af72957e1862dad1d371d/5B6D201B/t51.2885-15/e35/29096469_189271108354113_4395918324744060928_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/01865c2cc173cb815c6cf98fc22fdc9c/5B677380/t51.2885-15/e35/29417274_562187727477753_5463819564452151296_n.jpg",
+        "edge_media_preview_like": {
+            "count": 159220
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Dante, German Shepherd (4 m/o), Charlton & 6th Ave., New York, NY \u2022 \u201cWe have a house in the country, so he\u2019s used to going on the grass. He won\u2019t pee on the street.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1797
+        },
+        "id": "1746004497505691601",
+        "image_contents": [
+            "kelpie",
+            "schipperke",
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "malinois",
+            "dingo, warrigal, warragal, Canis dingo"
+        ],
+        "image_scores": [
+            0.79863,
+            0.04898,
+            0.00801,
+            0.00734,
+            0.00525
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bg7Ddb6D6fR",
+        "tags": [],
+        "taken_at_timestamp": 1522359977,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a33884b4708e7595a8ec269b6ece608e/5B5FAFE5/t51.2885-15/s150x150/e35/29417274_562187727477753_5463819564452151296_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/eadc59498f55c0f27d3e546af7b8d9dd/5B7519DA/t51.2885-15/s240x240/e35/29417274_562187727477753_5463819564452151296_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/dd187e355c9ac31e4e22d80777f4d824/5B500FA2/t51.2885-15/s320x320/e35/29417274_562187727477753_5463819564452151296_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a98cf405d1f4ec8105d5757ef87d850e/5B71C624/t51.2885-15/s480x480/e35/29417274_562187727477753_5463819564452151296_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/bca0708c7959a95e20cccde717e62cdf/5B5FE4E1/t51.2885-15/s640x640/sh0.08/e35/29417274_562187727477753_5463819564452151296_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/bca0708c7959a95e20cccde717e62cdf/5B5FE4E1/t51.2885-15/s640x640/sh0.08/e35/29417274_562187727477753_5463819564452151296_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/01865c2cc173cb815c6cf98fc22fdc9c/5B677380/t51.2885-15/e35/29417274_562187727477753_5463819564452151296_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/14a59e6eeda113f7a6f93a1cb1cd95c7/5B727A16/t51.2885-15/e35/29402474_200031684105007_773139639933337600_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/617b9f89d53ab24b7fad8138c97861c9/5B5070DF/t51.2885-15/e35/29417812_964813250342142_8006096030774853632_n.jpg",
+        "edge_media_preview_like": {
+            "count": 98059
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Moochie, Dogue de Bordeaux (4 y/o), Houston & Lafayette St., New York, NY \u2022 \u201cShe\u2019s very curious and will open up refrigerators to get food.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1058
+        },
+        "id": "1745852169922221349",
+        "image_contents": [
+            "bull mastiff",
+            "Rhodesian ridgeback",
+            "bloodhound, sleuthhound",
+            "Tibetan terrier, chrysanthemum dog",
+            "vizsla, Hungarian pointer"
+        ],
+        "image_scores": [
+            0.96389,
+            0.00421,
+            0.00253,
+            0.00137,
+            0.0008
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bg6g0xyjxUl",
+        "tags": [],
+        "taken_at_timestamp": 1522341818,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d4a7781cd251ba1b30d56170aea9e711/5B7085E3/t51.2885-15/s150x150/e35/c0.135.1080.1080/29417812_964813250342142_8006096030774853632_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0cb9028bba5f6712fff8f8a7d3b4922d/5B69CA88/t51.2885-15/s240x240/e35/c0.135.1080.1080/29417812_964813250342142_8006096030774853632_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7e0c7a55f0aafe87b22250def7582ab6/5B649240/t51.2885-15/s320x320/e35/c0.135.1080.1080/29417812_964813250342142_8006096030774853632_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/315ea5d4d414cf44e9f6b2a33e41571c/5B6D6CAA/t51.2885-15/s480x480/e35/c0.135.1080.1080/29417812_964813250342142_8006096030774853632_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/53aa4170632f7e898348e7292f7d6f23/5B56BD0D/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29417812_964813250342142_8006096030774853632_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/53aa4170632f7e898348e7292f7d6f23/5B56BD0D/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29417812_964813250342142_8006096030774853632_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/617b9f89d53ab24b7fad8138c97861c9/5B5070DF/t51.2885-15/e35/29417812_964813250342142_8006096030774853632_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/ad7cf9a77bd315b0b44f769d5be567f7/5B614B48/t51.2885-15/e35/29401392_212748402815523_2677951837503488000_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/d63c60ac6703e315ba3bf7608c55f3b6/5B4EA6F4/t51.2885-15/e35/29095507_389454468187948_8904522877504585728_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/f8c7622b2c5f09d41a5df8d7d314dd12/5B69048F/t51.2885-15/e35/29404394_596768800705866_3066251300929798144_n.jpg",
+        "edge_media_preview_like": {
+            "count": 115592
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Lola, Border Collie/Labradoodle mix (6 m/o), Park City Mountain, Park City, UT \u2022 \"She likes to chase the windshield wipers from inside the car.\""
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 927
+        },
+        "id": "1745329931920988497",
+        "image_contents": [
+            "Border collie",
+            "collie",
+            "Cardigan, Cardigan Welsh corgi",
+            "Bernese mountain dog",
+            "Old English sheepdog, bobtail"
+        ],
+        "image_scores": [
+            0.82763,
+            0.0573,
+            0.00918,
+            0.00506,
+            0.004
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bg4qFNwAdlR",
+        "tags": [],
+        "taken_at_timestamp": 1522279562,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2f0d0ce35d1d2ca87ea1ba2013c66839/5B6478EA/t51.2885-15/s150x150/e35/29404394_596768800705866_3066251300929798144_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/cc43ee584502fea3dbffffd2654b5e86/5B5526D5/t51.2885-15/s240x240/e35/29404394_596768800705866_3066251300929798144_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/46c47c95182bb0e69854237c710ef643/5B52AAAD/t51.2885-15/s320x320/e35/29404394_596768800705866_3066251300929798144_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/461ed233bce3379ed12448862b6efb82/5B6B042B/t51.2885-15/s480x480/e35/29404394_596768800705866_3066251300929798144_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/51b91815f90e9d7cb8302d76e56a4535/5B6F53EE/t51.2885-15/s640x640/sh0.08/e35/29404394_596768800705866_3066251300929798144_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/51b91815f90e9d7cb8302d76e56a4535/5B6F53EE/t51.2885-15/s640x640/sh0.08/e35/29404394_596768800705866_3066251300929798144_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/f8c7622b2c5f09d41a5df8d7d314dd12/5B69048F/t51.2885-15/e35/29404394_596768800705866_3066251300929798144_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/c1e28a895b1a80daa282750034091de2/5B6CCE71/t51.2885-15/e35/29094820_2031083237155118_223083006535925760_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/70f95a9540ee87049987115b2323d095/5B70CA00/t51.2885-15/e35/29717652_773041936228355_4008788075969773568_n.jpg",
+        "edge_media_preview_like": {
+            "count": 127916
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Zorro, Australian Shepherd (9 y/o), Park City Mountain, Park City, UT \u2022 \"If you pretend to sneeze he\u2019ll go get a tissue for you.\""
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1260
+        },
+        "id": "1745097678905344056",
+        "image_contents": [
+            "collie",
+            "Border collie",
+            "Bernese mountain dog",
+            "Shetland sheepdog, Shetland sheep dog, Shetland",
+            "Appenzeller"
+        ],
+        "image_scores": [
+            0.42307,
+            0.31194,
+            0.08532,
+            0.01681,
+            0.01616
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bg31RfRgwA4",
+        "tags": [],
+        "taken_at_timestamp": 1522251876,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/1551b6ae6d6b6bd6804efc1d6f1cb8c0/5B639A65/t51.2885-15/s150x150/e35/29717652_773041936228355_4008788075969773568_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/09bfc3a9a71b816ca6d7eadd47173da4/5B75055A/t51.2885-15/s240x240/e35/29717652_773041936228355_4008788075969773568_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/26374896704c6c35d55aac31a7a67665/5B750922/t51.2885-15/s320x320/e35/29717652_773041936228355_4008788075969773568_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/007525f6ec1160a23bb40a6d1a6ebce6/5B6703A4/t51.2885-15/s480x480/e35/29717652_773041936228355_4008788075969773568_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/58684ef01fd229fc98eb5ef0f2badca6/5B4F9461/t51.2885-15/s640x640/sh0.08/e35/29717652_773041936228355_4008788075969773568_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/58684ef01fd229fc98eb5ef0f2badca6/5B4F9461/t51.2885-15/s640x640/sh0.08/e35/29717652_773041936228355_4008788075969773568_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/70f95a9540ee87049987115b2323d095/5B70CA00/t51.2885-15/e35/29717652_773041936228355_4008788075969773568_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/7d52de112e457a90551ed057c0105d13/5B6029A8/t51.2885-15/e35/29714516_829870510543207_5724288470298394624_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/b6aa17b011ec8c062b753a5103eee0eb/5B6984AF/t51.2885-15/e35/29417293_374048339740201_683205953922793472_n.jpg",
+        "edge_media_preview_like": {
+            "count": 105388
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Chester, English Bulldog (2 y/o), Park City Mountain, Park City, UT \u2022 \u201cHe\u2019s very excited for treats.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 903
+        },
+        "id": "1744746301842588835",
+        "image_contents": [
+            "boxer",
+            "French bulldog",
+            "Boston bull, Boston terrier",
+            "bull mastiff",
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+        ],
+        "image_scores": [
+            0.48743,
+            0.1027,
+            0.06184,
+            0.05909,
+            0.01982
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bg2lYR4gQSj",
+        "tags": [],
+        "taken_at_timestamp": 1522209988,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8bf31889981eb9e8aadc0c514d56ec09/5B6CC91B/t51.2885-15/s150x150/e35/29417293_374048339740201_683205953922793472_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4f54151ab3b64a49da519351fdb16ab1/5B66A1AE/t51.2885-15/s240x240/e35/29417293_374048339740201_683205953922793472_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/66c8dd75ac3206208658d0fabdd8a60f/5B6C7EE6/t51.2885-15/s320x320/e35/29417293_374048339740201_683205953922793472_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3bd7a24ce2e71addbfeb4c6124c9880b/5B68ED52/t51.2885-15/s480x480/e35/29417293_374048339740201_683205953922793472_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/89fb7f2acab6184e40e3393beb1a141d/5B51A23A/t51.2885-15/s640x640/sh0.08/e35/29417293_374048339740201_683205953922793472_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/89fb7f2acab6184e40e3393beb1a141d/5B51A23A/t51.2885-15/s640x640/sh0.08/e35/29417293_374048339740201_683205953922793472_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/b6aa17b011ec8c062b753a5103eee0eb/5B6984AF/t51.2885-15/e35/29417293_374048339740201_683205953922793472_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/d37feb2891837abb4d98c99f3f27e498/5B69A805/t51.2885-15/e35/29401285_209076263180250_4802977294786232320_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/20136d7b6476ec3d4ffba450ffe81035/5B5C632C/t51.2885-15/e35/29416893_1899946400295994_5061110721970962432_n.jpg",
+        "edge_media_preview_like": {
+            "count": 99384
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Lady, Shepherd mix (16 y/o), Park City Mountain, Park City, UT \u2022 \u201cShe\u2019s famous in town. She likes to take off and run to her friend Sully the Lab\u2019s house. She gets through a super small hole in the fence like a rat coming through a drain pipe. She\u2019s all fur.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 655
+        },
+        "id": "1744588806893414225",
+        "image_contents": [
+            "Border terrier",
+            "Irish terrier",
+            "malinois",
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "Rhodesian ridgeback"
+        ],
+        "image_scores": [
+            0.22274,
+            0.20689,
+            0.0945,
+            0.07437,
+            0.04462
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bg2BkbSASdR",
+        "tags": [],
+        "taken_at_timestamp": 1522191213,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5c67185d96247fd960bfecdd8f550e04/5B694E7B/t51.2885-15/s150x150/e35/29416893_1899946400295994_5061110721970962432_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/745a0e8e2cba56f05d09d3470de7dea1/5B6A7BEF/t51.2885-15/s240x240/e35/29416893_1899946400295994_5061110721970962432_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4f92d90cb346058623ba2390d36ef609/5B5C434B/t51.2885-15/s320x320/e35/29416893_1899946400295994_5061110721970962432_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6bf4fa6cff677bcdd1cca48b0964f997/5B572313/t51.2885-15/s480x480/e35/29416893_1899946400295994_5061110721970962432_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/181442daaa08c954dc48036191af173c/5B630406/t51.2885-15/s640x640/sh0.08/e35/29416893_1899946400295994_5061110721970962432_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/181442daaa08c954dc48036191af173c/5B630406/t51.2885-15/s640x640/sh0.08/e35/29416893_1899946400295994_5061110721970962432_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/20136d7b6476ec3d4ffba450ffe81035/5B5C632C/t51.2885-15/e35/29416893_1899946400295994_5061110721970962432_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/d28a94b637c0052f44c4cac8a13c7f04/5B589F78/t51.2885-15/e35/29401378_1651679741581990_4553733101284491264_n.jpg",
+        "edge_media_preview_like": {
+            "count": 87774
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Ruthie, mix (3 y/o), Bartel-Pritchard Square, Brooklyn, NY \u2022 \"She's named after Ruth Bader Ginsburg \u2013 a friend painted them together. She\u2019s not the brightest but very, very sweet. Perfect level of intelligence \u2013 doesn\u2019t outsmart me but is trainable.\" Painting by @jmuzacz"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 567
+        },
+        "id": "1744366199812243359",
+        "image_contents": [
+            "Border collie",
+            "Saint Bernard, St Bernard",
+            "papillon",
+            "Cardigan, Cardigan Welsh corgi",
+            "collie"
+        ],
+        "image_scores": [
+            0.29354,
+            0.12456,
+            0.07614,
+            0.06551,
+            0.04303
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bg1O9ESAb-f",
+        "tags": [],
+        "taken_at_timestamp": 1522164677,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/efbf26efc442b9a6dcc55675e04d1a7f/5B52F42F/t51.2885-15/s150x150/e35/29401378_1651679741581990_4553733101284491264_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f7e2f36ca779e319e644bfbb0f0c5974/5B60B6BB/t51.2885-15/s240x240/e35/29401378_1651679741581990_4553733101284491264_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3f4420bcb98268e4e08c060328f15fa3/5B754C1F/t51.2885-15/s320x320/e35/29401378_1651679741581990_4553733101284491264_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8704a8fca3baac16316c3f46b437c05f/5B628847/t51.2885-15/s480x480/e35/29401378_1651679741581990_4553733101284491264_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e729a0294b764f2c83cd0a58e0f2e3a7/5B5F7952/t51.2885-15/s640x640/sh0.08/e35/29401378_1651679741581990_4553733101284491264_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/e729a0294b764f2c83cd0a58e0f2e3a7/5B5F7952/t51.2885-15/s640x640/sh0.08/e35/29401378_1651679741581990_4553733101284491264_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/d28a94b637c0052f44c4cac8a13c7f04/5B589F78/t51.2885-15/e35/29401378_1651679741581990_4553733101284491264_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/dc7b6d3e2870ed1fbb4970db9cf8e44b/5B58F84E/t51.2885-15/e35/29092663_1759631060760913_7860023780721033216_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1078,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/2cca9df2dbaf28e2345681bae8baf1bb/5B71ED7F/t51.2885-15/e35/29089387_1190483954420999_8211771766788325376_n.jpg",
+        "edge_media_preview_like": {
+            "count": 77332
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Jagger, French Bulldog (1 y/o), Tompkins Square Park, New York, NY \u2022 \u201cHe pees on his bed a lot.\u201d @jagger.the.frenchie"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 446
+        },
+        "id": "1743945583825184880",
+        "image_contents": [
+            "French bulldog",
+            "Boston bull, Boston terrier",
+            "toy terrier",
+            "Chihuahua",
+            "miniature poodle"
+        ],
+        "image_scores": [
+            0.47593,
+            0.31947,
+            0.02579,
+            0.00177,
+            0.00126
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgzvUTHguhw",
+        "tags": [],
+        "taken_at_timestamp": 1522114535,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/95799f48542a919f3fdcd09472158867/5B6E6E14/t51.2885-15/s150x150/e35/c1.0.1078.1078/29089387_1190483954420999_8211771766788325376_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f00bd720bd323fd582881c86483eafc1/5B509482/t51.2885-15/s240x240/e35/c1.0.1078.1078/29089387_1190483954420999_8211771766788325376_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/32a9b765f9cdabceb2794568c0babfe4/5B70B484/t51.2885-15/s320x320/e35/c1.0.1078.1078/29089387_1190483954420999_8211771766788325376_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d9df7ba083a3b4ce0f4ed16ccb6f8408/5B5E4337/t51.2885-15/s480x480/e35/c1.0.1078.1078/29089387_1190483954420999_8211771766788325376_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/9cd3bc9644523cee101162be62c619d6/5B639580/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/29089387_1190483954420999_8211771766788325376_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/9cd3bc9644523cee101162be62c619d6/5B639580/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/29089387_1190483954420999_8211771766788325376_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/2cca9df2dbaf28e2345681bae8baf1bb/5B71ED7F/t51.2885-15/e35/29089387_1190483954420999_8211771766788325376_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/520279da287264287dfadc4091d52654/5B62EF38/t51.2885-15/e35/29403156_434309067026000_8027361990110347264_n.jpg",
+        "edge_media_preview_like": {
+            "count": 91423
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Melville, Corgi/Shepherd mix,  Tompkins Square Park, New York, NY \u2022 \u201cShe\u2019s got a Napoleon complex around German Shepherds. We call her the \u2018shrunken shepherd\u2019.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 514
+        },
+        "id": "1743672736523342562",
+        "image_contents": [
+            "kelpie",
+            "miniature pinscher",
+            "dingo, warrigal, warragal, Canis dingo",
+            "Rottweiler",
+            "German shepherd, German shepherd dog, German police dog, alsatian"
+        ],
+        "image_scores": [
+            0.58998,
+            0.03026,
+            0.02912,
+            0.02362,
+            0.01394
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgyxR2RAdLi",
+        "tags": [],
+        "taken_at_timestamp": 1522082009,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5990ca991a5bd35efa387768a4b2416f/5B752D04/t51.2885-15/s150x150/e35/c0.135.1080.1080/29403156_434309067026000_8027361990110347264_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6237d3da43ddec4fe6505d73b266e7e9/5B58046F/t51.2885-15/s240x240/e35/c0.135.1080.1080/29403156_434309067026000_8027361990110347264_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2184f04b6a9b47ecb079ebfe666b9db1/5B6E3CA7/t51.2885-15/s320x320/e35/c0.135.1080.1080/29403156_434309067026000_8027361990110347264_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/aa2b231168747c54405db5325ebe1034/5B52F14D/t51.2885-15/s480x480/e35/c0.135.1080.1080/29403156_434309067026000_8027361990110347264_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b730f4bc83f8efb77a3d87fb2933923e/5B6852EA/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29403156_434309067026000_8027361990110347264_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/b730f4bc83f8efb77a3d87fb2933923e/5B6852EA/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29403156_434309067026000_8027361990110347264_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/520279da287264287dfadc4091d52654/5B62EF38/t51.2885-15/e35/29403156_434309067026000_8027361990110347264_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/e22700d75b5b7d9f50453d25dc0f7bae/5B52BD10/t51.2885-15/e35/29403980_2019699654944453_5599346037706719232_n.jpg",
+        "edge_media_preview_like": {
+            "count": 101529
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Yumi, Korean Jindo mix (6 m/o), Tompkins Square Park, New York, NY \u2022 \u201cShe\u2019s a rescue from Korea \u2013 she was going to be soup. She\u2019s a really vivid dreamer \u2013 she\u2019ll run and bark and chew in her sleep.\u201d @koreank9rescue"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 562
+        },
+        "id": "1743214824977961774",
+        "image_contents": [
+            "dingo, warrigal, warragal, Canis dingo",
+            "kelpie",
+            "basenji",
+            "Eskimo dog, husky",
+            "Great Dane"
+        ],
+        "image_scores": [
+            0.66389,
+            0.0701,
+            0.04852,
+            0.01754,
+            0.01352
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgxJKW6AZMu",
+        "tags": [],
+        "taken_at_timestamp": 1522027422,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d504650db6805a1fd076305d94696144/5B6AF047/t51.2885-15/s150x150/e35/29403980_2019699654944453_5599346037706719232_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/abdcf42c1d641032eb76dfcdee049763/5B530ED3/t51.2885-15/s240x240/e35/29403980_2019699654944453_5599346037706719232_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f79d78e8ee0284938b54def6ddd8de2e/5B6D7677/t51.2885-15/s320x320/e35/29403980_2019699654944453_5599346037706719232_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/cd3a93d2fac632620b771573b5046016/5B73B22F/t51.2885-15/s480x480/e35/29403980_2019699654944453_5599346037706719232_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/77b61fe8c569df7f07221dd95ba3543e/5B59D93A/t51.2885-15/s640x640/sh0.08/e35/29403980_2019699654944453_5599346037706719232_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/77b61fe8c569df7f07221dd95ba3543e/5B59D93A/t51.2885-15/s640x640/sh0.08/e35/29403980_2019699654944453_5599346037706719232_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/e22700d75b5b7d9f50453d25dc0f7bae/5B52BD10/t51.2885-15/e35/29403980_2019699654944453_5599346037706719232_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/5c2d2a379dbf64222f21c32336fa9812/5B5C8D9E/t51.2885-15/e35/29095867_114295902748632_3090608146364760064_n.jpg",
+        "edge_media_preview_like": {
+            "count": 106398
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Jack, Havanese (5 y/o), Prince & Wooster St., New York, NY \u2022 \u201cHe\u2019s big into squeaky toys.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 679
+        },
+        "id": "1742922309603360291",
+        "image_contents": [
+            "Tibetan terrier, chrysanthemum dog",
+            "silky terrier, Sydney silky",
+            "Yorkshire terrier",
+            "miniature poodle",
+            "Australian terrier"
+        ],
+        "image_scores": [
+            0.53673,
+            0.12108,
+            0.08286,
+            0.03854,
+            0.02384
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgwGpsvAv4j",
+        "tags": [],
+        "taken_at_timestamp": 1521992551,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/967d7f629a046fa141f90886456470a4/5B626AFB/t51.2885-15/s150x150/e35/29095867_114295902748632_3090608146364760064_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/009486dbb1d901b2d20b0c87a7f3d591/5B61BEC4/t51.2885-15/s240x240/e35/29095867_114295902748632_3090608146364760064_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0f36e30f8bbac4b3613169e62b33c020/5B60C6BC/t51.2885-15/s320x320/e35/29095867_114295902748632_3090608146364760064_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fd82812bdaff6f232ee7c219c339c1a5/5B6CCC3A/t51.2885-15/s480x480/e35/29095867_114295902748632_3090608146364760064_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e5c4ee8a38f183ec5cd7d948ed57ebe2/5B7571FF/t51.2885-15/s640x640/sh0.08/e35/29095867_114295902748632_3090608146364760064_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/e5c4ee8a38f183ec5cd7d948ed57ebe2/5B7571FF/t51.2885-15/s640x640/sh0.08/e35/29095867_114295902748632_3090608146364760064_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/5c2d2a379dbf64222f21c32336fa9812/5B5C8D9E/t51.2885-15/e35/29095867_114295902748632_3090608146364760064_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/5fcaee1614ebff45e99067e75b89d5fe/5B6518CD/t51.2885-15/e35/29089239_427916190983419_2699541487049244672_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/5b504432678aa41c0c3e354a71daec48/5B71F706/t51.2885-15/e35/29092756_468501923565272_8999679454200463360_n.jpg",
+        "edge_media_preview_like": {
+            "count": 103443
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Bourbon, Labrador Retriever (3 y/o), Prince & Lafayette St., New York, NY \u2022 \u201cShe carries the bone to keep her from eating everything off the street \u2013 cigarette butts, chicken bones...\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 421
+        },
+        "id": "1742434791850168150",
+        "image_contents": [
+            "German short-haired pointer",
+            "Chesapeake Bay retriever",
+            "Labrador retriever",
+            "curly-coated retriever",
+            "vizsla, Hungarian pointer"
+        ],
+        "image_scores": [
+            0.45736,
+            0.23955,
+            0.17331,
+            0.01856,
+            0.0026
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BguXzYcgs9W",
+        "tags": [],
+        "taken_at_timestamp": 1521934435,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/30f063dedd779858ee6a1760051afba4/5B4E9B63/t51.2885-15/s150x150/e35/29092756_468501923565272_8999679454200463360_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4bd4b258938a5fbb013e70e51f5f0eb1/5B61F85C/t51.2885-15/s240x240/e35/29092756_468501923565272_8999679454200463360_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/32db2a5dad33cc6c451ab322a31bfbdc/5B5F1824/t51.2885-15/s320x320/e35/29092756_468501923565272_8999679454200463360_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/2a69b2821613338495575df1af198564/5B6D67A2/t51.2885-15/s480x480/e35/29092756_468501923565272_8999679454200463360_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e890f1ef158dc7c775563ee7fbe6dcf9/5B642B67/t51.2885-15/s640x640/sh0.08/e35/29092756_468501923565272_8999679454200463360_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/e890f1ef158dc7c775563ee7fbe6dcf9/5B642B67/t51.2885-15/s640x640/sh0.08/e35/29092756_468501923565272_8999679454200463360_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/5b504432678aa41c0c3e354a71daec48/5B71F706/t51.2885-15/e35/29092756_468501923565272_8999679454200463360_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/94e04dedee6398279f0a7990df780511/5B5E7C23/t51.2885-15/e35/29088943_209711676278242_222846001650597888_n.jpg",
+        "edge_media_preview_like": {
+            "count": 76954
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Juni, Australian Cattle Dog mix (7 m/o), N 5th & Bedford Ave., Brooklyn, NY \u2022 \u201cShe moans a lot \u2013 long, long moans. Usually when she\u2019s laying down.\u201d @juniandmochi, a rescue from @truenorthrescuemission"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 218
+        },
+        "id": "1742212586054772042",
+        "image_contents": [
+            "Cardigan, Cardigan Welsh corgi",
+            "basenji",
+            "Boston bull, Boston terrier",
+            "Eskimo dog, husky",
+            "toy terrier"
+        ],
+        "image_scores": [
+            0.26792,
+            0.21145,
+            0.16535,
+            0.01407,
+            0.01206
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgtlR3LAmVK",
+        "tags": [],
+        "taken_at_timestamp": 1521907946,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/74c3dbce432bb88cffdfc380723a191a/5B6365A1/t51.2885-15/s150x150/e35/c0.135.1080.1080/29088943_209711676278242_222846001650597888_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e5421499f12644ce86850097a1483a80/5B73D737/t51.2885-15/s240x240/e35/c0.135.1080.1080/29088943_209711676278242_222846001650597888_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/48e6d82eeb9e8ad1acaf2f11e3d4212a/5B66BB31/t51.2885-15/s320x320/e35/c0.135.1080.1080/29088943_209711676278242_222846001650597888_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5bd81c95f505aa95f00be6444315c758/5B61B282/t51.2885-15/s480x480/e35/c0.135.1080.1080/29088943_209711676278242_222846001650597888_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4e749037ea9384fcfc42836834b52ba1/5B526A35/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29088943_209711676278242_222846001650597888_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/4e749037ea9384fcfc42836834b52ba1/5B526A35/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29088943_209711676278242_222846001650597888_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/94e04dedee6398279f0a7990df780511/5B5E7C23/t51.2885-15/e35/29088943_209711676278242_222846001650597888_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/1bb6cf7edb451927ce4a34c5294bd05a/5B6C1DBC/t51.2885-15/e35/29096034_1636997803056544_5418242148896079872_n.jpg",
+        "edge_media_preview_like": {
+            "count": 103800
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Border, Shepherd/Collie mix (2 y/o), Manhattan & Norman Ave., Brooklyn, NY \u2022 \u201cShe\u2019s from Jordan; my wife and I just moved to Brooklyn. I was looking at a Husky puppy, and she just ran up and jumped in front, like, \u2018Pick me! Pick me!\u2019 She\u2019s been by my side ever since.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 410
+        },
+        "id": "1741723282182281899",
+        "image_contents": [
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "kelpie",
+            "Norwegian elkhound, elkhound",
+            "Eskimo dog, husky",
+            "malinois"
+        ],
+        "image_scores": [
+            0.97321,
+            0.00166,
+            0.00139,
+            0.00093,
+            0.00087
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bgr2BjbgJqr",
+        "tags": [],
+        "taken_at_timestamp": 1521849616,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f48d87282453022352347cea83ce51b7/5B7522EB/t51.2885-15/s150x150/e35/29096034_1636997803056544_5418242148896079872_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ba19c42337b1e6b91edff4398ea5b8a1/5B6CC17F/t51.2885-15/s240x240/e35/29096034_1636997803056544_5418242148896079872_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b103e8236a91076af4892ab7df713f57/5B5316DB/t51.2885-15/s320x320/e35/29096034_1636997803056544_5418242148896079872_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f4f04a18145d0dbb509d3a89cd6d3fbf/5B645683/t51.2885-15/s480x480/e35/29096034_1636997803056544_5418242148896079872_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0c1fef7e37a3e800d494ff47892e72f6/5B5A9A96/t51.2885-15/s640x640/sh0.08/e35/29096034_1636997803056544_5418242148896079872_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/0c1fef7e37a3e800d494ff47892e72f6/5B5A9A96/t51.2885-15/s640x640/sh0.08/e35/29096034_1636997803056544_5418242148896079872_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/1bb6cf7edb451927ce4a34c5294bd05a/5B6C1DBC/t51.2885-15/e35/29096034_1636997803056544_5418242148896079872_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/f76d2239c246478b1c7dfacc8ef2b4ae/5B685465/t51.2885-15/e35/29090815_2123323757888096_7416135955741933568_n.jpg",
+        "edge_media_preview_like": {
+            "count": 170473
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Lhotse, Pembroke Welsh Corgi (5 m/o), N 12th & Berry St., Brooklyn, NY \u2022 \u201cShe\u2019s named after the Himalayan mountain. She has a zoo of stuffed animals \u2013 a polar bear, a tiger, another dog. She knows them all individually and can pick them out by name.\u201d @lhotsethecorgi \u2022 Happy #NationalPuppyDay \ud83d\udc36"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2803
+        },
+        "id": "1741467751953989292",
+        "image_contents": [
+            "Pembroke, Pembroke Welsh corgi",
+            "Cardigan, Cardigan Welsh corgi",
+            "toy terrier",
+            "beagle",
+            "basset, basset hound"
+        ],
+        "image_scores": [
+            0.63854,
+            0.20479,
+            0.01159,
+            0.00287,
+            0.00218
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bgq77GXA_6s",
+        "tags": [
+            "NationalPuppyDay"
+        ],
+        "taken_at_timestamp": 1521819155,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3600252cc748f044b00bb7f5c26bfa2a/5B702332/t51.2885-15/s150x150/e35/29090815_2123323757888096_7416135955741933568_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/be851a66c39ac07888d129e8a5c6ceec/5B73EEA6/t51.2885-15/s240x240/e35/29090815_2123323757888096_7416135955741933568_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/61d0c81fc979b2b3e1bd6dbd725a54e1/5B53C302/t51.2885-15/s320x320/e35/29090815_2123323757888096_7416135955741933568_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a82d9eb5b79c372c6acaa65aa5bc8756/5B6FC75A/t51.2885-15/s480x480/e35/29090815_2123323757888096_7416135955741933568_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3cfa13c630f7d857a537e87ef1c03389/5B67074F/t51.2885-15/s640x640/sh0.08/e35/29090815_2123323757888096_7416135955741933568_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/3cfa13c630f7d857a537e87ef1c03389/5B67074F/t51.2885-15/s640x640/sh0.08/e35/29090815_2123323757888096_7416135955741933568_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/f76d2239c246478b1c7dfacc8ef2b4ae/5B685465/t51.2885-15/e35/29090815_2123323757888096_7416135955741933568_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/ccb475daf3a78624228b6d3206953167/5B65819B/t51.2885-15/e35/29416756_294758114393821_7503474957519683584_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/d0b3e83448d47a2be05e3dc181dd243f/5B68E7CE/t51.2885-15/e35/29089003_144446646385375_5971168348728197120_n.jpg",
+        "edge_media_preview_like": {
+            "count": 113921
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Delilah, Dachshund (6 y/o), Stanton & Bowery St., New York, NY \u2022 \u201cShe\u2019s a \u2018cat-dog\u2019 \u2013 she goes outside to pee and comes right back in.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1146
+        },
+        "id": "1740922929094554323",
+        "image_contents": [
+            "Gordon setter",
+            "English setter",
+            "Appenzeller",
+            "Bernese mountain dog",
+            "Saluki, gazelle hound"
+        ],
+        "image_scores": [
+            0.96289,
+            0.00327,
+            0.0021,
+            0.00142,
+            0.00136
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgpAC4iA3LT",
+        "tags": [],
+        "taken_at_timestamp": 1521754207,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/bf3d854a04047e0070dcec7481b22e53/5B5AD0AB/t51.2885-15/s150x150/e35/29089003_144446646385375_5971168348728197120_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6a7cab139763d06c12f176b3d9cad740/5B5D4794/t51.2885-15/s240x240/e35/29089003_144446646385375_5971168348728197120_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fadf40563d2844de286e99b45d708377/5B6974EC/t51.2885-15/s320x320/e35/29089003_144446646385375_5971168348728197120_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d898f1fc9ae20e6de60181b2927114b9/5B626F6A/t51.2885-15/s480x480/e35/29089003_144446646385375_5971168348728197120_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/884c2eef330ec2a6298af2e1c683722c/5B61B5AF/t51.2885-15/s640x640/sh0.08/e35/29089003_144446646385375_5971168348728197120_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/884c2eef330ec2a6298af2e1c683722c/5B61B5AF/t51.2885-15/s640x640/sh0.08/e35/29089003_144446646385375_5971168348728197120_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/d0b3e83448d47a2be05e3dc181dd243f/5B68E7CE/t51.2885-15/e35/29089003_144446646385375_5971168348728197120_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/bcba6287c4c35216f1fba00ca9d339bb/5B7453F7/t51.2885-15/e35/28766034_404036603393554_1528294559581208576_n.jpg",
+        "edge_media_preview_like": {
+            "count": 87912
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Jesse, Miniature Labradoodle (7 y/o), Washington Square Park, New York, NY \u2022 \"I think he\u2019s desperately bored with me. His brother and sister (my two kids) went off to college.\""
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 444
+        },
+        "id": "1740741363026325284",
+        "image_contents": [
+            "miniature poodle",
+            "standard poodle",
+            "Tibetan terrier, chrysanthemum dog",
+            "otterhound, otter hound",
+            "Irish water spaniel"
+        ],
+        "image_scores": [
+            0.21432,
+            0.19881,
+            0.17114,
+            0.1367,
+            0.07275
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgoWwv9A28k",
+        "tags": [],
+        "taken_at_timestamp": 1521732562,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e4eb4458097c8b6ff4226e2b7e12fb53/5B5AEC92/t51.2885-15/s150x150/e35/28766034_404036603393554_1528294559581208576_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0ad6c79d053de0dcd053d4d01edc28d3/5B51D3AD/t51.2885-15/s240x240/e35/28766034_404036603393554_1528294559581208576_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3e442aa11f4fa2d416ee30ce8363f913/5B4FF5D5/t51.2885-15/s320x320/e35/28766034_404036603393554_1528294559581208576_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c2ec941060d076ddd022a96672f56870/5B53FF53/t51.2885-15/s480x480/e35/28766034_404036603393554_1528294559581208576_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4a8e51ec1149a6b39afeff242b528882/5B6D2996/t51.2885-15/s640x640/sh0.08/e35/28766034_404036603393554_1528294559581208576_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/4a8e51ec1149a6b39afeff242b528882/5B6D2996/t51.2885-15/s640x640/sh0.08/e35/28766034_404036603393554_1528294559581208576_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/bcba6287c4c35216f1fba00ca9d339bb/5B7453F7/t51.2885-15/e35/28766034_404036603393554_1528294559581208576_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/12aebbcd367c91e86cd6c9a1d1975330/5B53534D/t51.2885-15/e35/29094205_159581014856787_8468982617818005504_n.jpg",
+        "edge_media_preview_like": {
+            "count": 117279
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Trooper (and Tyler), Labrador Retriever (2 y/o), Toms River, NJ \u2022 \"Growing up I wanted to be in the military \u2013 since 2nd grade when the Towers went down. I joined on my 18th birthday and I was deployed in Kuwait when I was 19 and 20. I got hurt December 21st, 2014 \u2013 I was thrown about 40-feet from a Humvee. I was in a coma for three months and had brain surgery. I broke almost every bone in my face. Humpty Dumpty fell off the wall. I died four times on the flight out and three times at Walter Reed (National Military Medical Center). I coded. Since then, I've had 2,482 therapy appointments \u2013 physical therapy, speech therapy, music and art therapy. My parents knew I was going to be sad when I retired, so they applied for him. When I found out I was getting him, I didn\u2019t care about anything else. When I met him, it was overwhelming \u2013 everybody started smiling.\" \u2013 \"He helps me with balance and retrieving stuff if my back is killing me; and companionship \u2013 I don\u2019t ever feel alone. I\u2019ve had him for 10 months and without him I would be pretty depressed. We got to meet both presidents; we jammed with Obama and got to meet his dogs. I've gotten to do a lot of cool stuff, but I would give it all up to be back in the army with my brothers and sisters. Doing something right and for a purpose.\" @americasvetdogs @tyler19delta"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1211
+        },
+        "id": "1740258165993441687",
+        "image_contents": [
+            "Labrador retriever",
+            "Great Dane",
+            "Newfoundland, Newfoundland dog",
+            "Rottweiler",
+            "velvet"
+        ],
+        "image_scores": [
+            0.73563,
+            0.01786,
+            0.00998,
+            0.00855,
+            0.00733
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bgmo5TpgwmX",
+        "tags": [],
+        "taken_at_timestamp": 1521674961,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5d51de1f1f756e54268420ea1566ff3a/5B571D71/t51.2885-15/s150x150/e35/c0.135.1080.1080/29094205_159581014856787_8468982617818005504_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/1a0049e0c88f51b9551a5e204837a9b7/5B5B651A/t51.2885-15/s240x240/e35/c0.135.1080.1080/29094205_159581014856787_8468982617818005504_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e9a21a1fd1da854d03402cc32fec771e/5B50A7D2/t51.2885-15/s320x320/e35/c0.135.1080.1080/29094205_159581014856787_8468982617818005504_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/835afd2defb5c20caa415667082f4f63/5B687A38/t51.2885-15/s480x480/e35/c0.135.1080.1080/29094205_159581014856787_8468982617818005504_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fe789cad6ba4f45ca7068371c61c57e1/5B67F69F/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29094205_159581014856787_8468982617818005504_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/fe789cad6ba4f45ca7068371c61c57e1/5B67F69F/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29094205_159581014856787_8468982617818005504_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/12aebbcd367c91e86cd6c9a1d1975330/5B53534D/t51.2885-15/e35/29094205_159581014856787_8468982617818005504_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/c466b6352b9f97d09765cb3e33d4756d/5B606795/t51.2885-15/e35/29090480_1999363313661792_9027148231074643968_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/92b8395ec8e9e1c8798fa6114594daff/5B747180/t51.2885-15/e35/28763282_598643883822697_244283742498062336_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/0ecdefc1ab3e30a07e4f58a7639cd21d/5B625C52/t51.2885-15/e35/29090825_348883995610123_3608969338456899584_n.jpg",
+        "edge_media_preview_like": {
+            "count": 83961
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Pinta, Labrador/Golden Retriever cross (6 y/o), Upper West Side, New York, NY \u2022 \"She's my seventh guide dog. I was 12 when I got my first dog. People are a lot more willing to help when you have a dog than with a cane. The city requires a lot of energy and she has a lot. She dances waiting for the lights to change.\" @guidedogfoundation"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 204
+        },
+        "id": "1740110531609535927",
+        "image_contents": [
+            "Labrador retriever",
+            "Chesapeake Bay retriever",
+            "curly-coated retriever",
+            "bull mastiff",
+            "Rottweiler"
+        ],
+        "image_scores": [
+            0.599,
+            0.23514,
+            0.01531,
+            0.00478,
+            0.00373
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgmHU8agKW3",
+        "tags": [],
+        "taken_at_timestamp": 1521657361,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3709671cb16ee38e13790dc24f3c3246/5B519937/t51.2885-15/s150x150/e35/29090825_348883995610123_3608969338456899584_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8a091d7ecfc8a99ad4c2c4fcb813a7bd/5B530A08/t51.2885-15/s240x240/e35/29090825_348883995610123_3608969338456899584_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/322e197e1ec2294ab50e6e130ba503ad/5B6BDD70/t51.2885-15/s320x320/e35/29090825_348883995610123_3608969338456899584_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4c36a966f938efb2d420c2d7f2aa37f1/5B66ABF6/t51.2885-15/s480x480/e35/29090825_348883995610123_3608969338456899584_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f6f186368d86de36497eccb81b70a6f3/5B5AAA33/t51.2885-15/s640x640/sh0.08/e35/29090825_348883995610123_3608969338456899584_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/f6f186368d86de36497eccb81b70a6f3/5B5AAA33/t51.2885-15/s640x640/sh0.08/e35/29090825_348883995610123_3608969338456899584_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/0ecdefc1ab3e30a07e4f58a7639cd21d/5B625C52/t51.2885-15/e35/29090825_348883995610123_3608969338456899584_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1078,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/7c82fadfe9fc41898179653ad6ea7520/5B584CD5/t51.2885-15/e35/28764144_207953659976657_4222147727519121408_n.jpg",
+        "edge_media_preview_like": {
+            "count": 121950
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Service dogs Halsey, Talia, Justin, Murray, Chesty, Myers, Kevin, & Madison, Labrador Retrievers & Lab/Golden Retriever crosses, Smithtown, NY \u2022 Guide dogs and service dogs train to help the visually impaired and veterans with disabilities. \u2022 \"These guys are future guide and service dogs. They\u2019re raised by puppy raisers from the age of eight-weeks to sixteen-months-old. The puppy raisers try to build their fundamental skills that they\u2019ll need for formal training. The four fundamentals of puppy raising are: good house manners, socialization, relieving routine, and ensuring success.\" \u2022 \"During formal training, the dogs learn a set of commands and tasks, like retrieving a phone, pressing a handicapped door button, or switching lights on and off (mostly a PTSD task so that their handlers don\u2019t have to enter a dark room). The guide dogs are taught to walk straight with purpose, to go around obstacles, and to stop at the curbs.\" \u2022 \"When I first started working here I followed a class of veterans with their new service dogs. The first three days none of the veterans would look me in the eye. It was incredible to see their transformation after they got their dogs \u2013 their entire persona instantly changed. The whole environment changed. They were all becoming friends because they were going through this together with their dogs. There was one guy who was disappointed when he first met his dog and by the end of the class they were already bonded. I think a lot of them are skeptical and don\u2019t think it\u2019s going to work out but they always connect so quickly. It\u2019s incredible to watch the transformation.\" @guidedogfoundation @americasvetdogs"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 812
+        },
+        "id": "1739601090632126302",
+        "image_contents": [
+            "Labrador retriever",
+            "Chesapeake Bay retriever",
+            "beagle",
+            "Rhodesian ridgeback",
+            "toilet tissue, toilet paper, bathroom tissue"
+        ],
+        "image_scores": [
+            0.2599,
+            0.0526,
+            0.02749,
+            0.01616,
+            0.01441
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgkTfmiAo9e",
+        "tags": [],
+        "taken_at_timestamp": 1521596631,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/87760d5a244f50ded0d0937705b22501/5B4EDAA2/t51.2885-15/s150x150/e35/c1.0.1078.1078/28764144_207953659976657_4222147727519121408_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/778927948284e8cff598ac705596a843/5B602634/t51.2885-15/s240x240/e35/c1.0.1078.1078/28764144_207953659976657_4222147727519121408_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3232727e295fd77fc708f3d68ca545c2/5B54F2DC/t51.2885-15/s320x320/e35/c1.0.1078.1078/28764144_207953659976657_4222147727519121408_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ee09a3f50c7d64251ae84ebf9c088caa/5B6716F5/t51.2885-15/s480x480/e35/c1.0.1078.1078/28764144_207953659976657_4222147727519121408_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/213beef6b078b6404efd20542007aa69/5B5C4AE1/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/28764144_207953659976657_4222147727519121408_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/213beef6b078b6404efd20542007aa69/5B5C4AE1/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/28764144_207953659976657_4222147727519121408_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/7c82fadfe9fc41898179653ad6ea7520/5B584CD5/t51.2885-15/e35/28764144_207953659976657_4222147727519121408_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/f3a5ebb8d93d575ddaf762cfec9f52bf/5B5831F0/t51.2885-15/e35/28764495_611844615823511_7716516656935075840_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/535a5a05f85e38b9f430b686a8d03cc3/5B58C493/t51.2885-15/e35/28766699_177654826201956_3448421150240014336_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/ea47faedad37014159150bc2f03308eb/5B6F3D30/t51.2885-15/e35/29094567_247906345754277_7552210780356083712_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/184ec529b93dc0d379863699e84f40b1/5B5DAFAB/t51.2885-15/e35/29093613_157643981592580_8073994528807190528_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/5f523c997a88977956545bd710fcc918/5B55B1F2/t51.2885-15/e35/28764487_596912123991023_2945006444337954816_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/156d7064499a194bdf268af6999d1121/5B613063/t51.2885-15/e35/29092655_152716105422652_1443923534823817216_n.jpg",
+        "edge_media_preview_like": {
+            "count": 257708
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Puppies at the Guide Dog Foundation & America's VetDogs, Labrador Retrievers & Lab/Golden Retriever crosses, Smithtown, NY \u2022 Puppies at the beginning of their journey to becoming working service dogs for the visually impaired and veterans with disabilities. \u2022 \u201cAt six-weeks-old they\u2019re just getting used to surfaces and sounds; we'll also put leashes and collars on them to get them used to the feeling. We\u2019ll play sound recordings of vacuums, highway noises, etc. so they aren\u2019t scared once they leave here. It\u2019s even important that they play and fight with each other so they can figure out how hard they can bite. They\u2019re pretty fearless.\" @guidedogfoundation @americasvetdogs"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 7198
+        },
+        "id": "1739273062831888307",
+        "image_contents": [
+            "Labrador retriever",
+            "Chesapeake Bay retriever",
+            "Staffordshire bullterrier, Staffordshire bull terrier",
+            "Rottweiler",
+            "Newfoundland, Newfoundland dog"
+        ],
+        "image_scores": [
+            0.82128,
+            0.04314,
+            0.01131,
+            0.0084,
+            0.00549
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgjI6K1gBez",
+        "tags": [],
+        "taken_at_timestamp": 1521557527,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5ef4911c2c4e81f5addcb1d273deab72/5B5BAE06/t51.2885-15/s150x150/e35/29092655_152716105422652_1443923534823817216_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/545fd996cc8d22d58da75c416c196eeb/5B61E439/t51.2885-15/s240x240/e35/29092655_152716105422652_1443923534823817216_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ffc2ee1eed1bbfcc3e1880e04ca04537/5B692041/t51.2885-15/s320x320/e35/29092655_152716105422652_1443923534823817216_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/a43311b7eaba797e97f6831a82c42cf3/5B5CF2C7/t51.2885-15/s480x480/e35/29092655_152716105422652_1443923534823817216_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/62203e67bcb9a356a88ef0e5e9aa5647/5B691A02/t51.2885-15/s640x640/sh0.08/e35/29092655_152716105422652_1443923534823817216_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/62203e67bcb9a356a88ef0e5e9aa5647/5B691A02/t51.2885-15/s640x640/sh0.08/e35/29092655_152716105422652_1443923534823817216_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/156d7064499a194bdf268af6999d1121/5B613063/t51.2885-15/e35/29092655_152716105422652_1443923534823817216_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/e38758e493718b0b1fb0c3d02466633b/5B5B7870/t51.2885-15/e35/28763742_175832833226139_638037586757025792_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/c8fa0a47a1151031fff149580645951c/5B73D507/t51.2885-15/e35/28766565_1807110749585572_8629961024318996480_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/9234b7c0e57957c027da30b08eff1740/5B4FB312/t51.2885-15/e35/29401337_2135150906696308_5765913047063330816_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/658e1fb6cf005a265aa029ba152fd3d2/5B72F20A/t51.2885-15/e35/29088326_1931478950220160_3478523751383957504_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/a19c41ee157bdb4d0d977c16de6005fe/5B6D6AF5/t51.2885-15/e35/28763062_191920304746646_7579155747313811456_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/53e58c81f5052ad4aa5c917c70cef020/5B60FC75/t51.2885-15/e35/28763417_2102200420066841_8107347591265517568_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/bc747fbeb3ba066f7b13bc81f5d81f4a/5B70AED9/t51.2885-15/e35/29088825_171406523580909_5541288044188925952_n.jpg",
+        "edge_media_preview_like": {
+            "count": 161689
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Hurley, Wheaten Terrier (4 m/o), Washington Square Park, New York, NY \u2022 \u201cHe was born in a car. The breeder called him \u2018Car Man\u2019.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2153
+        },
+        "id": "1738824195707554730",
+        "image_contents": [
+            "soft-coated wheaten terrier",
+            "Irish terrier",
+            "Tibetan terrier, chrysanthemum dog",
+            "Lakeland terrier",
+            "Norfolk terrier"
+        ],
+        "image_scores": [
+            0.74901,
+            0.1743,
+            0.00578,
+            0.00535,
+            0.00486
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bghi2SwAMuq",
+        "tags": [],
+        "taken_at_timestamp": 1521504018,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b10e4d0cd393fb195930a0ff40eea45e/5B5847BC/t51.2885-15/s150x150/e35/29088825_171406523580909_5541288044188925952_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7141ef7c9feee38ca30fe7e5d5a3955b/5B648583/t51.2885-15/s240x240/e35/29088825_171406523580909_5541288044188925952_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/073882e6b6f82e0f70cd29917da541f7/5B6500FB/t51.2885-15/s320x320/e35/29088825_171406523580909_5541288044188925952_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e126c3f0670eced642114458648763d9/5B68157D/t51.2885-15/s480x480/e35/29088825_171406523580909_5541288044188925952_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f0616aa826553ae730099e9b0dd42773/5B62EAB8/t51.2885-15/s640x640/sh0.08/e35/29088825_171406523580909_5541288044188925952_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/f0616aa826553ae730099e9b0dd42773/5B62EAB8/t51.2885-15/s640x640/sh0.08/e35/29088825_171406523580909_5541288044188925952_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/bc747fbeb3ba066f7b13bc81f5d81f4a/5B70AED9/t51.2885-15/e35/29088825_171406523580909_5541288044188925952_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/f8d469e00f9f51e805c257f9fbff381d/5B65D05B/t51.2885-15/e35/28764052_443714719393200_3799216469611380736_n.jpg",
+        "edge_media_preview_like": {
+            "count": 113154
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Bella, English Mastiff (15 m/o), Madison Square Park, New York, NY \u2022 \u201cYou photographed her when she was four-months-old and she got 100 thousand likes. She\u2019s still a gentle giant.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 679
+        },
+        "id": "1738596768758661973",
+        "image_contents": [
+            "bull mastiff",
+            "Great Dane",
+            "Saint Bernard, St Bernard",
+            "pug, pug-dog",
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+        ],
+        "image_scores": [
+            0.94342,
+            0.00128,
+            0.00108,
+            0.00076,
+            0.00067
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BggvIy5gINV",
+        "tags": [],
+        "taken_at_timestamp": 1521476907,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e0319242e7002e1023267342d7f29e67/5B629F3E/t51.2885-15/s150x150/e35/28764052_443714719393200_3799216469611380736_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/33a5b27236d5ac871bc2c8fe53576b1b/5B6E8801/t51.2885-15/s240x240/e35/28764052_443714719393200_3799216469611380736_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e23fdcadb7930f1453c404af0fac6b43/5B5A4B79/t51.2885-15/s320x320/e35/28764052_443714719393200_3799216469611380736_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e87dedc20fff058f5b9b9034c70f2c4d/5B7316FF/t51.2885-15/s480x480/e35/28764052_443714719393200_3799216469611380736_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c94579321a372b412b1038d40328d243/5B554F3A/t51.2885-15/s640x640/sh0.08/e35/28764052_443714719393200_3799216469611380736_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/c94579321a372b412b1038d40328d243/5B554F3A/t51.2885-15/s640x640/sh0.08/e35/28764052_443714719393200_3799216469611380736_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/f8d469e00f9f51e805c257f9fbff381d/5B65D05B/t51.2885-15/e35/28764052_443714719393200_3799216469611380736_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/47ade4ff5d1fa48fdd2e7cbda455eef5/5B6E4A32/t51.2885-15/e35/29417193_606890966332268_2449223976925265920_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/bfe57eff0560d4fbc496888919c2e92f/5B6EF7AB/t51.2885-15/e35/28754574_200343597397950_6601978836965916672_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/92695afec981825885163b63a62d5ef1/5B6233A9/t51.2885-15/e35/28753458_188241671954144_8674162310878593024_n.jpg",
+        "edge_media_preview_like": {
+            "count": 84442
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Poldi, Staffordshire Bull Terrier (1 y/o), Washington Square Park, New York, NY \u2022 \u201cThe reason I\u2019m walking her is because she got kicked out of daycare.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 456
+        },
+        "id": "1738040146600699618",
+        "image_contents": [
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+            "Staffordshire bullterrier, Staffordshire bull terrier",
+            "Boston bull, Boston terrier",
+            "Mexican hairless",
+            "boxer"
+        ],
+        "image_scores": [
+            0.41962,
+            0.10239,
+            0.02617,
+            0.01497,
+            0.01495
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bgewk4HgKbi",
+        "tags": [],
+        "taken_at_timestamp": 1521410552,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3e85db5bb8b6d2550e9aafb3f027b955/5B565ECC/t51.2885-15/s150x150/e35/28753458_188241671954144_8674162310878593024_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6604ced1397877b10d89bfe52ec00618/5B5340F3/t51.2885-15/s240x240/e35/28753458_188241671954144_8674162310878593024_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/97b8bd2ef5e7622dc305905350c7b7ed/5B6D978B/t51.2885-15/s320x320/e35/28753458_188241671954144_8674162310878593024_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/230da5f7975b9905fb917c932d614ed2/5B6EE10D/t51.2885-15/s480x480/e35/28753458_188241671954144_8674162310878593024_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/74b4cc1adfd22b8f1ea28a19a37df7dc/5B70B7C8/t51.2885-15/s640x640/sh0.08/e35/28753458_188241671954144_8674162310878593024_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/74b4cc1adfd22b8f1ea28a19a37df7dc/5B70B7C8/t51.2885-15/s640x640/sh0.08/e35/28753458_188241671954144_8674162310878593024_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/92695afec981825885163b63a62d5ef1/5B6233A9/t51.2885-15/e35/28753458_188241671954144_8674162310878593024_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/ad0d68a5823c314f54c0006781cf8a31/5B6CE0A0/t51.2885-15/e35/28752290_1805395579767703_6961936249292587008_n.jpg",
+        "edge_media_preview_like": {
+            "count": 141282
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Eloise, Shiloh Shepherd (1 y/o), Tompkins Square Park, New York, NY \u2022 \u201cWhen boys don\u2019t pay attention to her, she trips them.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1067
+        },
+        "id": "1737826618803704376",
+        "image_contents": [
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "malinois",
+            "Norwegian elkhound, elkhound",
+            "muzzle",
+            "Leonberg"
+        ],
+        "image_scores": [
+            0.83271,
+            0.03126,
+            0.01645,
+            0.00677,
+            0.00333
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgeABo3A1I4",
+        "tags": [],
+        "taken_at_timestamp": 1521385098,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/4024530ea9edcddb798d4658a692c00e/5B5495F7/t51.2885-15/s150x150/e35/28752290_1805395579767703_6961936249292587008_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/58afd14cbbe691c390b303a81d59c692/5B652D63/t51.2885-15/s240x240/e35/28752290_1805395579767703_6961936249292587008_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b69bc60e19100e656c686c314a98f908/5B6C47C7/t51.2885-15/s320x320/e35/28752290_1805395579767703_6961936249292587008_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ba44323bf4fb239d328a6a1497f73adf/5B62EB9F/t51.2885-15/s480x480/e35/28752290_1805395579767703_6961936249292587008_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/bb2e46bc44ca92f766f9d92186be331e/5B4E8B8A/t51.2885-15/s640x640/sh0.08/e35/28752290_1805395579767703_6961936249292587008_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/bb2e46bc44ca92f766f9d92186be331e/5B4E8B8A/t51.2885-15/s640x640/sh0.08/e35/28752290_1805395579767703_6961936249292587008_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/ad0d68a5823c314f54c0006781cf8a31/5B6CE0A0/t51.2885-15/e35/28752290_1805395579767703_6961936249292587008_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/ab571c82f6208decb3c500116c4bfd63/5B747A89/t51.2885-15/e35/29089739_345342712644255_8564021211762262016_n.jpg",
+        "edge_media_preview_like": {
+            "count": 64977
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Birdy & Lovey, Pembroke Welsh Corgi & Dachshund mix, A @Netflix Film Premiere: Benji, New York, NY \u2022 Lovey the Dachshund is available for adoption from @friendswithfourpaws \u2022 Benji is the heartwarming story of a rescue dog who saves his family, too. WATCH NOW, Only on Netflix. #BenjiTheMovie #NetflixAndWoof #ad @GenuineBenji"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 351
+        },
+        "id": "1737372707240188224",
+        "image_contents": [
+            "Pembroke, Pembroke Welsh corgi",
+            "Cardigan, Cardigan Welsh corgi",
+            "basenji",
+            "boathouse",
+            "toy terrier"
+        ],
+        "image_scores": [
+            0.82567,
+            0.07977,
+            0.02413,
+            0.00112,
+            0.00084
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgcY0WxgplA",
+        "tags": [
+            "BenjiTheMovie",
+            "ad",
+            "NetflixAndWoof"
+        ],
+        "taken_at_timestamp": 1521330987,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/703176cd77ac5956d0a2fad428459275/5B501EEC/t51.2885-15/s150x150/e35/29089739_345342712644255_8564021211762262016_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/52e8a246287e5e39a170756e8cea1ca7/5B5875D3/t51.2885-15/s240x240/e35/29089739_345342712644255_8564021211762262016_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/74bfd8646603c282094959985d246dcc/5B684BAB/t51.2885-15/s320x320/e35/29089739_345342712644255_8564021211762262016_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/351fc0b6f1e12a5746c8b1a1a1dd14ed/5B4F8E2D/t51.2885-15/s480x480/e35/29089739_345342712644255_8564021211762262016_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/276d7f3f6fc47da2a1d27117249485d5/5B6CC8E8/t51.2885-15/s640x640/sh0.08/e35/29089739_345342712644255_8564021211762262016_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/276d7f3f6fc47da2a1d27117249485d5/5B6CC8E8/t51.2885-15/s640x640/sh0.08/e35/29089739_345342712644255_8564021211762262016_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/ab571c82f6208decb3c500116c4bfd63/5B747A89/t51.2885-15/e35/29089739_345342712644255_8564021211762262016_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/677c04e839199798f045c96626a87fe9/5B692B28/t51.2885-15/e35/28763692_186220652105199_5958567932588982272_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/d455623cbe3ed083ad0c82e90da02d81/5B6189B0/t51.2885-15/e35/28754266_204075293685590_3188350881783349248_n.jpg",
+        "edge_media_preview_like": {
+            "count": 150268
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Shmuley, Australian Labradoodle (5 m/o), 6th & Bowery, New York, NY \u2022 \"He learned where we kept his food the day we brought him home. We had to safety-lock it.\" Happy Saint Patrick\u2019s Day!\ud83c\udf40"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1406
+        },
+        "id": "1737192835058374812",
+        "image_contents": [
+            "miniature poodle",
+            "toy poodle",
+            "standard poodle",
+            "wire-haired fox terrier",
+            "Airedale, Airedale terrier"
+        ],
+        "image_scores": [
+            0.50792,
+            0.18423,
+            0.15595,
+            0.00727,
+            0.00723
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "Bgbv63wAhic",
+        "tags": [],
+        "taken_at_timestamp": 1521309545,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/00182a5095fb3fec17090d03ba39bf71/5B6D5ED5/t51.2885-15/s150x150/e35/28754266_204075293685590_3188350881783349248_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fcd961080fcff8cd1530dd3f7c39b2c3/5B735EEA/t51.2885-15/s240x240/e35/28754266_204075293685590_3188350881783349248_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/755711c71e9aa172b0e1e688f77d5b63/5B567792/t51.2885-15/s320x320/e35/28754266_204075293685590_3188350881783349248_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/9ebc8699c101699da10d08dfb100763e/5B5C3A14/t51.2885-15/s480x480/e35/28754266_204075293685590_3188350881783349248_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/d9d2e8f7301d7230cc6562ba5faf23ad/5B5285D1/t51.2885-15/s640x640/sh0.08/e35/28754266_204075293685590_3188350881783349248_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/d9d2e8f7301d7230cc6562ba5faf23ad/5B5285D1/t51.2885-15/s640x640/sh0.08/e35/28754266_204075293685590_3188350881783349248_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/d455623cbe3ed083ad0c82e90da02d81/5B6189B0/t51.2885-15/e35/28754266_204075293685590_3188350881783349248_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1078,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/81ac5a4f016929717012ccfb46e00eb3/5B5ED9D6/t51.2885-15/e35/28752898_699181020472114_6290674998851928064_n.jpg",
+        "edge_media_preview_like": {
+            "count": 153894
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\u201cFat\u201d Chance & River, Labrador Retrievers (3 m/o & 8 y/o), Union Square, New York, NY \u2022 \u201cChance doesn\u2019t know his own size. River has eaten pretty much everything \u2013 the couch, a bunch of donuts that weren\u2019t his. We\u2019re hoping he doesn\u2019t teach Chance any bad habits.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1046
+        },
+        "id": "1736601083372970137",
+        "image_contents": [
+            "Labrador retriever",
+            "Chesapeake Bay retriever",
+            "curly-coated retriever",
+            "kuvasz",
+            "bull mastiff"
+        ],
+        "image_scores": [
+            0.968,
+            0.00401,
+            0.00385,
+            0.00139,
+            0.00126
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgZpXwDASCZ",
+        "tags": [],
+        "taken_at_timestamp": 1521239003,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6ff745f826657221da9807a831c6f158/5B6CDDA1/t51.2885-15/s150x150/e35/c1.0.1078.1078/28752898_699181020472114_6290674998851928064_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8ee54e35b435f8c1a2c9ab7fd3501a0b/5B5B4B37/t51.2885-15/s240x240/e35/c1.0.1078.1078/28752898_699181020472114_6290674998851928064_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3fd678be4a32cc9f2f70279fb211928a/5B60BEDF/t51.2885-15/s320x320/e35/c1.0.1078.1078/28752898_699181020472114_6290674998851928064_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3e04682590e9130ed147ea6bbad177b5/5B537AF6/t51.2885-15/s480x480/e35/c1.0.1078.1078/28752898_699181020472114_6290674998851928064_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8872c345e9b43cfd9d4827462d5bdb4c/5B6D09E2/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/28752898_699181020472114_6290674998851928064_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/8872c345e9b43cfd9d4827462d5bdb4c/5B6D09E2/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/28752898_699181020472114_6290674998851928064_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/81ac5a4f016929717012ccfb46e00eb3/5B5ED9D6/t51.2885-15/e35/28752898_699181020472114_6290674998851928064_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/1e91eb2e81ed1115267a8aff30864a55/5B5879B1/t51.2885-15/e35/28765290_2040474446211564_7417440792576262144_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/97ab572ca125037ea8876b7b2de9a4cf/5B640023/t51.2885-15/e35/28752074_2036218219955407_4074680699720826880_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/26e228b6833b3fec94972c895f40dcae/5B51C078/t51.2885-15/e35/29090335_2068386463177768_8282463939183247360_n.jpg",
+        "edge_media_preview_like": {
+            "count": 112288
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Suki, Boxer (5 y/o), Central Park, New York, NY \u2022 \u201cShe doesn\u2019t like funny noises.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1219
+        },
+        "id": "1736375924863082238",
+        "image_contents": [
+            "boxer",
+            "Staffordshire bullterrier, Staffordshire bull terrier",
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+            "dalmatian, coach dog, carriage dog",
+            "bull mastiff"
+        ],
+        "image_scores": [
+            0.70251,
+            0.09609,
+            0.02104,
+            0.01842,
+            0.01794
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgY2LQ2AR7-",
+        "tags": [],
+        "taken_at_timestamp": 1521212162,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b13239fcc3a2cc0115d3cc4d3156b426/5B7397DF/t51.2885-15/s150x150/e35/c0.135.1080.1080/29090335_2068386463177768_8282463939183247360_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/9a9af90ae7072087dbfe60db16d6ac35/5B743A2F/t51.2885-15/s240x240/e35/c0.135.1080.1080/29090335_2068386463177768_8282463939183247360_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/455bbb4dcf1bd05fd488cccf7c5fdba3/5B59372E/t51.2885-15/s320x320/e35/c0.135.1080.1080/29090335_2068386463177768_8282463939183247360_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7b4c8ad03d241da1b6a14fae301769ae/5B56B703/t51.2885-15/s480x480/e35/c0.135.1080.1080/29090335_2068386463177768_8282463939183247360_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7bf68ca143acbd199c882e0e41fda9e9/5B6CC97B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29090335_2068386463177768_8282463939183247360_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/7bf68ca143acbd199c882e0e41fda9e9/5B6CC97B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29090335_2068386463177768_8282463939183247360_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/26e228b6833b3fec94972c895f40dcae/5B51C078/t51.2885-15/e35/29090335_2068386463177768_8282463939183247360_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/0e7b9bba7f3299ffaadd3b97ad74626d/5B563BFA/t51.2885-15/e35/29090148_201331403791534_6872130982804193280_n.jpg",
+        "edge_media_preview_like": {
+            "count": 235398
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Charlie, Golden Retriever (3 m/o), S Hill & 4th St., Los Angeles, CA \u2022 \u201cShe only walks if she\u2019s carrying her leash in her mouth. There\u2019s going to be a beer named after her \u2013 we\u2019re calling it \u2018Charliework IPA\u2019 with her face on the label.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 5427
+        },
+        "id": "1735971404534378760",
+        "image_contents": [
+            "golden retriever",
+            "Labrador retriever",
+            "kuvasz",
+            "doormat, welcome mat",
+            "Great Pyrenees"
+        ],
+        "image_scores": [
+            0.86448,
+            0.02522,
+            0.00684,
+            0.00319,
+            0.00169
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgXaMt7gfEI",
+        "tags": [],
+        "taken_at_timestamp": 1521163939,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5433bab125fa2427ae232fe1484c275f/5B50C89F/t51.2885-15/s150x150/e35/29090148_201331403791534_6872130982804193280_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/ace9fbbb23bba09535ca7d5614169e81/5B5FEFA0/t51.2885-15/s240x240/e35/29090148_201331403791534_6872130982804193280_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/c37d2a757d04feffc2a84b88df65fedd/5B6B47D8/t51.2885-15/s320x320/e35/29090148_201331403791534_6872130982804193280_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/015c317f2f354183a34f630c3c5eea14/5B633B5E/t51.2885-15/s480x480/e35/29090148_201331403791534_6872130982804193280_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/f248031c5bd8f96db5d69163f540cf48/5B673C9B/t51.2885-15/s640x640/sh0.08/e35/29090148_201331403791534_6872130982804193280_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/f248031c5bd8f96db5d69163f540cf48/5B673C9B/t51.2885-15/s640x640/sh0.08/e35/29090148_201331403791534_6872130982804193280_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/0e7b9bba7f3299ffaadd3b97ad74626d/5B563BFA/t51.2885-15/e35/29090148_201331403791534_6872130982804193280_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/f8049e22e80524345a2056ef4bd123ec/5ACA6F7C/t50.2886-16/29294363_181409259145499_9020518650611661248_n.mp4",
+            "https://scontent-sea1-1.cdninstagram.com/vp/5bb354a14045ce8cdb96caffd744c085/5B727B98/t51.2885-15/e35/28763360_1879249679033176_793166380944850944_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/cda74cee81a80e2557a3b92924d35ab5/5B6DE0A8/t51.2885-15/e35/29093089_214102039335342_7325183413294465024_n.jpg",
+        "edge_media_preview_like": {
+            "count": 105399
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Kona & Coco, Labrador Retrievers (11 y/o), Brentwood, CA \u2022 \u201cI started fostering them, but within five minutes I was like, \u2018I know a good home for them\u2019. They hate water. I call them my \u2018fake Labs\u2019. They won\u2019t go out in the rain.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 621
+        },
+        "id": "1735734321366532582",
+        "image_contents": [
+            "Chesapeake Bay retriever",
+            "Labrador retriever",
+            "curly-coated retriever",
+            "German short-haired pointer",
+            "velvet"
+        ],
+        "image_scores": [
+            0.98095,
+            0.00353,
+            0.00204,
+            0.00037,
+            0.00024
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgWkStBgYHm",
+        "tags": [],
+        "taken_at_timestamp": 1521135677,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/eec2a6625dd5fe6c8e5dfe1862a0420c/5B61B0CD/t51.2885-15/s150x150/e35/29093089_214102039335342_7325183413294465024_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8c2a198a644d5a0ffa12e62a38af7f29/5B57E6F2/t51.2885-15/s240x240/e35/29093089_214102039335342_7325183413294465024_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8b7f83843b59718cca8b792a3a1d1045/5B69198A/t51.2885-15/s320x320/e35/29093089_214102039335342_7325183413294465024_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b77714130d272f5259a80c15834d5393/5B62950C/t51.2885-15/s480x480/e35/29093089_214102039335342_7325183413294465024_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7b092bb636f2afe36b4a1be41555c849/5B5484C9/t51.2885-15/s640x640/sh0.08/e35/29093089_214102039335342_7325183413294465024_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/7b092bb636f2afe36b4a1be41555c849/5B5484C9/t51.2885-15/s640x640/sh0.08/e35/29093089_214102039335342_7325183413294465024_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/cda74cee81a80e2557a3b92924d35ab5/5B6DE0A8/t51.2885-15/e35/29093089_214102039335342_7325183413294465024_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/24f491895fbf97b8c91e64410bebbee9/5B6F410A/t51.2885-15/e35/28752391_237280680150021_4597550838674620416_n.jpg",
+        "edge_media_preview_like": {
+            "count": 56487
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Pipkin, Maltipoo (6 y/o), Echo Park Lake, Los Angeles, CA \u2022 \u201cI took him to a pet psychic because I wanted to know where he came from. She said he belonged to an 8-year-old girl and that one day he got out, got hit by a car, and then the family gave him away as a punishment.\""
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 387
+        },
+        "id": "1735133011348867081",
+        "image_contents": [
+            "Maltese dog, Maltese terrier, Maltese",
+            "Lhasa, Lhasa apso",
+            "Shih-Tzu",
+            "Dandie Dinmont, Dandie Dinmont terrier",
+            "Norfolk terrier"
+        ],
+        "image_scores": [
+            0.812,
+            0.03881,
+            0.0051,
+            0.00282,
+            0.00268
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgUbkfbgMgJ",
+        "tags": [],
+        "taken_at_timestamp": 1521063995,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/e37d949197e4e9332bb0ca6dd886b3cc/5B56356F/t51.2885-15/s150x150/e35/28752391_237280680150021_4597550838674620416_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/cf1a980bce9490a2c51f693ab05e7c42/5B4F2E50/t51.2885-15/s240x240/e35/28752391_237280680150021_4597550838674620416_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/94c14bdc5ab617390c13e6a064a384ac/5B52E728/t51.2885-15/s320x320/e35/28752391_237280680150021_4597550838674620416_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/28bc7326f8a109b70ee2b26f66468144/5B5651AE/t51.2885-15/s480x480/e35/28752391_237280680150021_4597550838674620416_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/0124e1c146ac55a2aa6ae5cb18aa171d/5B60D06B/t51.2885-15/s640x640/sh0.08/e35/28752391_237280680150021_4597550838674620416_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/0124e1c146ac55a2aa6ae5cb18aa171d/5B60D06B/t51.2885-15/s640x640/sh0.08/e35/28752391_237280680150021_4597550838674620416_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/24f491895fbf97b8c91e64410bebbee9/5B6F410A/t51.2885-15/e35/28752391_237280680150021_4597550838674620416_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/8355461ae24f349ff2573c0cc461db7a/5B61FE14/t51.2885-15/e35/28751175_2122262724670674_5052347871995625472_n.jpg",
+        "edge_media_preview_like": {
+            "count": 85630
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Sugarbear, Staffordshire Bull Terrier/Beagle mix (10 y/o), Echo Park Lake, Los Angeles, CA \u2022 \u201cA car ran over her foot \u2013 she\u2019s three-legged and happy. She\u2019s very much her own woman.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 440
+        },
+        "id": "1734978004066609723",
+        "image_contents": [
+            "Boston bull, Boston terrier",
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+            "Staffordshire bullterrier, Staffordshire bull terrier",
+            "toy terrier",
+            "Chihuahua"
+        ],
+        "image_scores": [
+            0.4694,
+            0.11819,
+            0.08877,
+            0.01283,
+            0.01215
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgT4U1pgao7",
+        "tags": [],
+        "taken_at_timestamp": 1521045516,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/885adbeb721c8fa4404c80c88e76dc81/5B67F843/t51.2885-15/s150x150/e35/28751175_2122262724670674_5052347871995625472_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/3acb17d2ef059b68dbf11e85ad76bae3/5B525CD7/t51.2885-15/s240x240/e35/28751175_2122262724670674_5052347871995625472_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/888c904903b0bea72519712caeed7ec6/5B747F73/t51.2885-15/s320x320/e35/28751175_2122262724670674_5052347871995625472_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/32c0b2c7ead51a3429f5517f9a56c04f/5B68632B/t51.2885-15/s480x480/e35/28751175_2122262724670674_5052347871995625472_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/95198072dcdaec95d7578ef83fc1ea16/5B54143E/t51.2885-15/s640x640/sh0.08/e35/28751175_2122262724670674_5052347871995625472_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/95198072dcdaec95d7578ef83fc1ea16/5B54143E/t51.2885-15/s640x640/sh0.08/e35/28751175_2122262724670674_5052347871995625472_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/8355461ae24f349ff2573c0cc461db7a/5B61FE14/t51.2885-15/e35/28751175_2122262724670674_5052347871995625472_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1078,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/5fc8f632dc4a25f6638c2c184f1fc395/5B6423B5/t51.2885-15/e35/28753497_574689532878622_2097823573971304448_n.jpg",
+        "edge_media_preview_like": {
+            "count": 105551
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Viceroy, Husky/Heeler mix (11 m/o), Echo Park Lake, Los Angeles, CA \u2022 \"He was sniffing a skunk's ass and it sprayed him in the mouth. He thought it was a dog. I gave him a tomato sauce bath, but he reeked for at least a month. It was in his nose, so it smelled like skunk every time he kissed you.\""
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1135
+        },
+        "id": "1734454900219336845",
+        "image_contents": [
+            "dingo, warrigal, warragal, Canis dingo",
+            "malinois",
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "kelpie",
+            "Eskimo dog, husky"
+        ],
+        "image_scores": [
+            0.28942,
+            0.19832,
+            0.0654,
+            0.03898,
+            0.02811
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgSBYrOgliN",
+        "tags": [],
+        "taken_at_timestamp": 1520983158,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/9927b03a563e4487b4377d3679c109a3/5B7207C2/t51.2885-15/s150x150/e35/c1.0.1078.1078/28753497_574689532878622_2097823573971304448_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8f2a95ca9805babb934bb06a48917eb7/5B6A0354/t51.2885-15/s240x240/e35/c1.0.1078.1078/28753497_574689532878622_2097823573971304448_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/7c35d89e937076c213698bec49a88d53/5B71E8BC/t51.2885-15/s320x320/e35/c1.0.1078.1078/28753497_574689532878622_2097823573971304448_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/5bd54942f4b6b28a9d301289ce0a7823/5B626695/t51.2885-15/s480x480/e35/c1.0.1078.1078/28753497_574689532878622_2097823573971304448_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/bbfcb1d81450e5141c3300a3c64b0ff1/5B5E3B81/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/28753497_574689532878622_2097823573971304448_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/bbfcb1d81450e5141c3300a3c64b0ff1/5B5E3B81/t51.2885-15/s640x640/sh0.08/e35/c1.0.1078.1078/28753497_574689532878622_2097823573971304448_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/5fc8f632dc4a25f6638c2c184f1fc395/5B6423B5/t51.2885-15/e35/28753497_574689532878622_2097823573971304448_n.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/vp/f6e856bb8f6b9bc33377e66a6b084597/5B5781E9/t51.2885-15/e35/28764634_2071097343109293_3392507397669912576_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/10833cb200e416992c8c94e7f55557d3/5B5AD5DA/t51.2885-15/e35/28763079_605157353162342_1982859046192939008_n.jpg",
+        "edge_media_preview_like": {
+            "count": 85613
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Betty, Shih Tzu (9 y/o), 7th & S Hill St, Los Angeles, CA \u2022 \u201cShe\u2019s had this haircut since she was born. She\u2019s nine, but don\u2019t tell anyone that. I think she looks more like seven.\u201d"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2782
+        },
+        "id": "1734327185130416022",
+        "image_contents": [
+            "Shih-Tzu",
+            "Lhasa, Lhasa apso",
+            "affenpinscher, monkey pinscher, monkey dog",
+            "Tibetan terrier, chrysanthemum dog",
+            "Brabancon griffon"
+        ],
+        "image_scores": [
+            0.62123,
+            0.13974,
+            0.04058,
+            0.02018,
+            0.00275
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgRkWLSAGeW",
+        "tags": [],
+        "taken_at_timestamp": 1520967933,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/6fe31fa1bf41467711a17aa0bcf90b59/5B5E61BF/t51.2885-15/s150x150/e35/28763079_605157353162342_1982859046192939008_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/bbbf79ff7604fe14b7d07bae6d301af2/5B59B280/t51.2885-15/s240x240/e35/28763079_605157353162342_1982859046192939008_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/1c7573474616e7d52dacd3cc2e3e39a0/5B6685F8/t51.2885-15/s320x320/e35/28763079_605157353162342_1982859046192939008_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fb6d5ad1c7d86495b002532c1fd32fb7/5B56207E/t51.2885-15/s480x480/e35/28763079_605157353162342_1982859046192939008_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/fd94f4b5603df0c169ad6e84542288b7/5B53BEBB/t51.2885-15/s640x640/sh0.08/e35/28763079_605157353162342_1982859046192939008_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/fd94f4b5603df0c169ad6e84542288b7/5B53BEBB/t51.2885-15/s640x640/sh0.08/e35/28763079_605157353162342_1982859046192939008_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/10833cb200e416992c8c94e7f55557d3/5B5AD5DA/t51.2885-15/e35/28763079_605157353162342_1982859046192939008_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-sea1-1.cdninstagram.com/vp/ecedc15324a5763007b985bb17b08292/5B55300C/t51.2885-15/e35/28436196_187382505382611_3179802410805624832_n.jpg",
+        "edge_media_preview_like": {
+            "count": 127397
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Maya, Long-coated Akita (4 y/o), Crissy Field Beach, San Francisco, CA \u2022 \u201cShe\u2019s happy to be out of jail. Her owners dumped her at a shelter.\u201d A rescue from TikiHut Akita Rescue @pochacco7777"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1135
+        },
+        "id": "1733691281172907402",
+        "image_contents": [
+            "chow, chow chow",
+            "keeshond",
+            "Samoyed, Samoyede",
+            "Norwegian elkhound, elkhound",
+            "Great Pyrenees"
+        ],
+        "image_scores": [
+            0.61867,
+            0.16655,
+            0.01534,
+            0.01161,
+            0.00787
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "592328384"
+        },
+        "shortcode": "BgPTwjkgMWK",
+        "tags": [],
+        "taken_at_timestamp": 1520892127,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b8d4f7c4ba5eabd6e438852814877c0d/5B616069/t51.2885-15/s150x150/e35/28436196_187382505382611_3179802410805624832_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/098971cd1569648e0d0238d886a94a8b/5B4F6F56/t51.2885-15/s240x240/e35/28436196_187382505382611_3179802410805624832_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/dc5bd9ed493bf19bde7d1e74f28bde13/5B755B2E/t51.2885-15/s320x320/e35/28436196_187382505382611_3179802410805624832_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/b07154f720f16de3ca508ad2c5f6b0e2/5B5C5AA8/t51.2885-15/s480x480/e35/28436196_187382505382611_3179802410805624832_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-sea1-1.cdninstagram.com/vp/8ec5ef07e200e3098f10cce138b43ccb/5B75EE6D/t51.2885-15/s640x640/sh0.08/e35/28436196_187382505382611_3179802410805624832_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-sea1-1.cdninstagram.com/vp/8ec5ef07e200e3098f10cce138b43ccb/5B75EE6D/t51.2885-15/s640x640/sh0.08/e35/28436196_187382505382611_3179802410805624832_n.jpg",
+        "urls": [
+            "https://scontent-sea1-1.cdninstagram.com/vp/ecedc15324a5763007b985bb17b08292/5B55300C/t51.2885-15/e35/28436196_187382505382611_3179802410805624832_n.jpg"
+        ]
+    }
+]
