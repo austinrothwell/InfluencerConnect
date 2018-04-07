@@ -18,3 +18,5 @@ for user, username in enumerate(instagram_users):
         features.append(metadata[i]["image_contents"][0])
 
 print(features)
+
+print('test')
