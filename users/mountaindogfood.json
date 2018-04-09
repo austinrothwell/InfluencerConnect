@@ -1,0 +1,4068 @@
+[
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/88b858c593197303fcf1913400f542d8/5B721742/t51.2885-15/e35/29739830_161254774561547_5063048684229361664_n.jpg",
+        "edge_media_preview_like": {
+            "count": 21
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! It was a great weekend at the CPE! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1748256850447764658",
+        "image_contents": [
+            "Chihuahua",
+            "miniature pinscher",
+            "toy terrier",
+            "bathing cap, swimming cap",
+            "ski mask"
+        ],
+        "image_scores": [
+            0.87918,
+            0.01682,
+            0.00662,
+            0.00458,
+            0.00281
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BhDDlfDFQyy",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522628478,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/39b41a2f971283666b353f814995fc50/5B4EBB27/t51.2885-15/s150x150/e35/29739830_161254774561547_5063048684229361664_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0d8d1e3f8e9a7e69ab1fdf4eb2ce0fab/5B617818/t51.2885-15/s240x240/e35/29739830_161254774561547_5063048684229361664_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c643bfdcf918eb67330912812688ea24/5B656160/t51.2885-15/s320x320/e35/29739830_161254774561547_5063048684229361664_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/5a061d849e60f1d08a941dbb797fed17/5B6CA3E6/t51.2885-15/s480x480/e35/29739830_161254774561547_5063048684229361664_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/17af3922ad722c3f26a37ae56a080abd/5B73E523/t51.2885-15/s640x640/sh0.08/e35/29739830_161254774561547_5063048684229361664_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/17af3922ad722c3f26a37ae56a080abd/5B73E523/t51.2885-15/s640x640/sh0.08/e35/29739830_161254774561547_5063048684229361664_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/88b858c593197303fcf1913400f542d8/5B721742/t51.2885-15/e35/29739830_161254774561547_5063048684229361664_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a8934588f368ba30cebe865a3642cc21/5B5D34A8/t51.2885-15/e35/29714936_849439898597672_2118830276195909632_n.jpg",
+        "edge_media_preview_like": {
+            "count": 15
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1748114629769679851",
+        "image_contents": [
+            "Rottweiler",
+            "Doberman, Doberman pinscher",
+            "Appenzeller",
+            "miniature pinscher",
+            "black-and-tan coonhound"
+        ],
+        "image_scores": [
+            0.82157,
+            0.01054,
+            0.00448,
+            0.00278,
+            0.00186
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BhCjP5uFdPr",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522611524,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e8b8634cce182a8fd0e64ce79645bce8/5B69F0CD/t51.2885-15/s150x150/e35/29714936_849439898597672_2118830276195909632_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b6ebb4f6ff1699e2b68e0d9d717a97be/5B6F3FF2/t51.2885-15/s240x240/e35/29714936_849439898597672_2118830276195909632_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f2640e56caa3b88cc7f8d2560ce09260/5B5A1E8A/t51.2885-15/s320x320/e35/29714936_849439898597672_2118830276195909632_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/914a71bc03f88b69709d65e250134381/5B69300C/t51.2885-15/s480x480/e35/29714936_849439898597672_2118830276195909632_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/738101014f89720f3d557610649cc859/5B5B83C9/t51.2885-15/s640x640/sh0.08/e35/29714936_849439898597672_2118830276195909632_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/738101014f89720f3d557610649cc859/5B5B83C9/t51.2885-15/s640x640/sh0.08/e35/29714936_849439898597672_2118830276195909632_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a8934588f368ba30cebe865a3642cc21/5B5D34A8/t51.2885-15/e35/29714936_849439898597672_2118830276195909632_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e6806e236ebb0244eec154ed7f387e9d/5B507A83/t51.2885-15/e35/29402549_1719102991518012_273663199998377984_n.jpg",
+        "edge_media_preview_like": {
+            "count": 21
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1748088575457869041",
+        "image_contents": [
+            "giant schnauzer",
+            "Bouvier des Flandres, Bouviers des Flandres",
+            "Kerry blue terrier",
+            "briard",
+            "standard schnauzer"
+        ],
+        "image_scores": [
+            0.63268,
+            0.13093,
+            0.01471,
+            0.01446,
+            0.0043
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BhCdUwwFbzx",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522608418,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7a18c3ef6ce8d8f81ac3d3195c5516da/5B5899E6/t51.2885-15/s150x150/e35/29402549_1719102991518012_273663199998377984_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/01f1a80732e505d98d9fbf40523e38f4/5B74D5D9/t51.2885-15/s240x240/e35/29402549_1719102991518012_273663199998377984_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/86e189fc12f0f4688383b70c065fc83c/5B6D1BA1/t51.2885-15/s320x320/e35/29402549_1719102991518012_273663199998377984_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ac21db2b539daa049dd02a72722f26ef/5B535127/t51.2885-15/s480x480/e35/29402549_1719102991518012_273663199998377984_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/31da32a328c2d79adea16f995ab5ffd1/5B5EFEE2/t51.2885-15/s640x640/sh0.08/e35/29402549_1719102991518012_273663199998377984_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/31da32a328c2d79adea16f995ab5ffd1/5B5EFEE2/t51.2885-15/s640x640/sh0.08/e35/29402549_1719102991518012_273663199998377984_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e6806e236ebb0244eec154ed7f387e9d/5B507A83/t51.2885-15/e35/29402549_1719102991518012_273663199998377984_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8ac67f03c0c0b03545d620b80c0ce310/5B556F0F/t51.2885-15/e35/29404084_1925564564422945_1693681088586579968_n.jpg",
+        "edge_media_preview_like": {
+            "count": 19
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "What\u2019s that!? @pawkour_chihuahua Thanks for coming by! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1748069616130060680",
+        "image_contents": [
+            "Weimaraner",
+            "English setter",
+            "dalmatian, coach dog, carriage dog",
+            "Great Dane",
+            "Chesapeake Bay retriever"
+        ],
+        "image_scores": [
+            0.90304,
+            0.02103,
+            0.00752,
+            0.00721,
+            0.00212
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BhCZA3gFfGI",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522606158,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e5f00d557ef8e804b8fb84ebe26236ad/5B749358/t51.2885-15/s150x150/e35/29404084_1925564564422945_1693681088586579968_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c9d91699704706a193138edf3629dda6/5B5A32CC/t51.2885-15/s240x240/e35/29404084_1925564564422945_1693681088586579968_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/58c50dc3706292b0ac3abc9b72ea311d/5B601D68/t51.2885-15/s320x320/e35/29404084_1925564564422945_1693681088586579968_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0f9b6d1949c7e5bdf6e07e5c9555ab50/5B527D30/t51.2885-15/s480x480/e35/29404084_1925564564422945_1693681088586579968_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/1dd67086d7ed6ba4c5d31dc752afbc53/5B509025/t51.2885-15/s640x640/sh0.08/e35/29404084_1925564564422945_1693681088586579968_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/1dd67086d7ed6ba4c5d31dc752afbc53/5B509025/t51.2885-15/s640x640/sh0.08/e35/29404084_1925564564422945_1693681088586579968_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8ac67f03c0c0b03545d620b80c0ce310/5B556F0F/t51.2885-15/e35/29404084_1925564564422945_1693681088586579968_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/be07cc81cf3dfb25db03f805add28582/5B630A6B/t51.2885-15/e35/29715404_163416851142343_5618800573110288384_n.jpg",
+        "edge_media_preview_like": {
+            "count": 7
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1748029317869592354",
+        "image_contents": [
+            "Eskimo dog, husky",
+            "Siberian husky",
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "white wolf, Arctic wolf, Canis lupus tundrarum",
+            "Norwegian elkhound, elkhound"
+        ],
+        "image_scores": [
+            0.62505,
+            0.14799,
+            0.07518,
+            0.01747,
+            0.01104
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BhCP2c0ld8i",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522601354,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/250796ac56ae7bd80654737f868f6e45/5B67960E/t51.2885-15/s150x150/e35/29715404_163416851142343_5618800573110288384_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f89870c2046a0da62e09573ee55cb7b8/5B600A31/t51.2885-15/s240x240/e35/29715404_163416851142343_5618800573110288384_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b26eaccc336e67b3c0a62761659bef15/5B5E2D49/t51.2885-15/s320x320/e35/29715404_163416851142343_5618800573110288384_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a5130cd8e94a9e363bb39b0d8009f02a/5B6D55CF/t51.2885-15/s480x480/e35/29715404_163416851142343_5618800573110288384_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ce8ac5b1566514cc9b47d984d15eaa9d/5B55D90A/t51.2885-15/s640x640/sh0.08/e35/29715404_163416851142343_5618800573110288384_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ce8ac5b1566514cc9b47d984d15eaa9d/5B55D90A/t51.2885-15/s640x640/sh0.08/e35/29715404_163416851142343_5618800573110288384_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/be07cc81cf3dfb25db03f805add28582/5B630A6B/t51.2885-15/e35/29715404_163416851142343_5618800573110288384_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/afa724b54ce54984c09ae7444d619414/5B6CDD17/t51.2885-15/e35/29401894_203960427035898_4141696281326125056_n.jpg",
+        "edge_media_preview_like": {
+            "count": 23
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw #raisedraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747441899126816103",
+        "image_contents": [
+            "Brittany spaniel",
+            "toy terrier",
+            "beagle",
+            "wire-haired fox terrier",
+            "English foxhound"
+        ],
+        "image_scores": [
+            0.24153,
+            0.10642,
+            0.05514,
+            0.03434,
+            0.0249
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BhAKSYfFn1n",
+        "tags": [
+            "intotheraw",
+            "raisedraw"
+        ],
+        "taken_at_timestamp": 1522531329,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7e3d48292930aaae16747d1b6d0ec6e1/5B695172/t51.2885-15/s150x150/e35/29401894_203960427035898_4141696281326125056_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e1b952c8e5f30fea089210db3a9481af/5B68524D/t51.2885-15/s240x240/e35/29401894_203960427035898_4141696281326125056_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/aa697a81e9414ef71a82c6a87a847050/5B633335/t51.2885-15/s320x320/e35/29401894_203960427035898_4141696281326125056_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2e0e01a91326fc2e706270c131d8960d/5B5396B3/t51.2885-15/s480x480/e35/29401894_203960427035898_4141696281326125056_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a2b2d41bd11bd6f4ed9d1db4e102dc4e/5B73F476/t51.2885-15/s640x640/sh0.08/e35/29401894_203960427035898_4141696281326125056_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a2b2d41bd11bd6f4ed9d1db4e102dc4e/5B73F476/t51.2885-15/s640x640/sh0.08/e35/29401894_203960427035898_4141696281326125056_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/afa724b54ce54984c09ae7444d619414/5B6CDD17/t51.2885-15/e35/29401894_203960427035898_4141696281326125056_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/37a9f314b8e30082dbfa59bae5f4dfc2/5B734A8A/t51.2885-15/e35/29717602_2023045218019359_656861968853893120_n.jpg",
+        "edge_media_preview_like": {
+            "count": 12
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw #raisedraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747441435815587917",
+        "image_contents": [
+            "Pembroke, Pembroke Welsh corgi",
+            "beagle",
+            "basset, basset hound",
+            "Walker hound, Walker foxhound",
+            "Cardigan, Cardigan Welsh corgi"
+        ],
+        "image_scores": [
+            0.48519,
+            0.40078,
+            0.01295,
+            0.01038,
+            0.00891
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BhAKLo_ljBN",
+        "tags": [
+            "intotheraw",
+            "raisedraw"
+        ],
+        "taken_at_timestamp": 1522531273,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4aaf9ebae134d0369affd6682627e7e9/5B5281EF/t51.2885-15/s150x150/e35/29717602_2023045218019359_656861968853893120_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6ee41ecc0b8afe63461ddabe5780ee71/5B72E9D0/t51.2885-15/s240x240/e35/29717602_2023045218019359_656861968853893120_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/3421816dc34475a8f6f25a31050701f7/5B755CA8/t51.2885-15/s320x320/e35/29717602_2023045218019359_656861968853893120_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ea720b943a78707ae1cd5eeeab5124d3/5B5ACA2E/t51.2885-15/s480x480/e35/29717602_2023045218019359_656861968853893120_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/70a5d86924e34fba07288b3dcfc16fd1/5B51D4EB/t51.2885-15/s640x640/sh0.08/e35/29717602_2023045218019359_656861968853893120_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/70a5d86924e34fba07288b3dcfc16fd1/5B51D4EB/t51.2885-15/s640x640/sh0.08/e35/29717602_2023045218019359_656861968853893120_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/37a9f314b8e30082dbfa59bae5f4dfc2/5B734A8A/t51.2885-15/e35/29717602_2023045218019359_656861968853893120_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/66a291798efd4577381ec6a687a7578b/5B680D9C/t51.2885-15/e35/29714819_1656598667760294_719334033405771776_n.jpg",
+        "edge_media_preview_like": {
+            "count": 28
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by @roscoetheridgeback ! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1747423673407935930",
+        "image_contents": [
+            "Rhodesian ridgeback",
+            "vizsla, Hungarian pointer",
+            "redbone",
+            "crate",
+            "bloodhound, sleuthhound"
+        ],
+        "image_scores": [
+            0.31945,
+            0.29695,
+            0.02703,
+            0.01915,
+            0.01434
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BhAGJKdlpW6",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522529156,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/cbb55bfe6ab2119264167511c40ef705/5B5001F9/t51.2885-15/s150x150/e35/29714819_1656598667760294_719334033405771776_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0728236624910e69938a5bc9d3476be4/5B5CC6C6/t51.2885-15/s240x240/e35/29714819_1656598667760294_719334033405771776_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6198f5bd1aae7fd535a678a6835280ab/5B723EBE/t51.2885-15/s320x320/e35/29714819_1656598667760294_719334033405771776_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6ecfaa2566ad41a9c18ff7ff75a688aa/5B568938/t51.2885-15/s480x480/e35/29714819_1656598667760294_719334033405771776_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/dcae057cfd6bd89c4cfbe1b05b81e243/5B61F6FD/t51.2885-15/s640x640/sh0.08/e35/29714819_1656598667760294_719334033405771776_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/dcae057cfd6bd89c4cfbe1b05b81e243/5B61F6FD/t51.2885-15/s640x640/sh0.08/e35/29714819_1656598667760294_719334033405771776_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/66a291798efd4577381ec6a687a7578b/5B680D9C/t51.2885-15/e35/29714819_1656598667760294_719334033405771776_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d0dd97518106c8e79c4e7236a4e06366/5B713020/t51.2885-15/e35/29717965_1516737165300368_6359774026142842880_n.jpg",
+        "edge_media_preview_like": {
+            "count": 20
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! @naturallycarnivore #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747422926175790785",
+        "image_contents": [
+            "Samoyed, Samoyede",
+            "collie",
+            "Border collie",
+            "Great Pyrenees",
+            "kuvasz"
+        ],
+        "image_scores": [
+            0.15958,
+            0.11459,
+            0.09282,
+            0.06656,
+            0.06068
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BhAF-SjFObB",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522529067,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/edf8aa24353f11bb683f27b54a3ef2a0/5B56FF77/t51.2885-15/s150x150/e35/29717965_1516737165300368_6359774026142842880_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/19b089a25e061cd20b204bb3e7b36c0d/5B513BE3/t51.2885-15/s240x240/e35/29717965_1516737165300368_6359774026142842880_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2cf674093533d34c44bf6eb0ee2235fe/5B4F0547/t51.2885-15/s320x320/e35/29717965_1516737165300368_6359774026142842880_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ee11e2e431ba295c7725f55215e34a18/5B5BE51F/t51.2885-15/s480x480/e35/29717965_1516737165300368_6359774026142842880_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4ef398b22bc47084fc577bce14739fc0/5B53350A/t51.2885-15/s640x640/sh0.08/e35/29717965_1516737165300368_6359774026142842880_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4ef398b22bc47084fc577bce14739fc0/5B53350A/t51.2885-15/s640x640/sh0.08/e35/29717965_1516737165300368_6359774026142842880_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d0dd97518106c8e79c4e7236a4e06366/5B713020/t51.2885-15/e35/29717965_1516737165300368_6359774026142842880_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d177884c4395657242587e94fa7e2dc0/5B56CAF4/t51.2885-15/e35/29418195_189489905171564_8285647364648075264_n.jpg",
+        "edge_media_preview_like": {
+            "count": 18
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Come say hi to trigger! Located at the Mountain Dog Food booth at the Canadian Pet Expo! Trigger is a world class fly ball team member! #intotheraw #rocketrelaydogs"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747359219689342883",
+        "image_contents": [
+            "Border collie",
+            "collie",
+            "kelpie",
+            "Cardigan, Cardigan Welsh corgi",
+            "tennis ball"
+        ],
+        "image_scores": [
+            0.69962,
+            0.21674,
+            0.00743,
+            0.00398,
+            0.00168
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_3fPQlkej",
+        "tags": [
+            "rocketrelaydogs",
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522521472,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/fdf6999039e81d1d2e904b23c679ddee/5B6FD691/t51.2885-15/s150x150/e35/29418195_189489905171564_8285647364648075264_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ec56c96fc446162b5a37c7ec01f26b7d/5B6CC1AE/t51.2885-15/s240x240/e35/29418195_189489905171564_8285647364648075264_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a2582a9647456d1b9c1a99088f1ebae6/5B53E9D6/t51.2885-15/s320x320/e35/29418195_189489905171564_8285647364648075264_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/10ca1128fa95049a5234422d53e5d816/5B701C50/t51.2885-15/s480x480/e35/29418195_189489905171564_8285647364648075264_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/56122d3d9718973dbdc0c8cd517b53f9/5B5E6195/t51.2885-15/s640x640/sh0.08/e35/29418195_189489905171564_8285647364648075264_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/56122d3d9718973dbdc0c8cd517b53f9/5B5E6195/t51.2885-15/s640x640/sh0.08/e35/29418195_189489905171564_8285647364648075264_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d177884c4395657242587e94fa7e2dc0/5B56CAF4/t51.2885-15/e35/29418195_189489905171564_8285647364648075264_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2dacaf2bcd5bd311cf4cd457f4e3b0fe/5B63FDAE/t51.2885-15/e35/29418322_212688966154331_4416368824408866816_n.jpg",
+        "edge_media_preview_like": {
+            "count": 16
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! @rat_terrier_rescue #intotheraw #ratterrier"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747354034162223959",
+        "image_contents": [
+            "toy terrier",
+            "Italian greyhound",
+            "whippet",
+            "Chihuahua",
+            "Staffordshire bullterrier, Staffordshire bull terrier"
+        ],
+        "image_scores": [
+            0.15138,
+            0.13574,
+            0.05583,
+            0.04823,
+            0.04712
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_2Tx3FctX",
+        "tags": [
+            "intotheraw",
+            "ratterrier"
+        ],
+        "taken_at_timestamp": 1522520854,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2fc9bb3f7ba068190a37dc875bd92afd/5B727ECB/t51.2885-15/s150x150/e35/29418322_212688966154331_4416368824408866816_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/28b70465c1a5cb0f2007c787be0f8ccb/5B51CEF4/t51.2885-15/s240x240/e35/29418322_212688966154331_4416368824408866816_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/be68cae4b43e1223f00b385d614ee895/5B53768C/t51.2885-15/s320x320/e35/29418322_212688966154331_4416368824408866816_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/3d111ac0dd8719ea204fbb0db5da7e50/5B5F580A/t51.2885-15/s480x480/e35/29418322_212688966154331_4416368824408866816_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9b35026d0b4e2d3baf005aa5e93727e5/5B5D2ECF/t51.2885-15/s640x640/sh0.08/e35/29418322_212688966154331_4416368824408866816_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9b35026d0b4e2d3baf005aa5e93727e5/5B5D2ECF/t51.2885-15/s640x640/sh0.08/e35/29418322_212688966154331_4416368824408866816_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2dacaf2bcd5bd311cf4cd457f4e3b0fe/5B63FDAE/t51.2885-15/e35/29418322_212688966154331_4416368824408866816_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6f660c2c6dcfc84064c2194857cf1734/5B66CC75/t51.2885-15/e35/29415627_2022350307793290_1231824499125518336_n.jpg",
+        "edge_media_preview_like": {
+            "count": 22
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "id": "1747349070866223520",
+        "image_contents": [
+            "Staffordshire bullterrier, Staffordshire bull terrier",
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+            "boxer",
+            "bull mastiff",
+            "Rottweiler"
+        ],
+        "image_scores": [
+            0.394,
+            0.24698,
+            0.09749,
+            0.03592,
+            0.0034
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_1LjblxGg",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522520263,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/690ca3ac60b1a7d24f17e3266389a0e8/5B52F422/t51.2885-15/s150x150/e35/29415627_2022350307793290_1231824499125518336_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a999267d86e079edf1ab9f2e38d73f9c/5B546EB6/t51.2885-15/s240x240/e35/29415627_2022350307793290_1231824499125518336_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4be405e7d22665d2f7e301c9a7088cd1/5B74E112/t51.2885-15/s320x320/e35/29415627_2022350307793290_1231824499125518336_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/647f738593d03d3f225233336a477cb6/5B5D3D4A/t51.2885-15/s480x480/e35/29415627_2022350307793290_1231824499125518336_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8030fd2d46f49d64f5ed022bca6b9985/5B5A275F/t51.2885-15/s640x640/sh0.08/e35/29415627_2022350307793290_1231824499125518336_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8030fd2d46f49d64f5ed022bca6b9985/5B5A275F/t51.2885-15/s640x640/sh0.08/e35/29415627_2022350307793290_1231824499125518336_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6f660c2c6dcfc84064c2194857cf1734/5B66CC75/t51.2885-15/e35/29415627_2022350307793290_1231824499125518336_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/018574e6129de7dec1081079833da7fc/5B53009F/t51.2885-15/e35/29096414_177151686269804_8083880839147945984_n.jpg",
+        "edge_media_preview_like": {
+            "count": 12
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747348373714033368",
+        "image_contents": [
+            "hamster",
+            "bucket, pail",
+            "hamper",
+            "bath towel",
+            "shopping basket"
+        ],
+        "image_scores": [
+            0.31467,
+            0.21874,
+            0.07777,
+            0.05012,
+            0.02256
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_1BaKFNrY",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522520179,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/30319ade372e3a5f7cf6818ecec109bc/5B6030FA/t51.2885-15/s150x150/e35/29096414_177151686269804_8083880839147945984_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f1cf9082df317f336792d23abf8b0238/5B700CC5/t51.2885-15/s240x240/e35/29096414_177151686269804_8083880839147945984_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/58f26f8a9f3ff94f0d940fead03fbf49/5B5A9CBD/t51.2885-15/s320x320/e35/29096414_177151686269804_8083880839147945984_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c1af0ce62888be596534938d079d41b8/5B612A3B/t51.2885-15/s480x480/e35/29096414_177151686269804_8083880839147945984_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c2fbd1256cc38794299aab7e0e674db8/5B6DA4FE/t51.2885-15/s640x640/sh0.08/e35/29096414_177151686269804_8083880839147945984_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c2fbd1256cc38794299aab7e0e674db8/5B6DA4FE/t51.2885-15/s640x640/sh0.08/e35/29096414_177151686269804_8083880839147945984_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/018574e6129de7dec1081079833da7fc/5B53009F/t51.2885-15/e35/29096414_177151686269804_8083880839147945984_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8587a861f916272f105787820c38b949/5B6CD783/t51.2885-15/e35/29418284_1396661290439492_3961381644295733248_n.jpg",
+        "edge_media_preview_like": {
+            "count": 19
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #mountaincat #intoraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747338402016390191",
+        "image_contents": [
+            "Siamese cat, Siamese",
+            "keeshond",
+            "papillon",
+            "Pomeranian",
+            "Great Pyrenees"
+        ],
+        "image_scores": [
+            0.09667,
+            0.07306,
+            0.05995,
+            0.04246,
+            0.04211
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_ywTSlewv",
+        "tags": [
+            "intoraw",
+            "mountaincat"
+        ],
+        "taken_at_timestamp": 1522518991,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2485dfa8cfdb8c589786af5115c44503/5B63AAD4/t51.2885-15/s150x150/e35/29418284_1396661290439492_3961381644295733248_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ac132073f8f9a78c094618d5cc5daab8/5B6BDA40/t51.2885-15/s240x240/e35/29418284_1396661290439492_3961381644295733248_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2ab4d5cda1b100bb094b7c9655a860ea/5B599EE4/t51.2885-15/s320x320/e35/29418284_1396661290439492_3961381644295733248_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/884ce2e8841921d3f949aeac93e360ab/5B6DCFBC/t51.2885-15/s480x480/e35/29418284_1396661290439492_3961381644295733248_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/dd6e71d38699cc45483c398a6da4df98/5B5CF7A9/t51.2885-15/s640x640/sh0.08/e35/29418284_1396661290439492_3961381644295733248_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/dd6e71d38699cc45483c398a6da4df98/5B5CF7A9/t51.2885-15/s640x640/sh0.08/e35/29418284_1396661290439492_3961381644295733248_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8587a861f916272f105787820c38b949/5B6CD783/t51.2885-15/e35/29418284_1396661290439492_3961381644295733248_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f54e7ed9530d32f12027eed077e84e12/5B6A9CC9/t51.2885-15/e35/29401882_618319505178390_4510623616886374400_n.jpg",
+        "edge_media_preview_like": {
+            "count": 21
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw #ferretsonrawdiet"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747328734875442867",
+        "image_contents": [
+            "black-footed ferret, ferret, Mustela nigripes",
+            "weasel",
+            "polecat, fitch, foulmart, foumart, Mustela putorius",
+            "mink",
+            "hamster"
+        ],
+        "image_scores": [
+            0.78513,
+            0.11634,
+            0.06528,
+            0.00147,
+            0.00068
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_wjoEFV6z",
+        "tags": [
+            "ferretsonrawdiet",
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522517838,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/47640f05f54aa0cd31c5ed0555dff93b/5B5B76AC/t51.2885-15/s150x150/e35/29401882_618319505178390_4510623616886374400_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e740b2de0d0af73da6f0bb8ca9b5ced6/5B717893/t51.2885-15/s240x240/e35/29401882_618319505178390_4510623616886374400_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4df0199af887973ea3823d9ef9748203/5B75FAEB/t51.2885-15/s320x320/e35/29401882_618319505178390_4510623616886374400_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/1a2f919e7d7f3f156a3abc394fc7a2ea/5B72E36D/t51.2885-15/s480x480/e35/29401882_618319505178390_4510623616886374400_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0e3000f2f7bf73e0a8d3faa5d3dea8e5/5B50D3A8/t51.2885-15/s640x640/sh0.08/e35/29401882_618319505178390_4510623616886374400_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0e3000f2f7bf73e0a8d3faa5d3dea8e5/5B50D3A8/t51.2885-15/s640x640/sh0.08/e35/29401882_618319505178390_4510623616886374400_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f54e7ed9530d32f12027eed077e84e12/5B6A9CC9/t51.2885-15/e35/29401882_618319505178390_4510623616886374400_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c8c5e22739d8020e048969d0624995db/5B6E5004/t51.2885-15/e35/29403520_1539353642830571_8206654059852070912_n.jpg",
+        "edge_media_preview_like": {
+            "count": 20
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by @coopsgoldenretriever ! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1747320916969705116",
+        "image_contents": [
+            "golden retriever",
+            "Brittany spaniel",
+            "Labrador retriever",
+            "doormat, welcome mat",
+            "flat-coated retriever"
+        ],
+        "image_scores": [
+            0.71042,
+            0.02719,
+            0.02219,
+            0.00564,
+            0.00471
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_ux3Els6c",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522516906,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f7f7f155144a756c985129c97b8e6190/5B551C53/t51.2885-15/s150x150/e35/29403520_1539353642830571_8206654059852070912_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/25469e89930f443ff0b59b8e1ff45596/5B5589C7/t51.2885-15/s240x240/e35/29403520_1539353642830571_8206654059852070912_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b3c1ab971942623c405882759ec57d2a/5B604F63/t51.2885-15/s320x320/e35/29403520_1539353642830571_8206654059852070912_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e05ca2012addbaa7f0da35f437a62db6/5B646F3B/t51.2885-15/s480x480/e35/29403520_1539353642830571_8206654059852070912_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b31744dc97a310fc7bf82a20d06974fe/5B69802E/t51.2885-15/s640x640/sh0.08/e35/29403520_1539353642830571_8206654059852070912_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b31744dc97a310fc7bf82a20d06974fe/5B69802E/t51.2885-15/s640x640/sh0.08/e35/29403520_1539353642830571_8206654059852070912_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c8c5e22739d8020e048969d0624995db/5B6E5004/t51.2885-15/e35/29403520_1539353642830571_8206654059852070912_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7656e4363605dd45c6484384c99b763a/5B5067BB/t51.2885-15/e35/29715908_1695688100512163_306452925956227072_n.jpg",
+        "edge_media_preview_like": {
+            "count": 21
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747318863237000710",
+        "image_contents": [
+            "Pembroke, Pembroke Welsh corgi",
+            "Cardigan, Cardigan Welsh corgi",
+            "Siberian husky",
+            "malamute, malemute, Alaskan malamute",
+            "sunglass"
+        ],
+        "image_scores": [
+            0.82279,
+            0.15714,
+            0.00063,
+            0.00051,
+            0.00046
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_uT-YlK4G",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522516662,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2d12946a1388afb25245bb07b08037b4/5B69CEDE/t51.2885-15/s150x150/e35/29715908_1695688100512163_306452925956227072_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/51a34af12f1edc49bf87324bcd39a58a/5B7349E1/t51.2885-15/s240x240/e35/29715908_1695688100512163_306452925956227072_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6395ac8179f2060864f0c335d4436d34/5B751399/t51.2885-15/s320x320/e35/29715908_1695688100512163_306452925956227072_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/efd5086434ea5df11f6be38965aff996/5B71211F/t51.2885-15/s480x480/e35/29715908_1695688100512163_306452925956227072_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/babf974136e9b85634d53d0475b5053a/5B5799DA/t51.2885-15/s640x640/sh0.08/e35/29715908_1695688100512163_306452925956227072_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/babf974136e9b85634d53d0475b5053a/5B5799DA/t51.2885-15/s640x640/sh0.08/e35/29715908_1695688100512163_306452925956227072_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7656e4363605dd45c6484384c99b763a/5B5067BB/t51.2885-15/e35/29715908_1695688100512163_306452925956227072_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/32df31035a24cf63564dde439d9f1730/5B5802C1/t51.2885-15/e35/29417820_2018692201678191_902805372614475776_n.jpg",
+        "edge_media_preview_like": {
+            "count": 18
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for feeding MDF! #raisedraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747315644050169825",
+        "image_contents": [
+            "malinois",
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "Norwegian elkhound, elkhound",
+            "bulletproof vest",
+            "groenendael"
+        ],
+        "image_scores": [
+            0.54828,
+            0.21959,
+            0.02728,
+            0.0084,
+            0.00386
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_tlISF9_h",
+        "tags": [
+            "raisedraw"
+        ],
+        "taken_at_timestamp": 1522516278,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/5fc71ac4910905a68c69cfe556d84eb7/5B7278A4/t51.2885-15/s150x150/e35/29417820_2018692201678191_902805372614475776_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7d84404b3326b3e78d957ce33a2fa35f/5B654C9B/t51.2885-15/s240x240/e35/29417820_2018692201678191_902805372614475776_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b59dcf9bdd086cdde9eea3ef527933fa/5B5F66E3/t51.2885-15/s320x320/e35/29417820_2018692201678191_902805372614475776_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9b2d29254b54be217664395c6e26548b/5B57FE65/t51.2885-15/s480x480/e35/29417820_2018692201678191_902805372614475776_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a7edfc27d4322266e374d20daaf208d2/5B7243A0/t51.2885-15/s640x640/sh0.08/e35/29417820_2018692201678191_902805372614475776_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a7edfc27d4322266e374d20daaf208d2/5B7243A0/t51.2885-15/s640x640/sh0.08/e35/29417820_2018692201678191_902805372614475776_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/32df31035a24cf63564dde439d9f1730/5B5802C1/t51.2885-15/e35/29417820_2018692201678191_902805372614475776_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/16074372b5ca92c4f65c095d20187336/5B52E899/t51.2885-15/e35/29739207_2094169034149273_1066875528503361536_n.jpg",
+        "edge_media_preview_like": {
+            "count": 14
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for stopping by @myfriendhayley #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747314587697830959",
+        "image_contents": [
+            "Doberman, Doberman pinscher",
+            "bluetick",
+            "black-and-tan coonhound",
+            "Airedale, Airedale terrier",
+            "Saluki, gazelle hound"
+        ],
+        "image_scores": [
+            0.13142,
+            0.11487,
+            0.09751,
+            0.07218,
+            0.06336
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_tVwellwv",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522516152,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/3077c3061b6a5049c797e9038bb910fd/5B4F66CE/t51.2885-15/s150x150/e35/29739207_2094169034149273_1066875528503361536_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c1ac9dcef441e91c410b2ecde93450e0/5B67AD5A/t51.2885-15/s240x240/e35/29739207_2094169034149273_1066875528503361536_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8f18958e9647f1dc0d61b3788579a5de/5B5908FE/t51.2885-15/s320x320/e35/29739207_2094169034149273_1066875528503361536_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/80842453977bef9e5f17e411ab804af2/5B6E95A6/t51.2885-15/s480x480/e35/29739207_2094169034149273_1066875528503361536_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/06de06c71eb8d23693177729231831ff/5B52B0B3/t51.2885-15/s640x640/sh0.08/e35/29739207_2094169034149273_1066875528503361536_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/06de06c71eb8d23693177729231831ff/5B52B0B3/t51.2885-15/s640x640/sh0.08/e35/29739207_2094169034149273_1066875528503361536_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/16074372b5ca92c4f65c095d20187336/5B52E899/t51.2885-15/e35/29739207_2094169034149273_1066875528503361536_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a2f768ac0e38e7a03538f184702e17a6/5B6F6B20/t51.2885-15/e35/29718347_397161507424016_3364534589203677184_n.jpg",
+        "edge_media_preview_like": {
+            "count": 17
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\u201cI know the answer! It\u2019s raw!\u201d Come say hi to Jenga! A member of the flying fur balls! #cpe #intotheraw #flyingfurballs"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747311219789183325",
+        "image_contents": [
+            "papillon",
+            "Pembroke, Pembroke Welsh corgi",
+            "Shetland sheepdog, Shetland sheep dog, Shetland",
+            "Cardigan, Cardigan Welsh corgi",
+            "Welsh springer spaniel"
+        ],
+        "image_scores": [
+            0.40378,
+            0.13139,
+            0.08578,
+            0.02843,
+            0.01454
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_skv3lrld",
+        "tags": [
+            "flyingfurballs",
+            "cpe",
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522515750,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ec97685e610dfa92e4fb36c23ad321d5/5B684C45/t51.2885-15/s150x150/e35/29718347_397161507424016_3364534589203677184_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/77a676f6f5ac5bbb9082f463d8b17f4e/5B54287A/t51.2885-15/s240x240/e35/29718347_397161507424016_3364534589203677184_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8c5166a4f2c095b25c2e768d578f224d/5B750502/t51.2885-15/s320x320/e35/29718347_397161507424016_3364534589203677184_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d13be4193b7d634011deaccd658e4201/5B674A84/t51.2885-15/s480x480/e35/29718347_397161507424016_3364534589203677184_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4f5da81837a99b93c4e92cdc1fc250b0/5B713941/t51.2885-15/s640x640/sh0.08/e35/29718347_397161507424016_3364534589203677184_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4f5da81837a99b93c4e92cdc1fc250b0/5B713941/t51.2885-15/s640x640/sh0.08/e35/29718347_397161507424016_3364534589203677184_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a2f768ac0e38e7a03538f184702e17a6/5B6F6B20/t51.2885-15/e35/29718347_397161507424016_3364534589203677184_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a7e6615bb0377396733c280afa0c4f65/5B5BF302/t51.2885-15/e35/29417179_571248463262133_6738861854166089728_n.jpg",
+        "edge_media_preview_like": {
+            "count": 16
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by Geronimo from the #flyingfurballs"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747310058914866499",
+        "image_contents": [
+            "Border collie",
+            "Bernese mountain dog",
+            "collie",
+            "Shetland sheepdog, Shetland sheep dog, Shetland",
+            "Appenzeller"
+        ],
+        "image_scores": [
+            0.2172,
+            0.19696,
+            0.1966,
+            0.14006,
+            0.04482
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_sT2uFmVD",
+        "tags": [
+            "flyingfurballs"
+        ],
+        "taken_at_timestamp": 1522515612,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/083624641b8dba3f9b49641cccd5002b/5B4F1E67/t51.2885-15/s150x150/e35/29417179_571248463262133_6738861854166089728_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f692b5a1e43d21821c8d0435d0146fe6/5B627858/t51.2885-15/s240x240/e35/29417179_571248463262133_6738861854166089728_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d56cb38981bc093d7e9dc84ae0bdc5d3/5B5E2C20/t51.2885-15/s320x320/e35/29417179_571248463262133_6738861854166089728_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f23a5897bead27619b8233db3c29dd38/5B4FF3A6/t51.2885-15/s480x480/e35/29417179_571248463262133_6738861854166089728_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/122f6402ff7fbc78a7fc4b611d70ad59/5B622563/t51.2885-15/s640x640/sh0.08/e35/29417179_571248463262133_6738861854166089728_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/122f6402ff7fbc78a7fc4b611d70ad59/5B622563/t51.2885-15/s640x640/sh0.08/e35/29417179_571248463262133_6738861854166089728_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a7e6615bb0377396733c280afa0c4f65/5B5BF302/t51.2885-15/e35/29417179_571248463262133_6738861854166089728_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0b81778a7fc3b07af4a00d33c71d56bb/5B74370A/t51.2885-15/e35/29738021_2064907243549976_2000656853796651008_n.jpg",
+        "edge_media_preview_like": {
+            "count": 12
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747309581821186229",
+        "image_contents": [
+            "flat-coated retriever",
+            "Gordon setter",
+            "Newfoundland, Newfoundland dog",
+            "curly-coated retriever",
+            "golden retriever"
+        ],
+        "image_scores": [
+            0.49769,
+            0.07484,
+            0.03258,
+            0.02569,
+            0.02466
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_sM6ZFpC1",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522515555,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f9282478c17e77d63b2c8b212a85c7c9/5B6B505D/t51.2885-15/s150x150/e35/29738021_2064907243549976_2000656853796651008_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a0602ca052bfeb9182a7eaf167cb4b98/5B610DC9/t51.2885-15/s240x240/e35/29738021_2064907243549976_2000656853796651008_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/1627e3b084f23d67a66e68884d30e4dc/5B53216D/t51.2885-15/s320x320/e35/29738021_2064907243549976_2000656853796651008_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/eff6e1db93be1db152bbe1707fb8096f/5B62C535/t51.2885-15/s480x480/e35/29738021_2064907243549976_2000656853796651008_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a8980169a87db85e1ecc783f1805212b/5B617420/t51.2885-15/s640x640/sh0.08/e35/29738021_2064907243549976_2000656853796651008_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a8980169a87db85e1ecc783f1805212b/5B617420/t51.2885-15/s640x640/sh0.08/e35/29738021_2064907243549976_2000656853796651008_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0b81778a7fc3b07af4a00d33c71d56bb/5B74370A/t51.2885-15/e35/29738021_2064907243549976_2000656853796651008_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8ada4a674f77bd8705ee1a4856a2644d/5B6F0848/t51.2885-15/e35/29403482_869968196498561_4048175936846168064_n.jpg",
+        "edge_media_preview_like": {
+            "count": 11
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for coming by! #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747309402967521274",
+        "image_contents": [
+            "miniature poodle",
+            "toy poodle",
+            "Maltese dog, Maltese terrier, Maltese",
+            "Dandie Dinmont, Dandie Dinmont terrier",
+            "standard poodle"
+        ],
+        "image_scores": [
+            0.81873,
+            0.08702,
+            0.01836,
+            0.01153,
+            0.00383
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_sKT0lDf6",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522515534,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/668d09ced36cfff7c073c38560ee559b/5B614C2D/t51.2885-15/s150x150/e35/29403482_869968196498561_4048175936846168064_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b1e1a653eeaa9deecd42dbde1175b697/5B4EC312/t51.2885-15/s240x240/e35/29403482_869968196498561_4048175936846168064_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/77810879ea7b49e6419047c3f33e6ede/5B6D1A6A/t51.2885-15/s320x320/e35/29403482_869968196498561_4048175936846168064_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4ba188fd8c4d8f48fe5f26cc13d07fa8/5B5E88EC/t51.2885-15/s480x480/e35/29403482_869968196498561_4048175936846168064_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/00a6d267ee3d0a3fe332719bf99704b6/5B6FF929/t51.2885-15/s640x640/sh0.08/e35/29403482_869968196498561_4048175936846168064_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/00a6d267ee3d0a3fe332719bf99704b6/5B6FF929/t51.2885-15/s640x640/sh0.08/e35/29403482_869968196498561_4048175936846168064_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8ada4a674f77bd8705ee1a4856a2644d/5B6F0848/t51.2885-15/e35/29403482_869968196498561_4048175936846168064_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/940f0608c89cdd2ee55c2cbdc63d4771/5B6BFB18/t51.2885-15/e35/29096298_618981078436674_7257598276076044288_n.jpg",
+        "edge_media_preview_like": {
+            "count": 19
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Come say hi to Never! Fly ball world champion in training! Ask some questions about fly ball! #rocketrelaydogs #intotheraw #raisedraw #cpe"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1747307103901886891",
+        "image_contents": [
+            "malinois",
+            "Great Dane",
+            "whippet",
+            "bull mastiff",
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+        ],
+        "image_scores": [
+            0.66491,
+            0.13944,
+            0.0379,
+            0.00689,
+            0.00653
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_ro2plqmr",
+        "tags": [
+            "rocketrelaydogs",
+            "cpe",
+            "intotheraw",
+            "raisedraw"
+        ],
+        "taken_at_timestamp": 1522515260,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/124fc982f25711cb9d6955c9d0c06156/5B5F267D/t51.2885-15/s150x150/e35/29096298_618981078436674_7257598276076044288_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/03b6f3bfbe5cb04afb06fd76c73f4f8f/5B51D842/t51.2885-15/s240x240/e35/29096298_618981078436674_7257598276076044288_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/bc3eeec7ebd0c2ab7a0931341ffb7a1e/5B6A0B3A/t51.2885-15/s320x320/e35/29096298_618981078436674_7257598276076044288_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/17e77f84f45e8043a85d1f352a9706a3/5B5C5ABC/t51.2885-15/s480x480/e35/29096298_618981078436674_7257598276076044288_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/21ba731fdc98d93f24f01ac7cc402d2b/5B5A7279/t51.2885-15/s640x640/sh0.08/e35/29096298_618981078436674_7257598276076044288_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/21ba731fdc98d93f24f01ac7cc402d2b/5B5A7279/t51.2885-15/s640x640/sh0.08/e35/29096298_618981078436674_7257598276076044288_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/940f0608c89cdd2ee55c2cbdc63d4771/5B6BFB18/t51.2885-15/e35/29096298_618981078436674_7257598276076044288_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/5e5eb0ee023654da3063e8437f759fe6/5B6E4BCC/t51.2885-15/e35/29400826_2046384655390966_5362631844355375104_n.jpg",
+        "edge_media_preview_like": {
+            "count": 18
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Thanks for the visit @mad_about_maddie_ #intotheraw"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1747279601842156086",
+        "image_contents": [
+            "malinois",
+            "German shepherd, German shepherd dog, German police dog, alsatian",
+            "Norwegian elkhound, elkhound",
+            "kelpie",
+            "bulletproof vest"
+        ],
+        "image_scores": [
+            0.45522,
+            0.25913,
+            0.12361,
+            0.00637,
+            0.00303
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bg_lYpXFnI2",
+        "tags": [
+            "intotheraw"
+        ],
+        "taken_at_timestamp": 1522511981,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0d9c3a4775c3a3a443a037e5ea381db0/5B75F09B/t51.2885-15/s150x150/e35/29400826_2046384655390966_5362631844355375104_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e54df0a9a9bf2206ac528b8994b526e9/5B5C000F/t51.2885-15/s240x240/e35/29400826_2046384655390966_5362631844355375104_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9d3dd7655b2677f0280197617f613b09/5B6AF7AB/t51.2885-15/s320x320/e35/29400826_2046384655390966_5362631844355375104_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e6ba130aadcea2357f76516e71156440/5B5A6EF3/t51.2885-15/s480x480/e35/29400826_2046384655390966_5362631844355375104_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/5087f8b2f566e4112fddb8174e82b17d/5B692BE6/t51.2885-15/s640x640/sh0.08/e35/29400826_2046384655390966_5362631844355375104_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/5087f8b2f566e4112fddb8174e82b17d/5B692BE6/t51.2885-15/s640x640/sh0.08/e35/29400826_2046384655390966_5362631844355375104_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/5e5eb0ee023654da3063e8437f759fe6/5B6E4BCC/t51.2885-15/e35/29400826_2046384655390966_5362631844355375104_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e1017be3218960117d3fb10a5cfb104b/5B6E5C42/t51.2885-15/e35/27880796_201690170577658_1816160795520663552_n.jpg",
+        "edge_media_preview_like": {
+            "count": 26
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Is all those treats for me?! Thanks for the visit Grizzly! #mdfdog #mountaindogfood #raisedraw #puppies #cute"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1719903549671146715",
+        "image_contents": [
+            "Rottweiler",
+            "Tibetan mastiff",
+            "kelpie",
+            "black-and-tan coonhound",
+            "Gordon setter"
+        ],
+        "image_scores": [
+            0.78995,
+            0.04351,
+            0.00482,
+            0.004,
+            0.00156
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BfeUyp-FQTb",
+        "tags": [
+            "puppies",
+            "cute",
+            "mdfdog",
+            "mountaindogfood",
+            "raisedraw"
+        ],
+        "taken_at_timestamp": 1519248501,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ea0b3c48d4a7ae4f684cb9ac4402e15d/5B563727/t51.2885-15/s150x150/e35/27880796_201690170577658_1816160795520663552_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/5ba9f6ff2f411d453f05656d6a3543c3/5B67FB18/t51.2885-15/s240x240/e35/27880796_201690170577658_1816160795520663552_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/40cc7e12b0de39f3c75b978df7843390/5B63DB60/t51.2885-15/s320x320/e35/27880796_201690170577658_1816160795520663552_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e8131f47c4b4f58261d282394f1403c6/5B608DE6/t51.2885-15/s480x480/e35/27880796_201690170577658_1816160795520663552_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7440894be88637234d44a925f17f12b9/5B746B23/t51.2885-15/s640x640/sh0.08/e35/27880796_201690170577658_1816160795520663552_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7440894be88637234d44a925f17f12b9/5B746B23/t51.2885-15/s640x640/sh0.08/e35/27880796_201690170577658_1816160795520663552_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e1017be3218960117d3fb10a5cfb104b/5B6E5C42/t51.2885-15/e35/27880796_201690170577658_1816160795520663552_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7cf922cd9385f50d213702b731467e02/5B5C9C8D/t51.2885-15/e35/27575735_1947369148925599_7760001800647737344_n.jpg",
+        "edge_media_preview_like": {
+            "count": 25
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\u201cWill you be my Valentine\u201d George. Happy Valentine\u2019s Day! We hope it has some wet nose kisses and some snuggles with you furry family member! #George #mdfdog #mountaindogfood #valentinesday"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1714850387017035411",
+        "image_contents": [
+            "Bernese mountain dog",
+            "Appenzeller",
+            "EntleBucher",
+            "Greater Swiss Mountain dog",
+            "English springer, English springer spaniel"
+        ],
+        "image_scores": [
+            0.4585,
+            0.1606,
+            0.1332,
+            0.05023,
+            0.00398
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BfMX1dhF26T",
+        "tags": [
+            "valentinesday",
+            "George",
+            "mountaindogfood",
+            "mdfdog"
+        ],
+        "taken_at_timestamp": 1518646118,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b1da46509553b20d676c3b9a2d10a043/5B7229DA/t51.2885-15/s150x150/e35/27575735_1947369148925599_7760001800647737344_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0599314f1bc848437a1f4c1e27e665bc/5B5DDE4E/t51.2885-15/s240x240/e35/27575735_1947369148925599_7760001800647737344_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f93d243f6b6810c0ba43fdf65e472ffb/5B609EEA/t51.2885-15/s320x320/e35/27575735_1947369148925599_7760001800647737344_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/dc0e5fab09e2c73c9b7b9cd06990af05/5B4E9EB2/t51.2885-15/s480x480/e35/27575735_1947369148925599_7760001800647737344_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e1e2ebbb422c49c34191d9a02e14c3e2/5B5F29A7/t51.2885-15/s640x640/sh0.08/e35/27575735_1947369148925599_7760001800647737344_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e1e2ebbb422c49c34191d9a02e14c3e2/5B5F29A7/t51.2885-15/s640x640/sh0.08/e35/27575735_1947369148925599_7760001800647737344_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7cf922cd9385f50d213702b731467e02/5B5C9C8D/t51.2885-15/e35/27575735_1947369148925599_7760001800647737344_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 792,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d6f5c1433f2444e2a2fbfdebabfe8847/5B6DE124/t51.2885-15/e35/27574332_461631437588763_4934306202013138944_n.jpg",
+        "edge_media_preview_like": {
+            "count": 12
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Check out this months video, Why Raw! Watch it here - http://ow.ly/wuwQ30iePgl #mountaindogfood #raw #dog #science #educateyourself #wellness"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1708920200521669939",
+        "image_contents": [
+            "web site, website, internet site, site",
+            "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",
+            "mailbox, letter box",
+            "park bench",
+            "television, television system"
+        ],
+        "image_scores": [
+            0.32593,
+            0.24043,
+            0.07365,
+            0.04359,
+            0.02315
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Be3Td49lV0z",
+        "tags": [
+            "educateyourself",
+            "wellness",
+            "dog",
+            "raw",
+            "mountaindogfood",
+            "science"
+        ],
+        "taken_at_timestamp": 1517939184,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/13d450520bc865cef6eca9daef6b7280/5B4F2B80/t51.2885-15/s150x150/e35/c116.0.640.640/27574332_461631437588763_4934306202013138944_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/60d48e16195ff96ef73591c023bdefd2/5B598516/t51.2885-15/s240x240/e35/c116.0.640.640/27574332_461631437588763_4934306202013138944_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c1c9f3cce32f45398e1eaa961c7b35c7/5B62A4FE/t51.2885-15/s320x320/e35/c116.0.640.640/27574332_461631437588763_4934306202013138944_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f558f909ec1378f946c3194aa7ded697/5B5B1FD7/t51.2885-15/s480x480/e35/c116.0.640.640/27574332_461631437588763_4934306202013138944_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e8029975801dee73a74a730ae637da88/5B50508C/t51.2885-15/e35/c116.0.640.640/27574332_461631437588763_4934306202013138944_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e8029975801dee73a74a730ae637da88/5B50508C/t51.2885-15/e35/c116.0.640.640/27574332_461631437588763_4934306202013138944_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d6f5c1433f2444e2a2fbfdebabfe8847/5B6DE124/t51.2885-15/e35/27574332_461631437588763_4934306202013138944_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0aef19260bc9d033b51e5a37c3485b57/5B603698/t51.2885-15/e35/26871581_148706652604206_6225950756529242112_n.jpg",
+        "edge_media_preview_like": {
+            "count": 18
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Why do you feed Raw!? #rawqna #george #mountaindogfood #questions #puppy #berner #goldens"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1708913151037614587",
+        "image_contents": [
+            "Bernese mountain dog",
+            "Appenzeller",
+            "EntleBucher",
+            "Greater Swiss Mountain dog",
+            "kuvasz"
+        ],
+        "image_scores": [
+            0.59309,
+            0.1369,
+            0.07366,
+            0.07123,
+            0.00362
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Be3R3Tnlyn7",
+        "tags": [
+            "goldens",
+            "questions",
+            "rawqna",
+            "mountaindogfood",
+            "puppy",
+            "berner",
+            "george"
+        ],
+        "taken_at_timestamp": 1517938344,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/764eae66ac42adb5630120471c487006/5B6613FD/t51.2885-15/s150x150/e35/26871581_148706652604206_6225950756529242112_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/590591161cabb27279a54ffe7aecc6c2/5B7546C2/t51.2885-15/s240x240/e35/26871581_148706652604206_6225950756529242112_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a43c29c217f9f9a2ce43812a87870924/5B6E4CBA/t51.2885-15/s320x320/e35/26871581_148706652604206_6225950756529242112_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6ba6f753deccd1149dba107f989635e1/5B733B3C/t51.2885-15/s480x480/e35/26871581_148706652604206_6225950756529242112_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/fd0c7474ef86414d2578534ced53c991/5B5205F9/t51.2885-15/s640x640/sh0.08/e35/26871581_148706652604206_6225950756529242112_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/fd0c7474ef86414d2578534ced53c991/5B5205F9/t51.2885-15/s640x640/sh0.08/e35/26871581_148706652604206_6225950756529242112_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0aef19260bc9d033b51e5a37c3485b57/5B603698/t51.2885-15/e35/26871581_148706652604206_6225950756529242112_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/844fd57ed12b7c45c88dcc51e2883bbc/5B5D20DC/t51.2885-15/e35/26269019_1969972739696822_8904580846678179840_n.jpg",
+        "edge_media_preview_like": {
+            "count": 25
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Questions about feeding puppies on raw? Ask em here - #rawqna"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 3
+        },
+        "id": "1699496130600292308",
+        "image_contents": [
+            "Bernese mountain dog",
+            "Appenzeller",
+            "EntleBucher",
+            "Greater Swiss Mountain dog",
+            "Gordon setter"
+        ],
+        "image_scores": [
+            0.64781,
+            0.19654,
+            0.04192,
+            0.0331,
+            0.00847
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BeV0rn5lM_U",
+        "tags": [
+            "rawqna"
+        ],
+        "taken_at_timestamp": 1516815748,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e562777f411d1b8efa4a0a4bb3801d42/5B59BC8B/t51.2885-15/s150x150/e35/26269019_1969972739696822_8904580846678179840_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/55f486ea02c4d7e22a231145877a3865/5B74091F/t51.2885-15/s240x240/e35/26269019_1969972739696822_8904580846678179840_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ff3a59caeb1cd4a550abd5c616f3c947/5B624DBB/t51.2885-15/s320x320/e35/26269019_1969972739696822_8904580846678179840_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2554058c24348cdb62a03bc54a61527f/5B55A9E3/t51.2885-15/s480x480/e35/26269019_1969972739696822_8904580846678179840_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0c1631464a71715789b7a5b32b36e886/5B5DC6F6/t51.2885-15/s640x640/sh0.08/e35/26269019_1969972739696822_8904580846678179840_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0c1631464a71715789b7a5b32b36e886/5B5DC6F6/t51.2885-15/s640x640/sh0.08/e35/26269019_1969972739696822_8904580846678179840_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/844fd57ed12b7c45c88dcc51e2883bbc/5B5D20DC/t51.2885-15/e35/26269019_1969972739696822_8904580846678179840_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/db637346a7c4031551745798aa3ac9ef/5B6F362C/t51.2885-15/e35/26153311_525881251124911_6225646917657821184_n.jpg",
+        "edge_media_preview_like": {
+            "count": 25
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Big George meet little George! Welcome George to the raw fed family! #mdfdog #george #mountaindogfood #cute #puppy #dogsofinstagram #icanteven"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1693709805183953861",
+        "image_contents": [
+            "Gordon setter",
+            "Bernese mountain dog",
+            "Tibetan mastiff",
+            "Airedale, Airedale terrier",
+            "Brabancon griffon"
+        ],
+        "image_scores": [
+            0.31422,
+            0.303,
+            0.10389,
+            0.02857,
+            0.01943
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BeBRBgalevF",
+        "tags": [
+            "cute",
+            "dogsofinstagram",
+            "icanteven",
+            "george",
+            "mountaindogfood",
+            "puppy",
+            "mdfdog"
+        ],
+        "taken_at_timestamp": 1516125964,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6910daa00856abd6ce23267849127d77/5B5FB549/t51.2885-15/s150x150/e35/26153311_525881251124911_6225646917657821184_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f78dec70eafffbac60cb2031e37a7bab/5B555D76/t51.2885-15/s240x240/e35/26153311_525881251124911_6225646917657821184_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/3ba365fe8f0910d024712abd51d90920/5B65010E/t51.2885-15/s320x320/e35/26153311_525881251124911_6225646917657821184_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ed1d913611cd8c8d91540d89f134a39f/5B612E88/t51.2885-15/s480x480/e35/26153311_525881251124911_6225646917657821184_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/20a9ac0bdba53df4015c8b245e7b2427/5B5D524D/t51.2885-15/s640x640/sh0.08/e35/26153311_525881251124911_6225646917657821184_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/20a9ac0bdba53df4015c8b245e7b2427/5B5D524D/t51.2885-15/s640x640/sh0.08/e35/26153311_525881251124911_6225646917657821184_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/db637346a7c4031551745798aa3ac9ef/5B6F362C/t51.2885-15/e35/26153311_525881251124911_6225646917657821184_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 608,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/1e7326926854e9e95eb8e2cff1dd0f5d/5B5B8A17/t51.2885-15/e35/25006216_297225004119213_5488723919433105408_n.jpg",
+        "edge_media_preview_like": {
+            "count": 16
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\"By putting in these processes you mitigate the amount of potential for having a failure\" Dean Ricard, talking about the importance of regulation with @KohlHarrington! watch it here! http://ow.ly/P8g130hiNQw\u00a0\u00a0#Petfooled #dogs #Cats #dogfood #mountaindogfood #raw #rawfeddog #foodsafety"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1672711014205103181",
+        "image_contents": [
+            "bannister, banister, balustrade, balusters, handrail",
+            "jersey, T-shirt, tee shirt",
+            "barbershop",
+            "prison, prison house",
+            "military uniform"
+        ],
+        "image_scores": [
+            0.12824,
+            0.07806,
+            0.05384,
+            0.04539,
+            0.02769
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "Bc2qc4VlBxN",
+        "tags": [
+            "dogfood",
+            "raw",
+            "Cats",
+            "Petfooled",
+            "mountaindogfood",
+            "foodsafety",
+            "dogs",
+            "rawfeddog"
+        ],
+        "taken_at_timestamp": 1513622713,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/01cd9cf1e00245c1db6a1605ab327759/5B64B872/t51.2885-15/s150x150/e35/c236.0.608.608/25006216_297225004119213_5488723919433105408_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/eae358733c0efcf8003a262d4b40e5b3/5B706CE4/t51.2885-15/s240x240/e35/c236.0.608.608/25006216_297225004119213_5488723919433105408_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a578b3123e9bb7db23e97bbe5c3af557/5B74B40C/t51.2885-15/s320x320/e35/c236.0.608.608/25006216_297225004119213_5488723919433105408_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6c3fa46e0af9fd0606994ee27e0c6a6f/5B522625/t51.2885-15/s480x480/e35/c236.0.608.608/25006216_297225004119213_5488723919433105408_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/69aa9661a199b5ddab5d6ee0b803d6a9/5B6CB47E/t51.2885-15/e35/c236.0.608.608/25006216_297225004119213_5488723919433105408_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/69aa9661a199b5ddab5d6ee0b803d6a9/5B6CB47E/t51.2885-15/e35/c236.0.608.608/25006216_297225004119213_5488723919433105408_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/1e7326926854e9e95eb8e2cff1dd0f5d/5B5B8A17/t51.2885-15/e35/25006216_297225004119213_5488723919433105408_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 400,
+            "width": 320
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/bc9f6deefe23c76832c7c1d53d57cd0f/5B565F7A/t51.2885-15/e35/23416484_151915418754648_5810810732505202688_n.jpg",
+        "edge_media_preview_like": {
+            "count": 27
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Lest we forget! \nHeroes are not always the ones with only two feet. Sometimes the heroic acts are only a simple act of kindness.\n\nIn 1987, Berners in Canada were a rare sight. Dean and I were walking one of our Berners down Whyte Avenue in Edmonton. We strolled past an outdoor cafe and we heard \"a Sennenhund\" coming from one of the tables. Most people at the time could not identify a Bernese Mountain Dog let alone by their Swiss-German name. An elderly man and his daughter were sitting at the table, she asked if we could come over so her dad could see Cliff.\n\nI was concerned that Cliff would be a bit too rambunctious for the elderly man but we brought him over. The man slowly reached down and wrapped his arms around Cliff's neck and buried his face in his coat. After hugging Cliff for a unusually long time, the gentleman sat back up with tears streaming down his face.\n\nOnce he regained his composure, he retold the stories of his wartime experiences.\n\nHis platoon in Europe used dogs to transport ammunition, food and medical supplies. Several of those dogs were Bernese Mountain Dogs.\n\nHe had lots of stories of his fellow soldiers and the dogs that served alongside. But the one story that stood out the most was that the only times he remembered being warm enough to sleep was when one of the Berners would sleep with him. Safe and warm, even during the horrors of war.\n\nHe held on to this love and gratitude to the Bernese Mountain Dog for all those years.\n\npictured Berners serving with the French Foreign Legion"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1645264910798963516",
+        "image_contents": [
+            "park bench",
+            "bannister, banister, balustrade, balusters, handrail",
+            "picket fence, paling",
+            "bobsled, bobsleigh, bob",
+            "pier"
+        ],
+        "image_scores": [
+            0.12893,
+            0.08969,
+            0.06576,
+            0.04097,
+            0.03027
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BbVJ7gplkM8",
+        "tags": [],
+        "taken_at_timestamp": 1510350882,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/02a58d025a34215efadf3ef61921beb0/5B74E3AB/t51.2885-15/s150x150/e35/c0.40.320.320/23416484_151915418754648_5810810732505202688_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/02ce2d58d103ae883d65a496b091ae0d/5B733920/t51.2885-15/s240x240/e35/c0.40.320.320/23416484_151915418754648_5810810732505202688_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b1a6fedca33b6b6f337403e23fa14de1/5B514AAF/t51.2885-15/e35/c0.40.320.320/23416484_151915418754648_5810810732505202688_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b1a6fedca33b6b6f337403e23fa14de1/5B514AAF/t51.2885-15/e35/c0.40.320.320/23416484_151915418754648_5810810732505202688_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b1a6fedca33b6b6f337403e23fa14de1/5B514AAF/t51.2885-15/e35/c0.40.320.320/23416484_151915418754648_5810810732505202688_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b1a6fedca33b6b6f337403e23fa14de1/5B514AAF/t51.2885-15/e35/c0.40.320.320/23416484_151915418754648_5810810732505202688_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/bc9f6deefe23c76832c7c1d53d57cd0f/5B565F7A/t51.2885-15/e35/23416484_151915418754648_5810810732505202688_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 320,
+            "width": 320
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0a232d2bcab95c947412b6159362dfab/5B750A27/t51.2885-15/e35/22280449_324468017963111_7636139681180024832_n.jpg",
+        "edge_media_preview_like": {
+            "count": 18
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Once again it is our pleasure to forward a copy of our quarterly HACCP Canada inspection certification.  HACCP is an international human food safety standard.\n\nMountain Dog is dedicated to providing an affordable, quality raw food, manufactured to the highest food safety standards.  Pet food that is safe for your pet and your family\n\nhttp://mountaindogfood.com/blog/2017/10/06/2017-q3-haccp-canada-certification/. #mountaindogfood #foodsafety #rawfood #dog #dogsofinstagram #dogfood #dogfoodie #haccpcertified #haccp #betterlife"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 4
+        },
+        "id": "1619833919460765946",
+        "image_contents": [
+            "web site, website, internet site, site",
+            "menu",
+            "book jacket, dust cover, dust jacket, dust wrapper",
+            "binder, ring-binder",
+            "envelope"
+        ],
+        "image_scores": [
+            0.85309,
+            0.0609,
+            0.0034,
+            0.00148,
+            0.00106
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BZ6zl4UlnD6",
+        "tags": [
+            "betterlife",
+            "haccp",
+            "dogsofinstagram",
+            "dogfood",
+            "dog",
+            "haccpcertified",
+            "rawfood",
+            "mountaindogfood",
+            "foodsafety",
+            "dogfoodie"
+        ],
+        "taken_at_timestamp": 1507319272,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e8f59f1802b3c7112c723e28549f22f1/5B6E8842/t51.2885-15/s150x150/e35/22280449_324468017963111_7636139681180024832_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2524e91730dd4ffb9cc5de0d6d31723c/5B672A7D/t51.2885-15/s240x240/e35/22280449_324468017963111_7636139681180024832_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0a232d2bcab95c947412b6159362dfab/5B750A27/t51.2885-15/e35/22280449_324468017963111_7636139681180024832_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0a232d2bcab95c947412b6159362dfab/5B750A27/t51.2885-15/e35/22280449_324468017963111_7636139681180024832_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0a232d2bcab95c947412b6159362dfab/5B750A27/t51.2885-15/e35/22280449_324468017963111_7636139681180024832_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0a232d2bcab95c947412b6159362dfab/5B750A27/t51.2885-15/e35/22280449_324468017963111_7636139681180024832_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0a232d2bcab95c947412b6159362dfab/5B750A27/t51.2885-15/e35/22280449_324468017963111_7636139681180024832_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1075,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/03a002d518e108e23b5e7508355c8878/5B5BB8F6/t51.2885-15/e35/21480103_129262441036991_8315621821147774976_n.jpg",
+        "edge_media_preview_like": {
+            "count": 22
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tis the season for cuddles! #dogsofinstagram #dogs #cuddles #puppy #puppiesofinstagram"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1598112733362140451",
+        "image_contents": [
+            "kelpie",
+            "Siberian husky",
+            "Great Pyrenees",
+            "malamute, malemute, Alaskan malamute",
+            "collie"
+        ],
+        "image_scores": [
+            0.30029,
+            0.12684,
+            0.06075,
+            0.03392,
+            0.03189
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BYtoxBXFDUj",
+        "tags": [
+            "puppiesofinstagram",
+            "cuddles",
+            "dogsofinstagram",
+            "puppy",
+            "dogs"
+        ],
+        "taken_at_timestamp": 1504729905,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/91130aabb48a45af74b908c06ff465bc/5B557539/t51.2885-15/s150x150/e35/c2.0.1075.1075/21480103_129262441036991_8315621821147774976_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/110e87e97a246e33cdf720d2ff9133b7/5B6B0DAF/t51.2885-15/s240x240/e35/c2.0.1075.1075/21480103_129262441036991_8315621821147774976_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d93b7df2958e57ce6748b4f422aa5b36/5B69AF47/t51.2885-15/s320x320/e35/c2.0.1075.1075/21480103_129262441036991_8315621821147774976_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8c1e90972544a3548ba460a3181f5d4b/5B54D56E/t51.2885-15/s480x480/e35/c2.0.1075.1075/21480103_129262441036991_8315621821147774976_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/182e5db01b8be95f045f5f481b04314d/5B55D77A/t51.2885-15/s640x640/sh0.08/e35/c2.0.1075.1075/21480103_129262441036991_8315621821147774976_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/182e5db01b8be95f045f5f481b04314d/5B55D77A/t51.2885-15/s640x640/sh0.08/e35/c2.0.1075.1075/21480103_129262441036991_8315621821147774976_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/03a002d518e108e23b5e7508355c8878/5B5BB8F6/t51.2885-15/e35/21480103_129262441036991_8315621821147774976_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/fd3e96b57ed05417ee80920813e0c9b6/5B733DC6/t51.2885-15/e35/21147407_101056980628734_6775413404539551744_n.jpg",
+        "edge_media_preview_like": {
+            "count": 19
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Welcome Koda to the raw feeding family! \n#puppy #mountaindogfood #cute #rawfedpuppy"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "id": "1592167151095336546",
+        "image_contents": [
+            "toy terrier",
+            "papillon",
+            "Gordon setter",
+            "Chihuahua",
+            "miniature pinscher"
+        ],
+        "image_scores": [
+            0.2211,
+            0.07536,
+            0.04873,
+            0.04716,
+            0.03899
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BYYg5aYFU5i",
+        "tags": [
+            "rawfedpuppy",
+            "cute",
+            "puppy",
+            "mountaindogfood"
+        ],
+        "taken_at_timestamp": 1504021136,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/34e2d09a49f1aec40ca83acba5653a68/5B50C8A3/t51.2885-15/s150x150/e35/21147407_101056980628734_6775413404539551744_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6bc792de4e31f02b96d3b5e2c8e09765/5B504E9C/t51.2885-15/s240x240/e35/21147407_101056980628734_6775413404539551744_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c698534903dc11aab87515b8b024e501/5B6E0AE4/t51.2885-15/s320x320/e35/21147407_101056980628734_6775413404539551744_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/df96c02ac05cccb24bbf74c78b6d343c/5B4EAC62/t51.2885-15/s480x480/e35/21147407_101056980628734_6775413404539551744_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/83ec3a3fc5d7440f6ffbdd404e399807/5B5347A7/t51.2885-15/s640x640/sh0.08/e35/21147407_101056980628734_6775413404539551744_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/83ec3a3fc5d7440f6ffbdd404e399807/5B5347A7/t51.2885-15/s640x640/sh0.08/e35/21147407_101056980628734_6775413404539551744_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/fd3e96b57ed05417ee80920813e0c9b6/5B733DC6/t51.2885-15/e35/21147407_101056980628734_6775413404539551744_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/36ef0cb747adcc6e7ad15efa864e833d/5B62A34A/t51.2885-15/e35/21041764_115317119193027_7205259581268688896_n.jpg",
+        "edge_media_preview_like": {
+            "count": 15
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Happy Testimony Tuesday! We hope you Enjoy the Loewens story! Please Like and Share for your chance to be next months Inspiring story! Read it through the link! \nhttp://mountaindogfood.com/blog/2017/08/22/the-loewens-story-to-healthier-cleaner-dogs/\n\n#mountaindogfood #heinz57 #rawfeeding #story #makeimpact #inspire #lesspoop #rescues"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1587235166614929870",
+        "image_contents": [
+            "Rhodesian ridgeback",
+            "Border terrier",
+            "malinois",
+            "redbone",
+            "dingo, warrigal, warragal, Canis dingo"
+        ],
+        "image_scores": [
+            0.6655,
+            0.02857,
+            0.02809,
+            0.02692,
+            0.01725
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BYG_fl5F0HO",
+        "tags": [
+            "story",
+            "heinz57",
+            "makeimpact",
+            "rawfeeding",
+            "lesspoop",
+            "mountaindogfood",
+            "rescues",
+            "inspire"
+        ],
+        "taken_at_timestamp": 1503433198,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9c722cd85792febd6d8e8ea227075ac3/5B66D42F/t51.2885-15/s150x150/e35/21041764_115317119193027_7205259581268688896_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f4798b98d470f4fb13cd4f8031ef1416/5B694410/t51.2885-15/s240x240/e35/21041764_115317119193027_7205259581268688896_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/af1b4f9e545875000c97bee0419edf91/5B57ED68/t51.2885-15/s320x320/e35/21041764_115317119193027_7205259581268688896_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/3db6c5b184b4220ad7d8f070e5b9f493/5B66C7EE/t51.2885-15/s480x480/e35/21041764_115317119193027_7205259581268688896_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/379f376b807d0f86283ab80140c1b3b2/5B742C2B/t51.2885-15/s640x640/sh0.08/e35/21041764_115317119193027_7205259581268688896_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/379f376b807d0f86283ab80140c1b3b2/5B742C2B/t51.2885-15/s640x640/sh0.08/e35/21041764_115317119193027_7205259581268688896_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/36ef0cb747adcc6e7ad15efa864e833d/5B62A34A/t51.2885-15/e35/21041764_115317119193027_7205259581268688896_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphVideo",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ee8745719b4d6a2d938bcc44b60325d9/5ACE792E/t51.2885-15/e15/20837062_267245073773667_5537957967065776128_n.jpg",
+        "edge_media_preview_like": {
+            "count": 11
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Armani and Patch playing! Friends come in all shapes and sizes!  #mountaindogfood #dogsofinstgram #dogs #playing #dogplay #fun #doberman #jackrussell #inlove"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1582238350273944486",
+        "is_video": true,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BX1PWWCFBum",
+        "tags": [
+            "doberman",
+            "dogplay",
+            "jackrussell",
+            "dogs",
+            "dogsofinstgram",
+            "mountaindogfood",
+            "fun",
+            "playing",
+            "inlove"
+        ],
+        "taken_at_timestamp": 1502837531,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4cad31a12e540ee0b4b884358c6a0782/5ACE33CB/t51.2885-15/s150x150/e15/20837062_267245073773667_5537957967065776128_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4e6fd961a3f8feb55ef757b118602365/5ACE8CB4/t51.2885-15/s240x240/e15/20837062_267245073773667_5537957967065776128_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/19d06e402dee49bd77a27fc203f00e73/5ACE62CC/t51.2885-15/s320x320/e15/20837062_267245073773667_5537957967065776128_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/82ca30d21e0a49b5a1266de6a8a94098/5ACDFF8A/t51.2885-15/s480x480/e15/20837062_267245073773667_5537957967065776128_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e12357f0ebdfd28711271cb16cc79ce3/5ACE6A3A/t51.2885-15/s640x640/e15/20837062_267245073773667_5537957967065776128_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e12357f0ebdfd28711271cb16cc79ce3/5ACE6A3A/t51.2885-15/s640x640/e15/20837062_267245073773667_5537957967065776128_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d1e58756c458c83d817052d4ecba03cb/5ACDFE11/t50.2886-16/20873424_266113947227830_981049978711441408_n.mp4"
+        ],
+        "video_view_count": 0
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d266ca2816bf30ff18f051309fdc8928/5B5D62C5/t51.2885-15/e35/20766949_1495624183837781_1704820356851695616_n.jpg",
+        "edge_media_preview_like": {
+            "count": 33
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "#Repost @maver1ckthehusky (@get_repost)\n\u30fb\u30fb\u30fb\nMountain dog food. Where Natural Food Is Raw Food @mountaindogfood #rawfood #healthyfood #huskiesofinstagram #dogoftheday #dogsofinsta #dogsofinstgram"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1581520310318173017",
+        "image_contents": [
+            "malamute, malemute, Alaskan malamute",
+            "Siberian husky",
+            "Eskimo dog, husky",
+            "dogsled, dog sled, dog sleigh",
+            "timber wolf, grey wolf, gray wolf, Canis lupus"
+        ],
+        "image_scores": [
+            0.49523,
+            0.19072,
+            0.15718,
+            0.00902,
+            0.00141
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BXysFfNlItZ",
+        "tags": [
+            "healthyfood",
+            "dogsofinsta",
+            "rawfood",
+            "huskiesofinstagram",
+            "Repost",
+            "dogsofinstgram",
+            "dogoftheday"
+        ],
+        "taken_at_timestamp": 1502751934,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6eb4f9c244b2f78eeebf774935bfeb1a/5B647592/t51.2885-15/s150x150/e35/20766949_1495624183837781_1704820356851695616_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b62e801284a72a726ad03ec685d75a4f/5B65BA06/t51.2885-15/s240x240/e35/20766949_1495624183837781_1704820356851695616_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0601c609138294f0374884fc6a4034b2/5B5959A2/t51.2885-15/s320x320/e35/20766949_1495624183837781_1704820356851695616_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6ef37ec0880194a61bccd4045fc978e9/5B6059FA/t51.2885-15/s480x480/e35/20766949_1495624183837781_1704820356851695616_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b2de0e572e6fd20f15f4ef50ea638a0f/5B6F3AEF/t51.2885-15/s640x640/sh0.08/e35/20766949_1495624183837781_1704820356851695616_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b2de0e572e6fd20f15f4ef50ea638a0f/5B6F3AEF/t51.2885-15/s640x640/sh0.08/e35/20766949_1495624183837781_1704820356851695616_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d266ca2816bf30ff18f051309fdc8928/5B5D62C5/t51.2885-15/e35/20766949_1495624183837781_1704820356851695616_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 565,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4de2fdad369fc194e647b1af689b594d/5B6DF384/t51.2885-15/e35/20590047_107963003235054_4621358619785428992_n.jpg",
+        "edge_media_preview_like": {
+            "count": 19
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Can you spot Patch!? #cutedog #whereswaldo #ispy #jackrussell #dogs"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1573536453073767861",
+        "image_contents": [
+            "lakeside, lakeshore",
+            "boathouse",
+            "valley, vale",
+            "canoe",
+            "castle"
+        ],
+        "image_scores": [
+            0.89327,
+            0.01447,
+            0.00519,
+            0.00473,
+            0.00359
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BXWUxEulw21",
+        "tags": [
+            "whereswaldo",
+            "cutedog",
+            "ispy",
+            "jackrussell",
+            "dogs"
+        ],
+        "taken_at_timestamp": 1501800184,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/01cab65f120f06d9c50bff9564ba0320/5B73FA49/t51.2885-15/s150x150/e35/c257.0.565.565/20590047_107963003235054_4621358619785428992_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/aa429918590a3265f047d4409eca9bf9/5B5601DF/t51.2885-15/s240x240/e35/c257.0.565.565/20590047_107963003235054_4621358619785428992_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/84f99038ed5885e8f95e9fb5a6ea891a/5B503D37/t51.2885-15/s320x320/e35/c257.0.565.565/20590047_107963003235054_4621358619785428992_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9355c324634d886fa6256855b48632d9/5B558F1E/t51.2885-15/s480x480/e35/c257.0.565.565/20590047_107963003235054_4621358619785428992_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/79ca0067b1e8bfce1dc6bb70979eada2/5B74FE45/t51.2885-15/e35/c257.0.565.565/20590047_107963003235054_4621358619785428992_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/79ca0067b1e8bfce1dc6bb70979eada2/5B74FE45/t51.2885-15/e35/c257.0.565.565/20590047_107963003235054_4621358619785428992_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4de2fdad369fc194e647b1af689b594d/5B6DF384/t51.2885-15/e35/20590047_107963003235054_4621358619785428992_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 640,
+            "width": 640
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f1a49f61c311426a5d5ba7b8ad545cab/5B6E4B00/t51.2885-15/e35/20482135_1380970681998128_281521572810850304_n.jpg",
+        "edge_media_preview_like": {
+            "count": 8
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Happy \"Ruff\" Monday! Hope all your pets got a good snooze this morning. I know this little lab is all tucked in for a mid morning nap!\u00a0\u00a0#dogs\u00a0\u00a0#Tuckedin #cute #Puppy #Labs"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1571155773253491029",
+        "image_contents": [
+            "studio couch, day bed",
+            "quilt, comforter, comfort, puff",
+            "sleeping bag",
+            "kelpie",
+            "velvet"
+        ],
+        "image_scores": [
+            0.52991,
+            0.13697,
+            0.0364,
+            0.01184,
+            0.01143
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BXN3dn3lBlV",
+        "tags": [
+            "Labs",
+            "cute",
+            "Puppy",
+            "dogs",
+            "Tuckedin"
+        ],
+        "taken_at_timestamp": 1501516385,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/aa811ff0d51d6daf0d7821b65c671a0d/5B726365/t51.2885-15/s150x150/e35/20482135_1380970681998128_281521572810850304_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a935466e721eb4a9eb592a799b1e7556/5B663C5A/t51.2885-15/s240x240/e35/20482135_1380970681998128_281521572810850304_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/5cfa828361b867cad220b9177209278d/5B5C4522/t51.2885-15/s320x320/e35/20482135_1380970681998128_281521572810850304_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6746a00bc9ff1dc817f90e273b4721f4/5B6C11A4/t51.2885-15/s480x480/e35/20482135_1380970681998128_281521572810850304_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f1a49f61c311426a5d5ba7b8ad545cab/5B6E4B00/t51.2885-15/e35/20482135_1380970681998128_281521572810850304_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f1a49f61c311426a5d5ba7b8ad545cab/5B6E4B00/t51.2885-15/e35/20482135_1380970681998128_281521572810850304_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f1a49f61c311426a5d5ba7b8ad545cab/5B6E4B00/t51.2885-15/e35/20482135_1380970681998128_281521572810850304_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 320,
+            "width": 320
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/71f1cd5f61290c1b5315d2b67ab96b95/5B6A192D/t51.2885-15/e35/20347379_258475464647865_3054719004502392832_n.jpg",
+        "edge_media_preview_like": {
+            "count": 15
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Happy Friday! It's the weekend! \nTime for some adventure! #adventure #weekends #bernesemountaindog #walk #sunnyday"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1569134843450886074",
+        "image_contents": [
+            "Bernese mountain dog",
+            "Appenzeller",
+            "EntleBucher",
+            "Greater Swiss Mountain dog",
+            "Border collie"
+        ],
+        "image_scores": [
+            0.92868,
+            0.00674,
+            0.0046,
+            0.00208,
+            0.0019
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BXGr9OUlAe6",
+        "tags": [
+            "sunnyday",
+            "weekends",
+            "walk",
+            "adventure",
+            "bernesemountaindog"
+        ],
+        "taken_at_timestamp": 1501275471,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/34a804a2fe3668d5ee9c695c6a4029cf/5B5D4448/t51.2885-15/s150x150/e35/20347379_258475464647865_3054719004502392832_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ebb1727d656fbebb2b5b283fec2f2156/5B53B677/t51.2885-15/s240x240/e35/20347379_258475464647865_3054719004502392832_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/71f1cd5f61290c1b5315d2b67ab96b95/5B6A192D/t51.2885-15/e35/20347379_258475464647865_3054719004502392832_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/71f1cd5f61290c1b5315d2b67ab96b95/5B6A192D/t51.2885-15/e35/20347379_258475464647865_3054719004502392832_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/71f1cd5f61290c1b5315d2b67ab96b95/5B6A192D/t51.2885-15/e35/20347379_258475464647865_3054719004502392832_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/71f1cd5f61290c1b5315d2b67ab96b95/5B6A192D/t51.2885-15/e35/20347379_258475464647865_3054719004502392832_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/71f1cd5f61290c1b5315d2b67ab96b95/5B6A192D/t51.2885-15/e35/20347379_258475464647865_3054719004502392832_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 640,
+            "width": 640
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0c50f1ad3e2865482f6328b639119910/5B62DEAE/t51.2885-15/e35/20393590_145722769341074_7480961056781631488_n.jpg",
+        "edge_media_preview_like": {
+            "count": 5
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Kelp! its one of the most suggested supplements for you and your dog! why for our dog? read here - http://ow.ly/ndVy30dYlk8\n#Kelp #Goldens"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1568484019976588688",
+        "image_contents": [
+            "feather boa, boa",
+            "wreck",
+            "scuba diver",
+            "corkscrew, bottle screw",
+            "spotlight, spot"
+        ],
+        "image_scores": [
+            0.96627,
+            0.00658,
+            0.00633,
+            0.00437,
+            0.00114
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BXEX-fulM2Q",
+        "tags": [
+            "Goldens",
+            "Kelp"
+        ],
+        "taken_at_timestamp": 1501197887,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c2af4ad2f0b37ed73c6d485d66a1b4d2/5B5E52CB/t51.2885-15/s150x150/e35/20393590_145722769341074_7480961056781631488_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/33d64d65ba6eaaa0b6ea1f4f94dd1514/5B72DDF4/t51.2885-15/s240x240/e35/20393590_145722769341074_7480961056781631488_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/90ef94bf91a38585992ed8ca9529203c/5B52078C/t51.2885-15/s320x320/e35/20393590_145722769341074_7480961056781631488_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/686c917892ce6322a1bc9dc63c44bbff/5B62D20A/t51.2885-15/s480x480/e35/20393590_145722769341074_7480961056781631488_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0c50f1ad3e2865482f6328b639119910/5B62DEAE/t51.2885-15/e35/20393590_145722769341074_7480961056781631488_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0c50f1ad3e2865482f6328b639119910/5B62DEAE/t51.2885-15/e35/20393590_145722769341074_7480961056781631488_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0c50f1ad3e2865482f6328b639119910/5B62DEAE/t51.2885-15/e35/20393590_145722769341074_7480961056781631488_n.jpg",
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/5dd54a57cd9c34eeb8569db87b897614/5B545B43/t51.2885-15/e35/20393801_117356018905564_7830006636541378560_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c1a3de98b862be9a5369ea9faf9374ce/5B53426E/t51.2885-15/e35/20347022_127055961240662_5532745818093649920_n.jpg",
+        "edge_media_preview_like": {
+            "count": 8
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "The Flying Furballs! Flying of the docks this July! Way to go Luke and Kathy! #dockdogs #rawfeddogs #flying"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1567661498280835229",
+        "image_contents": [
+            "binder, ring-binder",
+            "shopping cart",
+            "swab, swob, mop",
+            "bathing cap, swimming cap",
+            "grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus"
+        ],
+        "image_scores": [
+            0.04011,
+            0.03654,
+            0.03475,
+            0.02862,
+            0.02233
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BXBc9OtFfid",
+        "tags": [
+            "rawfeddogs",
+            "flying",
+            "dockdogs"
+        ],
+        "taken_at_timestamp": 1501099835,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/ca13bb8ac217e9cd0cf7a4c120655ec5/5B60FE0B/t51.2885-15/s150x150/e35/20347022_127055961240662_5532745818093649920_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/f43a493c2f0ce1ea0f4c1bf0d5fe2632/5B704D34/t51.2885-15/s240x240/e35/20347022_127055961240662_5532745818093649920_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d77f14660b6fd32801b01f65a8d34a48/5B59324C/t51.2885-15/s320x320/e35/20347022_127055961240662_5532745818093649920_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/84297c587e2b01c5eb7be6379e768d65/5B6042CA/t51.2885-15/s480x480/e35/20347022_127055961240662_5532745818093649920_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/72a01947777c5d06af26e2eba0d1fc97/5B69EB0F/t51.2885-15/s640x640/sh0.08/e35/20347022_127055961240662_5532745818093649920_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/72a01947777c5d06af26e2eba0d1fc97/5B69EB0F/t51.2885-15/s640x640/sh0.08/e35/20347022_127055961240662_5532745818093649920_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/c1a3de98b862be9a5369ea9faf9374ce/5B53426E/t51.2885-15/e35/20347022_127055961240662_5532745818093649920_n.jpg",
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a1c761c01f03eba9dc49e254bddf0291/5B5AB585/t51.2885-15/e35/20225659_1898580690383474_1727583112289845248_n.jpg",
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4568fb0ad77f2836297958addd0f1452/5B501104/t51.2885-15/e35/20347442_954784107995303_7805745779330514944_n.jpg",
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/bfbe848b087f76ca33d82ed3f86b37d6/5B5DDE8B/t51.2885-15/e35/20393949_1399901566754325_6030758357080473600_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/32a54bdedb0688899225d495f9f0bc87/5B524279/t51.2885-15/e35/20394359_339282049836959_3326146996145750016_n.jpg",
+        "edge_media_preview_like": {
+            "count": 4
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Happy Tuesday! Read about how Lulu was renewed by switching to raw! Thank you Julee Enman for Sharing your story! Read it here - http://ow.ly/Yz0u30dUd8Z \n#mountaindogfood #inspired #love #puppylove #petstagram #beforeandafter #rawdogfood"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1566885372826555442",
+        "image_contents": [
+            "pug, pug-dog",
+            "French bulldog",
+            "bull mastiff",
+            "Boston bull, Boston terrier",
+            "Staffordshire bullterrier, Staffordshire bull terrier"
+        ],
+        "image_scores": [
+            0.64355,
+            0.27405,
+            0.034,
+            0.00768,
+            0.00387
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BW-sfHjFRQy",
+        "tags": [
+            "petstagram",
+            "love",
+            "inspired",
+            "beforeandafter",
+            "rawdogfood",
+            "mountaindogfood",
+            "puppylove"
+        ],
+        "taken_at_timestamp": 1501007313,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8088ce1544137818042c9d97a8e73c04/5B50B807/t51.2885-15/s150x150/e35/c0.100.800.800/20394359_339282049836959_3326146996145750016_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/385a8aa5a9952e3db1a46355e3305c73/5B540391/t51.2885-15/s240x240/e35/c0.100.800.800/20394359_339282049836959_3326146996145750016_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6f3cbe7b09f538d199190e87f233f824/5B5A5079/t51.2885-15/s320x320/e35/c0.100.800.800/20394359_339282049836959_3326146996145750016_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d98767682859ec60a8d321fecbe26983/5B6E9B50/t51.2885-15/s480x480/e35/c0.100.800.800/20394359_339282049836959_3326146996145750016_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a61c5ae42e14564b158158468735d2f4/5B667344/t51.2885-15/s640x640/sh0.08/e35/c0.100.800.800/20394359_339282049836959_3326146996145750016_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/a61c5ae42e14564b158158468735d2f4/5B667344/t51.2885-15/s640x640/sh0.08/e35/c0.100.800.800/20394359_339282049836959_3326146996145750016_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/32a54bdedb0688899225d495f9f0bc87/5B524279/t51.2885-15/e35/20394359_339282049836959_3326146996145750016_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 609,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b65674d8c4811b47779f3c45bfb1e5fa/5B6F70A9/t51.2885-15/e35/20347346_257349841420199_2704274025613361152_n.jpg",
+        "edge_media_preview_like": {
+            "count": 19
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "#Repost @adventuresofmaverickandgoose (@get_repost)\n\u30fb\u30fb\u30fb\nOh my goodness, look what just got delivered! Wait, what is it, mom?\n\n#mountaindogfood #nupetfood #NaturallyUrban #petfooddelivery #rawfood #petfooled #rawdogfood #rawdietfordogs #rawfeddog #rawfeedingcommunity #rawfeeder #rawfeedersofinstagram #beagles #beaglesofinstagram"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1566840929444442528",
+        "image_contents": [
+            "basset, basset hound",
+            "Walker hound, Walker foxhound",
+            "beagle",
+            "bloodhound, sleuthhound",
+            "English foxhound"
+        ],
+        "image_scores": [
+            0.49578,
+            0.09242,
+            0.05073,
+            0.04787,
+            0.03456
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BW-iYYbFDGg",
+        "tags": [
+            "beaglesofinstagram",
+            "beagles",
+            "rawfeeder",
+            "petfooled",
+            "rawfeddog",
+            "rawfeedersofinstagram",
+            "rawdogfood",
+            "rawfood",
+            "mountaindogfood",
+            "petfooddelivery",
+            "rawfeedingcommunity",
+            "nupetfood",
+            "NaturallyUrban",
+            "rawdietfordogs",
+            "Repost"
+        ],
+        "taken_at_timestamp": 1501002015,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/dc58a1ff315ccb67519b40a36089b9b8/5B7068C7/t51.2885-15/s150x150/e35/c235.0.609.609/20347346_257349841420199_2704274025613361152_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/0e40cb10438c3c0f5f7b2baa377e62b7/5B6CF251/t51.2885-15/s240x240/e35/c235.0.609.609/20347346_257349841420199_2704274025613361152_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/bf18e4f695074a2408423e9251b9f80d/5B5F9BB9/t51.2885-15/s320x320/e35/c235.0.609.609/20347346_257349841420199_2704274025613361152_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2db14c7d81cd57738f433cef96dc782f/5B524E90/t51.2885-15/s480x480/e35/c235.0.609.609/20347346_257349841420199_2704274025613361152_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/db7c51c262818ae8715bbd8ce49d458b/5B56C0CB/t51.2885-15/e35/c235.0.609.609/20347346_257349841420199_2704274025613361152_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/db7c51c262818ae8715bbd8ce49d458b/5B56C0CB/t51.2885-15/e35/c235.0.609.609/20347346_257349841420199_2704274025613361152_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/b65674d8c4811b47779f3c45bfb1e5fa/5B6F70A9/t51.2885-15/e35/20347346_257349841420199_2704274025613361152_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/dad26d80c39ee9e2b7a3e7e5ba5d7bc0/5B52E8DC/t51.2885-15/e35/20347304_243563116163035_2569221497704939520_n.jpg",
+        "edge_media_preview_like": {
+            "count": 15
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Don't you just love it when your dog has Friends:) #bffl #mountaindogfood #doggielove #dog"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1566197981447045826",
+        "image_contents": [
+            "Bernese mountain dog",
+            "Appenzeller",
+            "Greater Swiss Mountain dog",
+            "EntleBucher",
+            "boxer"
+        ],
+        "image_scores": [
+            0.80454,
+            0.05685,
+            0.02105,
+            0.01534,
+            0.00354
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BW8QMQcFcLC",
+        "tags": [
+            "doggielove",
+            "bffl",
+            "dog",
+            "mountaindogfood"
+        ],
+        "taken_at_timestamp": 1500925370,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/1d75744222df8f873bcc3ff47c2b8c53/5B6C4FB9/t51.2885-15/s150x150/e35/20347304_243563116163035_2569221497704939520_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/8f7c5bd2d42e0f92b7e60713a86ed641/5B612386/t51.2885-15/s240x240/e35/20347304_243563116163035_2569221497704939520_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/d561f88d3d6235ff9342aef46b0b001e/5B6194FE/t51.2885-15/s320x320/e35/20347304_243563116163035_2569221497704939520_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/13e3c8c2abcfab921418c78a750204bc/5B5E0D78/t51.2885-15/s480x480/e35/20347304_243563116163035_2569221497704939520_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9a4d578838374959c003c12f203f6765/5B612CBD/t51.2885-15/s640x640/sh0.08/e35/20347304_243563116163035_2569221497704939520_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9a4d578838374959c003c12f203f6765/5B612CBD/t51.2885-15/s640x640/sh0.08/e35/20347304_243563116163035_2569221497704939520_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/dad26d80c39ee9e2b7a3e7e5ba5d7bc0/5B52E8DC/t51.2885-15/e35/20347304_243563116163035_2569221497704939520_n.jpg",
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2d6805c978db7293f1b940ef58513593/5B7608CB/t51.2885-15/e35/20394465_1783562151673873_324720383938789376_n.jpg",
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/af30c3641d1b8699f9206b5f9a353943/5B4FD01C/t51.2885-15/e35/20347673_1716727635289107_5148147482605125632_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 640,
+            "width": 640
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/80572d2658368b510e429197cf5c24f0/5B6667ED/t51.2885-15/e35/19379803_140060609881641_4507290730854612992_n.jpg",
+        "edge_media_preview_like": {
+            "count": 14
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Punk is This Months Wacky PUP! Thank you, Alice Dymond, for Sharing Punks Picture with us! #mountaindogfood #WackyWednesday #Dogs #Funny"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1541472370824599546",
+        "image_contents": [
+            "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+            "Staffordshire bullterrier, Staffordshire bull terrier",
+            "bull mastiff",
+            "Great Dane",
+            "Weimaraner"
+        ],
+        "image_scores": [
+            0.94645,
+            0.00532,
+            0.00188,
+            0.00154,
+            0.00125
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BVkaPRGFFf6",
+        "tags": [
+            "Funny",
+            "Dogs",
+            "mountaindogfood",
+            "WackyWednesday"
+        ],
+        "taken_at_timestamp": 1497977847,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/44344a94d403b0c6e70ac86db74173d4/5B5A9288/t51.2885-15/s150x150/e35/19379803_140060609881641_4507290730854612992_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/3b8c60a6810867248afb9b878a5a84ec/5B4EE4B7/t51.2885-15/s240x240/e35/19379803_140060609881641_4507290730854612992_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/270d9c3f5339d0b6a7fe1785a62c5fad/5B5067CF/t51.2885-15/s320x320/e35/19379803_140060609881641_4507290730854612992_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/2350176c4c9f9e2101dd0cf03f92170f/5B51B949/t51.2885-15/s480x480/e35/19379803_140060609881641_4507290730854612992_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/80572d2658368b510e429197cf5c24f0/5B6667ED/t51.2885-15/e35/19379803_140060609881641_4507290730854612992_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/80572d2658368b510e429197cf5c24f0/5B6667ED/t51.2885-15/e35/19379803_140060609881641_4507290730854612992_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/80572d2658368b510e429197cf5c24f0/5B6667ED/t51.2885-15/e35/19379803_140060609881641_4507290730854612992_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 640,
+            "width": 640
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9c7a84fb7e996357e2e30a01bf0ad035/5B72CD5D/t51.2885-15/e35/19227861_310155616101468_5700708996764139520_n.jpg",
+        "edge_media_preview_like": {
+            "count": 9
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Dandelions! We spray, pick, mow over, and try our darnedest to get rid of em! But your pets Gut Loves them! Learn why here - http://ow.ly/zgHV30cII0s\n#mountaindogfood #dogs #cats #herbs"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1540834710150157318",
+        "image_contents": [
+            "web site, website, internet site, site",
+            "rapeseed",
+            "groenendael",
+            "Appenzeller",
+            "hare"
+        ],
+        "image_scores": [
+            0.32314,
+            0.03245,
+            0.01601,
+            0.01548,
+            0.01327
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BViJQFUF5QG",
+        "tags": [
+            "herbs",
+            "cats",
+            "dogs",
+            "mountaindogfood"
+        ],
+        "taken_at_timestamp": 1497901832,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/107deaf18b4013f8ca4480cd4c2a7c23/5B6CF038/t51.2885-15/s150x150/e35/19227861_310155616101468_5700708996764139520_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/cda37a8be723fe916d27d5811a54ffb2/5B68C607/t51.2885-15/s240x240/e35/19227861_310155616101468_5700708996764139520_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/fb64a7369877baab88ee65e7f8eb0603/5B66B77F/t51.2885-15/s320x320/e35/19227861_310155616101468_5700708996764139520_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/6dbe2ad9f10098a602f83ada2c262563/5B6230F9/t51.2885-15/s480x480/e35/19227861_310155616101468_5700708996764139520_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9c7a84fb7e996357e2e30a01bf0ad035/5B72CD5D/t51.2885-15/e35/19227861_310155616101468_5700708996764139520_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9c7a84fb7e996357e2e30a01bf0ad035/5B72CD5D/t51.2885-15/e35/19227861_310155616101468_5700708996764139520_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9c7a84fb7e996357e2e30a01bf0ad035/5B72CD5D/t51.2885-15/e35/19227861_310155616101468_5700708996764139520_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 480,
+            "width": 480
+        },
+        "display_url": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7d9089826520617c02840803d519fdc5/5B662A97/t51.2885-15/e35/19228025_254025911746491_3227905529124749312_n.jpg",
+        "edge_media_preview_like": {
+            "count": 9
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Congratulations to Audrey and Howard Roh from Global Pet Food - Upper James .... they won the draw for the TV at the Leis Open House. #Mountaindogfood #GlobalPetFoods #TV http://ow.ly/5Lee30cEt2C"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1538533439233757682",
+        "image_contents": [
+            "toyshop",
+            "grocery store, grocery, food market, market",
+            "tobacco shop, tobacconist shop, tobacconist",
+            "confectionery, confectionary, candy store",
+            "vending machine"
+        ],
+        "image_scores": [
+            0.27093,
+            0.07853,
+            0.07295,
+            0.05807,
+            0.04178
+        ],
+        "is_video": false,
+        "owner": {
+            "id": "4244923520"
+        },
+        "shortcode": "BVZ-ALwlpHy",
+        "tags": [
+            "TV",
+            "GlobalPetFoods",
+            "Mountaindogfood"
+        ],
+        "taken_at_timestamp": 1497627499,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/e3c53de0ca7ded1badee57c7673b13cb/5B6112F2/t51.2885-15/s150x150/e35/19228025_254025911746491_3227905529124749312_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/9fbba73d19508b5175102a9e9ef18c3d/5B4FC5CD/t51.2885-15/s240x240/e35/19228025_254025911746491_3227905529124749312_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/4e1fdb78f5523efc5afd9ce7eea689bb/5B4F57B5/t51.2885-15/s320x320/e35/19228025_254025911746491_3227905529124749312_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7d9089826520617c02840803d519fdc5/5B662A97/t51.2885-15/e35/19228025_254025911746491_3227905529124749312_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7d9089826520617c02840803d519fdc5/5B662A97/t51.2885-15/e35/19228025_254025911746491_3227905529124749312_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7d9089826520617c02840803d519fdc5/5B662A97/t51.2885-15/e35/19228025_254025911746491_3227905529124749312_n.jpg",
+        "urls": [
+            "https://instagram.fyvr4-1.fna.fbcdn.net/vp/7d9089826520617c02840803d519fdc5/5B662A97/t51.2885-15/e35/19228025_254025911746491_3227905529124749312_n.jpg"
+        ]
+    }
+]
