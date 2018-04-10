@@ -26,7 +26,6 @@ for username in instagram_users:
             # for j in range(0, len(metadata[i]['tags'])):
             #     user_str += ' ' + metadata[i]['tags'][j]
 
-
     global_str.append(user_str)
     user_str = ''
 
@@ -38,9 +37,8 @@ X = vectorizer.fit_transform(global_str)
 neigh = NearestNeighbors(n_neighbors=5)
 neigh.fit(X)
 
-
 # Specify target brand profile position in 'instagram_user' list
-target = 22
+target = 18
 X_tilde = X[target]
 print('Target profile is:')
 print(instagram_users[target])
@@ -54,9 +52,13 @@ for j in range(1, len(neighbors)):
 # Truncated SVD analysis to visualize user distance in 2D
 X_lowdim = MDS(n_components=2).fit_transform(X.toarray())
 ax = plt.gca()
-ax.scatter(X_lowdim[0:5, 0], X_lowdim[0:5, 1])
-ax.scatter(X_lowdim[5:10, 0], X_lowdim[5:10, 1])
-ax.scatter(X_lowdim[10:15, 0], X_lowdim[10:15, 1])
-ax.scatter(X_lowdim[19:24, 0], X_lowdim[19:24, 1])
-ax.scatter(X_lowdim[24:29, 0], X_lowdim[24:29, 1])
+c1 = ax.scatter(X_lowdim[0:5, 0], X_lowdim[0:5, 1], label='dogs')
+c2 = ax.scatter(X_lowdim[5:10, 0], X_lowdim[5:10, 1], label='mountains')
+c3 = ax.scatter(X_lowdim[10:15, 0], X_lowdim[10:15, 1], label='pizza')
+c4 = ax.scatter(X_lowdim[19:24, 0], X_lowdim[19:24, 1], label='cats')
+c5 = ax.scatter(X_lowdim[24:29, 0], X_lowdim[24:29, 1], label='cars')
+c6 = ax.scatter(X_lowdim[target, 0], X_lowdim[target, 1], label='target', marker='*', color='y')
+plt.legend(handles=[c1, c2, c3, c4, c5, c6])
 plt.show()
+
+
