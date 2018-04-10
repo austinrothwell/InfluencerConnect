@@ -59,6 +59,8 @@ c4 = ax.scatter(X_lowdim[19:24, 0], X_lowdim[19:24, 1], label='cats')
 c5 = ax.scatter(X_lowdim[24:29, 0], X_lowdim[24:29, 1], label='cars')
 c6 = ax.scatter(X_lowdim[target, 0], X_lowdim[target, 1], label='target', marker='*', color='y')
 plt.legend(handles=[c1, c2, c3, c4, c5, c6])
+plt.title('Target brand profile: ' + instagram_users[target])
 plt.show()
+
 
 
