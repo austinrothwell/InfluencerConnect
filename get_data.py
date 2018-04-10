@@ -19,7 +19,7 @@ for username in instagram_users:
 
         # Scrape Instagram profile for n_images most recent posts and collect metadata
         os.system('instagram-scraper ' + username + ' --maximum ' + str(n_posts) +
-                  ' -u austinrothwell -p ------ --media-metadata --destination ./users/' + username)
+                  ' -u austinrothwell -p ------- --media-metadata --destination ./users/' + username)
 
         # Directory that user images are saved in
         images_directory = './users/' + username + '/'
