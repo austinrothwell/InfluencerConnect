@@ -38,7 +38,7 @@ neigh = NearestNeighbors(n_neighbors=5)
 neigh.fit(X)
 
 # Specify target brand profile position in 'instagram_user' list
-target = 25
+target = 30
 X_tilde = X[target]
 print('Target profile is:')
 print(instagram_users[target])
@@ -57,12 +57,13 @@ c2 = ax.scatter(X_lowdim[5:10, 0], X_lowdim[5:10, 1], label='mountains')
 c3 = ax.scatter(X_lowdim[10:15, 0], X_lowdim[10:15, 1], label='pizza')
 c4 = ax.scatter(X_lowdim[15:20, 0], X_lowdim[15:20, 1], label='cats')
 c5 = ax.scatter(X_lowdim[20:25, 0], X_lowdim[20:25, 1], label='cars')
-c6 = ax.scatter(X_lowdim[target, 0], X_lowdim[target, 1], label='target', marker='*', color='y')
-plt.legend(handles=[c1, c2, c3, c4, c5, c6])
+c6 = ax.scatter(X_lowdim[25:30, 0], X_lowdim[25:30, 1], label='planes')
+c7 = ax.scatter(X_lowdim[target, 0], X_lowdim[target, 1], label='target', marker='*', color='y')
+plt.legend(handles=[c1, c2, c3, c4, c5, c6, c7])
 plt.title('Target brand profile: ' + instagram_users[target])
 
 # Annotate data points
-for i in range(0, 25):
+for i in range(0, 30):
     plt.annotate(instagram_users[i], xy=(X_lowdim[i, 0], X_lowdim[i, 1]))
 
 plt.show()
