@@ -19,7 +19,8 @@ for username in instagram_users:
     metadata = json.load(open(metadata_directory + username + '.json'))
 
     for i in range(1, len(metadata)):
-        if not metadata[i]['is_video']:
+        #if not metadata[i]['is_video']:
+        if metadata[i].get('image_contents'):
             user_str += ' ' + metadata[i]['image_contents'][0]
             user_str += ' ' + metadata[i]['image_contents'][1]
             user_str += ' ' + metadata[i]['image_contents'][2]
@@ -38,7 +39,16 @@ neigh = NearestNeighbors(n_neighbors=5)
 neigh.fit(X)
 
 # Specify target brand profile position in 'instagram_user' list
-target = 30
+#target = 0 # test dogsofinstagram
+#target = 4  # test doglovers
+#target = 5 # test thesiberianhuskydiaries
+#target = 33 # test giordanospizza
+#target = 34  # test dominos
+#target = 35  #pizzahut
+target = 11  #piazza
+#target = 37 # test tryitordiet
+
+
 X_tilde = X[target]
 print('Target profile is:')
 print(instagram_users[target])
@@ -52,19 +62,31 @@ for j in range(1, len(neighbors)):
 # Multi-dimensional Scaling (MDS) to visualize user distance in 2D
 X_lowdim = MDS(n_components=2).fit_transform(X.toarray())
 ax = plt.gca()
-c1 = ax.scatter(X_lowdim[0:5, 0], X_lowdim[0:5, 1], label='dogs')
-c2 = ax.scatter(X_lowdim[5:10, 0], X_lowdim[5:10, 1], label='mountains')
-c3 = ax.scatter(X_lowdim[10:15, 0], X_lowdim[10:15, 1], label='pizza')
-c4 = ax.scatter(X_lowdim[15:20, 0], X_lowdim[15:20, 1], label='cats')
-c5 = ax.scatter(X_lowdim[20:25, 0], X_lowdim[20:25, 1], label='cars')
-c6 = ax.scatter(X_lowdim[25:30, 0], X_lowdim[25:30, 1], label='planes')
-c7 = ax.scatter(X_lowdim[target, 0], X_lowdim[target, 1], label='target', marker='*', color='y')
-plt.legend(handles=[c1, c2, c3, c4, c5, c6, c7])
+c1 = ax.scatter(X_lowdim[0:6, 0], X_lowdim[0:6, 1], label='dogs')
+c2 = ax.scatter(X_lowdim[6:11, 0], X_lowdim[6:11, 1], label='mountains')
+c3 = ax.scatter(X_lowdim[11:16, 0], X_lowdim[11:16, 1], label='pizza')
+c4 = ax.scatter(X_lowdim[16:21, 0], X_lowdim[16:21, 1], label='cats')
+c5 = ax.scatter(X_lowdim[21:26, 0], X_lowdim[21:26, 1], label='cars')
+c6 = ax.scatter(X_lowdim[26:31, 0], X_lowdim[26:31, 1], label='planes')
+c7 = ax.scatter(X_lowdim[31:33, 0], X_lowdim[31:33, 1], label='mountains2')
+c8 = ax.scatter(X_lowdim[33:36, 0], X_lowdim[33:36, 1], label='sub-pizzas')
+c9 = ax.scatter(X_lowdim[36:38, 0], X_lowdim[36:38, 1], label='hotdog')
+c10 = ax.scatter(X_lowdim[38:42, 0], X_lowdim[38:42, 1], label='food')
+c11 = ax.scatter(X_lowdim[target, 0], X_lowdim[target, 1], label='target', marker='*', color='y')
+
+
+plt.legend(handles=[c1, c2, c3, c4, c5, c6, c7, c8, c9, c10])
 plt.title('Target brand profile: ' + instagram_users[target])
 
 # Annotate data points
-for i in range(0, 30):
+for i in range(0, 41):
     plt.annotate(instagram_users[i], xy=(X_lowdim[i, 0], X_lowdim[i, 1]))
+
+# set the size of the figure
+F = plt.gcf()
+DefaultSize = F.get_size_inches()
+F.set_size_inches((DefaultSize[0]*2, DefaultSize[1]*2))
+
 
 plt.show()
 
