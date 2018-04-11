@@ -19,7 +19,7 @@ for username in instagram_users:
 
         # Scrape Instagram profile for n_images most recent posts and collect metadata
         os.system('instagram-scraper ' + username + ' --maximum ' + str(n_posts) +
-                  ' -u austinrothwell -p ------ --media-metadata --destination ./users/' + username)
+                  ' -u austinrothwell -p ------- --media-metadata --destination ./users/' + username)
 
         # Directory that user images are saved in
         images_directory = './users/' + username + '/'
@@ -28,6 +28,12 @@ for username in instagram_users:
         metadata = json.load(open(images_directory + username + '.json'))
         os.system('rm ' + images_directory + '*.mp4')
         [metadata.remove(post) for post in metadata if post['is_video']]
+
+        # check if the total count of the instagram users is less than 50
+        count = len(metadata)  # type: int
+
+        if n_images > count:
+            n_images = count
 
         metadata = metadata[0:n_images]  # Trim metadata to size of n_images
 
